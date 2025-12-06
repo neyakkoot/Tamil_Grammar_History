@@ -2,7 +2,7 @@
   {
     "category": "தமிழ்த் தகுதித் தேர்வு (TET)",
     "quizzes": [
-      { "file": "TET_LAW College_TRB_2025.json", "title": "சட்டக் கல்லூரி_தமிழ்த் தகுதித் தேர்வு_2025" },
+      { "file": "TamilGrammar_1.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" },
       { "file": "TET_PGTRB_2025.json", "title": "TET_PGTRB_2025" },
       { "file": "TET Previous Year Question Paper 01.json", "title": "தமிழ்த் தகுதித் தேர்வு" }
     ]
