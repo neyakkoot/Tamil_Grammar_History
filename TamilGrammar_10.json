@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "வீரசோழியம் என்ற இலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "வீரசோழியம் எனும் ஐந்திலக்கண நூலை இயற்றியவர் புத்தமித்திரர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐயன் ஆரிதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரிலேயே 'புத்தர்' உள்ளது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "வீரசோழியம் எக்காலத்தில் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 11ஆம் நூற்றாண்டு",
+        "rationale": "வீரராசேந்திர சோழன் காலம் (கி.பி. 1063-1070).",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 2ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 13ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 3ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சோழர் காலத்தின் பிற்பகுதி."
+  },
+  {
+    "questionNumber": 3,
+    "question": "வீரசோழியம் எம்மதத்தைச் சார்ந்த நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "புத்தமித்திரர் ஒரு பௌத்தத் துறவி. இது பௌத்தச் சார்புடைய நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆசிரியர் பெயரே குறிப்பு."
+  },
+  {
+    "questionNumber": 4,
+    "question": "இந்நூலுக்கு 'வீரசோழியம்' எனப் பெயர் வரக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசிரியர் பெயர் வீரசோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரராசேந்திர சோழனின் பெயரால்",
+        "rationale": "புத்தமித்திரரை ஆதரித்த மன்னன் வீரராசேந்திர சோழனின் சிறப்பிற்காக இப்பெயர் சூட்டப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரம் செறிந்த நூல் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழ நாட்டின் பெயரை வைத்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மன்னன் பெயர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "வீரசோழியம் எவ்வகை இலக்கண நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்து, சொல் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்திலக்கணம்",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, அணி ஆகிய ஐந்து இலக்கணங்களையும் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகப்பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்தும் உண்டு."
+  },
+  {
+    "questionNumber": 6,
+    "question": "வீரசோழியத்தின் ஆசிரியர் புத்தமித்திரர் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொன்பற்றி",
+        "rationale": "இவர் 'பொன்பற்றிக் காவலர்' என்று அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சிபுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தஞ்சாவூர் அல்லது புதுக்கோட்டைப் பகுதியில் உள்ள ஊர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "வீரசோழியத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருந்தேவனார்",
+        "rationale": "புத்தமித்திரரின் மாணவராகக் கருதப்படும் பெருந்தேவனார் இதற்கு உரை எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாரதம் பாடியவர் அல்லர், இவர் வேறொருவர்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "வீரசோழியம் எந்த மொழி இலக்கண மரபை அதிகமாகப் பின்பற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடமொழி (சமஸ்கிருதம்)",
+        "rationale": "தமிழில் வடமொழி இலக்கணக் கூறுகளைப் புகுத்தியதில் வீரசோழியத்திற்குப் பெரும் பங்குண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "தெலுங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கன்னடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையாளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வியாகரணம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "வீரசோழியத்தில் 'எழுத்ததிகாரம்' எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சந்திப் படலம்",
+        "rationale": "வடமொழி மரபுப்படி எழுத்துக்களை இணைப்பதை 'சந்தி' என்று அழைக்கும் வழக்கம் இதில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்தியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூன்மரபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிமரபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புணர்ச்சிக்கு வடமொழிப் பெயர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "வீரசோழியத்தில் எத்தனை அதிகாரங்கள் (படலங்கள்) உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "எழுத்து (சந்தி), சொல், பொருள், யாப்பு, அலங்காரம் (அணி) என ஐந்து பிரிவுகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்திலக்கணம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "வீரசோழியம் அணியிலக்கணத்தை எந்தப் பெயரில் அழைக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அணியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அலங்காரப் படலம்",
+        "rationale": "வடமொழியில் 'அலங்காரம்' என்றால் அணி என்று பொருள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்யுளியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அலங்காரம்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "வீரசோழியம் எவ்வகை பாவால் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டளைக் கலித்துறை",
+        "rationale": "இந்நூல் கட்டளைக் கலித்துறை யாப்பில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரிகை போன்ற யாப்பு."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வீரசோழியத்தின் சிறப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழில் வடமொழி இலக்கணக் கூறுகளை இணைத்து ஒரு புதிய மரபை உருவாக்கியது",
+        "rationale": "வடமொழி வியாகரண முறைகளைத் தமிழுக்குப் பொருத்திப் பார்க்கும் முயற்சி.",
+        "isCorrect": true
+      },
+      {
+        "text": "இது சங்க நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியத்தை அப்படியே பின்பற்றுகிறது",
+        "rationale": "இல்லை, பல இடங்களில் மாறுபடுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலக் கலப்பு உடையது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மணிப்பிரவாள நடைக்கு வித்திட்டது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "வீரசோழிய உரையில் முதன்முதலாகப் பட்டியலிடப்பட்ட இலக்கிய வகை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐம்பெருங்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிற்றிலக்கியங்கள் (96 வகை பிரபந்தங்கள்)",
+        "rationale": "வீரசோழிய உரையில் தான் முதன்முதலாக 96 வகைச் சிற்றிலக்கியங்கள் பற்றிய குறிப்புகள் அல்லது பட்டியல் காணப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க இலக்கியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்தி இலக்கியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொண்ணூற்றாறு."
+  },
+  {
+    "questionNumber": 15,
+    "question": "சொற்களின் வேர்ச் சொற்களை (Roots) 'தாது' (Dhatu) என்று குறிப்பிடும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "வடமொழி மரபுப்படி வினைச்சொற்களின் பகுதிகளை 'தாது' என்று விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உலோகத்தையும் குறிக்கும் சொல்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "வீரசோழிய உரையாசிரியர் பெருந்தேவனார் எம்மதத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பௌத்தம்",
+        "rationale": "நூலாசிரியர் புத்தமித்திரர் போலவே உரையாசிரியரும் பௌத்தர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலாசிரியரின் மாணவர்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "வீரசோழியம் 'வேற்றுமை'யை எவ்வாறு அழைக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரகம் (Karakam)",
+        "rationale": "வடமொழி இலக்கணத்தில் உள்ள 'காரக' கோட்பாட்டைத் தமிழில் பயன்படுத்துகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகுதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழிப் பெயர்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "வீரசோழியத்தில் உள்ள மொத்தப் பாடல்களின் எண்ணிக்கை (தோராயமாக)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "181",
+        "rationale": "சுமார் 180க்கும் மேற்பட்ட கட்டளைக் கலித்துறைப் பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1610",
+        "rationale": "இது தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "462",
+        "rationale": "இது நன்னூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1330",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருநூறுக்குக் குறைவு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "வீரசோழியம் கூறும் 'குணவாமன்' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு சோழ மன்னன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தர்",
+        "rationale": "கடவுள் வாழ்த்துப் பாடலில் புத்தரைப் போற்றுகிறார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிப்பு: 'குணவாமன்' என்பது வேறு நூலில் வரலாம், ஆனால் வீரசோழியத்தில் புத்தமித்திரர் 'பொன்பற்றிக் காவலர்' எனப்படுகிறார்.",
+        "rationale": "தெளிவுரை.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேள்வி எண் 19 திருத்தம்: வீரசோழியம் குறிப்பிடும் தெய்வம் 'அருகன்' அல்ல, 'புத்தர்'. (அவலோகிதன்)."
+  },
+  {
+    "questionNumber": 20,
+    "question": "வீரசோழியத்தில் 'தத்திதன்' (Thathithan) என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர்ச்சொல் விகுதிகள் (Suffixes derived from nouns)",
+        "rationale": "வடமொழியில் 'தத்திதாந்தம்' எனப்படும் பெயரடியிற் பிறந்த சொற்களை இது விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழிச் சொல்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "வீரசோழியம் எந்த மன்னனின் அவையில் அரங்கேற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராஜராஜ சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரராசேந்திர சோழன்",
+        "rationale": "வீரசோழியம் அரங்கேற்றப்பட்ட அவை இவருடையது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குலோத்துங்க சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் பெயரில் உள்ள மன்னன்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "வீரசோழியத்தின் அலங்காரப் படலம் எந்த வடமொழி நூலைத் தழுவியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தண்டியலங்காரம் (காவ்யாதர்சம்)",
+        "rationale": "தண்டியின் காவ்யாதர்சத்தைத் தழுவியே வீரசோழியத்தின் அணி இலக்கணம் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சந்திராலோகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குவலயானந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டி."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'உபசர்க்கம்' (Upasarga) என்று வீரசோழியம் எதனை அழைக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இடைச்சொல் (குறிப்பாக முன்னொட்டுகள்)",
+        "rationale": "வடமொழியில் உள்ள 'உபசர்க்கம்' (Prefixes) முறையைத் தமிழில் 'இடைச்சொல்' வகையாகக் கொண்டுவருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர்ச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்லுக்கு முன் வருவது."
+  },
+  {
+    "questionNumber": 24,
+    "question": "வீரசோழிய உரையில் காணப்படும் ஒரு சிறப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணிப்பிரவாள நடை மற்றும் வடமொழிச் சொற்கள் மிகுதி",
+        "rationale": "உரையானது வடமொழியும் தமிழும் கலந்த மணிப்பிரவாள நடையில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தனித்தமிழ் நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலக் குறிப்புகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முத்து பவளம் கலந்தது போல."
+  },
+  {
+    "questionNumber": 25,
+    "question": "வீரசோழியம் காட்டும் 'பொருளதிகாரம்' எதனை உள்ளடக்கியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள், புறப்பொருள்",
+        "rationale": "இரண்டையும் சுருக்கமாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருளாதாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விவசாயம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகம், புறம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "வீரசோழியம் 'கிரியாபதம்' என்று எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "வடமொழியில் கிரியை என்றால் செயல் (வினை). கிரியாபதம் என்பது வினைச்சொல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெயர்ச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செயல்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "வீரசோழியத்தை எதிர்த்துக் கருத்துத் தெரிவித்த பிற்கால இலக்கண நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரயோக விவேகம்",
+        "rationale": "தவறு (பிரயோக விவேகம் வீரசோழியத்தை ஆதரிக்கும்).",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கண விளக்கம்",
+        "rationale": "வைத்தியநாத தேசிகர் வீரசோழியத்தின் வடமொழிச் சார்பைக் கண்டித்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "இது முற்பட்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் வீரசோழியத்தின் சில கருத்துக்களை மறுக்கிறது.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "நன்னூல் அல்லது இலக்கண விளக்கம்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "புத்தமித்திரர் தன்னை எவ்வாறு அழைத்துக் கொள்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாற்கவிராச நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொன்பற்றிக் காவலன் புத்தமித்திரன்",
+        "rationale": "சிறப்புப் பாயிரத்தில் இக்குறிப்பு உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிச்சக்ரவர்த்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாவலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊர் + பெயர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "வீரசோழியத்தில் 'யாப்பு' எவ்வாறு விளக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகச் சுருக்கமாக, வடமொழி சந்தங்களை இணைத்து",
+        "rationale": "தமிழ்ப்பா வகைகளோடு வடமொழி 'விருத்த' வகைகளையும் இணைத்துக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிக விரிவாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பாவை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பாவை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருத்தம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "வீரசோழியத்தில் காணப்படும் 'ஆரியக் கலப்பு' எதைக் காட்டுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அக்காலச் சோழர் கால மொழிக்கொள்கை மற்றும் பண்பாட்டுப் பரிமாற்றம்",
+        "rationale": "சோழர் காலத்தில் வடமொழியும் தமிழும் கலந்து உறவாடிய சூழலை இது காட்டுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழை அழிக்கும் முயற்சி",
+        "rationale": "தவறு, இது ஒரு ஒருங்கிணைப்பு முயற்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியரின் அறியாமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சுப்பிழை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலாச்சாரக் கலப்பு."
+  },
+  {
+    "questionNumber": 31,
+    "question": "வீரசோழிய உரை எந்த மன்னனின் மெய்க்கீர்த்தியை மேற்கோள் காட்டுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரராசேந்திரன்",
+        "rationale": "வீரராசேந்திரனின் மெய்க்கீர்த்திகள் உதாரணச் செய்யுளாகத் தரப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இராஜராஜன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராஜேந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பராந்தகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆதரித்த மன்னன்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'திசைச்சொல்' பற்றி வீரசோழியம் என்ன கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயன்படுத்தக்கூடாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏனைய 17 மொழிகளிலிருந்து வரும் சொற்கள்",
+        "rationale": "தமிழைச் சுற்றியுள்ள பிற மொழிகளிலிருந்து வரும் சொற்களை ஏற்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வடமொழிச் சொற்கள்",
+        "rationale": "அது வடசொல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழைய சொற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "18 மொழிகள்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "வீரசோழியம் 'நமா' (Nama) என்பதை என்னவாகக் கொள்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர்ச்சொல் (நாமம்)",
+        "rationale": "வடமொழியில் 'நாம' என்றால் பெயர். இதைத் தமிழில் பெயர்ச்சொல் என்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாமம்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "வீரசோழியத்தில் 'அலங்காரம்' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "35",
+        "rationale": "தண்டியலங்காரம் போலவே அணிகளை விரிவாகப் பேசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முப்பத்து ஐந்து."
+  },
+  {
+    "questionNumber": 35,
+    "question": "வீரசோழியத்தை எழுதிய புத்தமித்திரர் எதை முதன்மைப்படுத்தினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கிய வழக்கை விட பேச்சு வழக்கை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் மற்றும் வடமொழி இலக்கண ஒற்றுமையை",
+        "rationale": "இரண்டு மொழிகளுக்கும் உள்ள இலக்கண உறவை நிறுவுவதில் ஆர்வம் காட்டினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலத்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசைத் தமிழை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பிய நெறி + வடமொழி நெறி."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பெருந்தேவனார் எழுதிய உரைக்கு என்ன பெயர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரசோழிய உரை",
+        "rationale": "எளிமையாக 'வீரசோழிய உரை' என்றே அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தியுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் பெயரே உரைக்கும்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "வீரசோழியத்தில் 'தாது' (Dhatu) விலிருந்து சொல் தோன்றுவதை விளக்கும் முறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகுபத உறுப்பிலக்கணம்",
+        "rationale": "பிற்கால நன்னூல் கூறும் பகுபத முறைக்கு இதுவே முன்னோடி (வடமொழித் தழுவல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "புணர்ச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை மோனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பகுதி, விகுதி பிரித்தல்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "வீரசோழியம் 'ஐந்திரம்' என்ற வடமொழி இலக்கணத்தைப் பின்பற்றியதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "தொல்காப்பியர் ஐந்திரம் நிறைந்தவர்; புத்தமித்திரர் ஐந்திரம் மற்றும் பாணினீயம் போன்றவற்றின் கூறுகளைத் தழுவினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்திரம் பற்றித் தெரியாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழை மட்டும் பின்பற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இந்திரன் இலக்கணம்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "வீரசோழியத்தின் படி 'சந்தி' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "வடமொழி சந்தி முறைப்படி பிரித்துக் காட்டுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல வகைகள்",
+        "rationale": "உயிர்ச் சந்தி, மெய்ச் சந்தி என வடமொழி முறைப்படி பல வகைகளைக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Sanskrit Sandhi Rules."
+  },
+  {
+    "questionNumber": 40,
+    "question": "வீரசோழியம் இப்போது வழக்கில் உள்ளதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், பள்ளிகளில் கற்பிக்கப்படுகிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை, ஆராய்ச்சி நிலையில் மட்டுமே உள்ளது",
+        "rationale": "நன்னூல் வந்த பின், வீரசோழியம் வழக்கொழிந்து போய்விட்டது. இப்போது ஆய்வாளர்கள் மட்டுமே பயன்படுத்துகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அழிந்துவிட்டது",
+        "rationale": "நூல் உள்ளது, வழக்கு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரைப்படங்களில் வருகிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நன்னூல் இதை வென்றது."
+  },
+  {
+    "questionNumber": 41,
+    "question": "வீரசோழியம் குறிப்பிடும் 'பதவியல்' எதனுள் அடங்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லதிகாரம்",
+        "rationale": "சொற்களின் அமைப்பை விளக்குவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருளதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்ததிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதம் = சொல்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "புத்தமித்திரர் யாருடைய வேண்டுகோளுக்கிணங்க இந்நூலை இயற்றினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரராசேந்திர சோழன்",
+        "rationale": "அவை மன்னனின் வேண்டுகோளின்படி அல்லது அவனுக்காக இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Patron King."
+  },
+  {
+    "questionNumber": 43,
+    "question": "வீரசோழியத்தின் அலங்காரப் படலத்தில் உள்ள ஒரு சிறப்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சித்திரக் கவிகள்",
+        "rationale": "நாகபந்தம், ரதபந்தம் போன்ற சித்திரக் கவிகளுக்கு (Visual Poetry) இலக்கணம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதுக்கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுகதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "படம் வரைந்து பாடுவது."
+  },
+  {
+    "questionNumber": 44,
+    "question": "வீரசோழிய உரையில் மேற்கோள் காட்டப்பட்டுள்ள பௌத்த காப்பியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குண்டலகேசி",
+        "rationale": "குண்டலகேசி மற்றும் பிம்பசாரக் கதை போன்ற பௌத்த நூல்களிலிருந்து பாடல்கள் மேற்கோள் காட்டப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெரியபுராணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பராமாயணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேவாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐம்பெருங்காப்பியங்களுள் ஒன்று."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'சந்தி' என்ற சொல்லைத் தமிழில் முதன்முதலில் அதிகாரம் (படலம்) பெயராகப் பயன்படுத்திய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தொல்காப்பியம் 'புணரியல்' என்கிறது; வீரசோழியம் 'சந்திப் படலம்' என்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Sanskrit Terminology."
+  },
+  {
+    "questionNumber": 46,
+    "question": "வீரசோழியம் உணர்த்தும் 'கலைச்சொற்கள்' (Technical Terms) பெரும்பாலும் எந்த மொழியைச் சார்ந்தவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடமொழி",
+        "rationale": "சந்தி, விபக்தி, காரகம், தாது போன்ற வடமொழிச் சொற்களைப் பயன்படுத்துகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழ்",
+        "rationale": "தமிழ்ச்சொற்கள் இருந்தாலும் வடமொழி கலைச்சொற்கள் அதிகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமஸ்கிருதம்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "வீரசோழியம் எந்தப் பகுதியில் தோன்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழ நாடு",
+        "rationale": "ஆசிரியர் பொன்பற்றி (சோழ/புதுக்கோட்டை பகுதி), அரங்கேறியது சோழ அவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டிய நாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேர நாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவ நாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காவிரி பாயும் மண்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "வீரசோழியத்தில் 'யாப்பு' பற்றிய கருத்துக்கள் எதற்கு முக்கியத்துவம் அளிக்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்து எண்ணிக்கை (Letter counting)",
+        "rationale": "கட்டளைக் கலித்துறை போன்றவற்றில் எழுத்து எண்ணிக்கை முக்கியம். வடமொழி சந்தங்களும் எழுத்து எண்ணிக்கையை அடிப்படையாகக் கொண்டவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓசை நயம் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை மோனை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தம்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "வீரசோழியம் தழுவி எழுதப்பட்ட மலையாள இலக்கண நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "லீலா திலகம்",
+        "rationale": "மலையாள இலக்கண நூலான லீலா திலகம் வீரசோழியத்தின் தாக்கத்தைக் கொண்டுள்ளது எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேரள நூல்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "வீரசோழியம் ஏன் ஒரு முக்கியமான வரலாற்று ஆவணமாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழர் காலத் தமிழ் வளர்ச்சி மற்றும் வடமொழித் தாக்கத்தை அறிந்துகொள்ள உதவுவதால்",
+        "rationale": "மொழி வரலாற்றில் ஒரு குறிப்பிட்ட காலக்கட்டத்தின் (மணிப்பிரவாள காலம்) சான்றாக இது திகழ்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முறைகளைக் கூறுவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம் கூறுவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விவசாயம் கூறுவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழியியல் வரலாறு."
+  }
+]

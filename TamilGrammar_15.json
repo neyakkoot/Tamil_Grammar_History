@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'பிரயோக விவேகம்' என்ற இலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவஞான முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுப்பிரமணிய தீட்சிதர்",
+        "rationale": "கி.பி. 17ஆம் நூற்றாண்டில் வாழ்ந்த சுப்பிரமணிய தீட்சிதர் இந்நூலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைத்தியநாத தேசிகர்",
+        "rationale": "இவர் இலக்கண விளக்கம் எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குமரகுருபரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீட்சிதர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "பிரயோக விவேகம் நூலின் முக்கிய நோக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ் மற்றும் வடமொழி இலக்கணங்களின் ஒற்றுமையை விளக்குவது",
+        "rationale": "வடமொழி வியாகரண விதிகளைத் தமிழோடு ஒப்பிட்டு, இரண்டுக்கும் உள்ள ஒற்றுமையை (குறிப்பாக வேற்றுமை, காரகம்) விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புறப்பொருள் இலக்கணம் கூறுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி இலக்கணம் மட்டும் கூறுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்திப் பாடல்கள் பாடுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒப்புமை இலக்கணம்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "'குட்டித் தொல்காப்பியம்' என்று அழைக்கப்படும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கண விளக்கம்",
+        "rationale": "தொல்காப்பியத்தைப் பின்பற்றி ஐந்து இலக்கணங்களையும் (எழுத்து, சொல், பொருள், யாப்பு, அணி) ஒரே நூலில் கூறியதால் இது 'குட்டித் தொல்காப்பியம்' எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிரயோக விவேகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொன்னூல் விளக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வைத்தியநாத தேசிகர் நூல்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "இலக்கண விளக்கம் என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைத்தியநாத தேசிகர்",
+        "rationale": "திருவாரூரைச் சேர்ந்த வைத்தியநாத தேசிகர் இந்நூலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுப்பிரமணிய தீட்சிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவஞான முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருவாரூர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'சிதம்பரச் செய்யுட்கோவை' என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குமரகுருபரர்",
+        "rationale": "கி.பி. 17ஆம் நூற்றாண்டில் வாழ்ந்த குமரகுருபரர், யாப்பிலக்கண உதாரணங்களுக்காக இந்நூலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரஞ்சோதி முனிவர்",
+        "rationale": "இவர் சிதம்பரப் பாட்டியல் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கச்சியப்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருணகிரிநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மீனாட்சியம்மை பிள்ளைத்தமிழ் பாடியவர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "இலக்கண விளக்கத்தை எதிர்த்து 'இலக்கண விளக்கச் சூறாவளி' என்ற நூலை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவஞான முனிவர்",
+        "rationale": "இலக்கண விளக்கத்தில் உள்ள பிழைகளைக் கண்டித்துச் சிவஞான முனிவர் 'சூறாவளி'யைப் பாடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்கர நமச்சிவாயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுமுக நாவலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திராவிட மாபாடியம் எழுதியவர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "பிரயோக விவேகம் எந்த வடமொழி இலக்கண நூலைத் தழுவியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாணினீயம்",
+        "rationale": "பாணினியின் வியாகரண நெறிமுறைகளைத் தமிழில் விளக்கும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்திரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காவ்யாதர்சம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சந்திராலோகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழி இலக்கணத் தந்தை."
+  },
+  {
+    "questionNumber": 8,
+    "question": "இலக்கண விளக்கம் எத்தனை பிரிவுகளைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து (எழுத்து, சொல், பொருள், யாப்பு, அணி)",
+        "rationale": "இது ஒரு ஐந்திலக்கண நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு (பாட்டியல் சேர்த்து)",
+        "rationale": "பொதுவாக ஐந்திலக்கணம் என்பர், பாட்டியல் அணியியலில் அடங்கும் அல்லது தனியாகக் கருதப்படும். (சரியான விடை 5 அதிகாரங்கள்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குட்டித் தொல்காப்பியம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'பாப்பாவினம்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குருகைப் பெருமாள் கவிராயர்",
+        "rationale": "மாறனலங்காரம் பாடிய இவரே பாப்பாவினம் என்ற நூலையும் பாடினார். இது பாக்களின் இனங்களை (தாழிசை, துறை, விருத்தம்) விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாறனலங்காரம் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "சுப்பிரமணிய தீட்சிதர் (பிரயோக விவேகம்) மற்றும் வைத்தியநாத தேசிகர் (இலக்கண விளக்கம்) வாழ்ந்த காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 17ஆம் நூற்றாண்டு",
+        "rationale": "இருவரும் சமகாலத்தவர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 12ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாயக்கர் காலம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "பிரயோக விவேகம் 'காரகம்' (Kaarakam) என்று எதனை அழைக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேற்றுமைப் பொருள் (Case relations)",
+        "rationale": "சொற்களுக்கு இடையிலான வேற்றுமை உறவை வடமொழியில் காரகம் என்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர்ச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கர்த்தா, கர்மம்..."
+  },
+  {
+    "questionNumber": 12,
+    "question": "வைத்தியநாத தேசிகர் இலக்கண விளக்கத்தில் 'பாட்டியல்' இலக்கணத்தைச் சேர்த்துள்ளாரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், அணியியலின் இறுதியில் பாட்டியல் சேர்த்துள்ளார்",
+        "rationale": "தொல்காப்பியத்தை அடியொற்றினாலும், பாட்டியல் என்ற இடைக்கால வளர்ச்சியைத் தன் நூலில் இணைத்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனி நூலாக எழுதினார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெறுத்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிரபந்த இலக்கணம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "சிதம்பரச் செய்யுட்கோவை எந்தக் கடவுள் மீது பாடப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிதம்பரம் நடராஜர்",
+        "rationale": "சிதம்பரம் தில்லை நடராஜப் பெருமான் மீது பாடப்பட்ட பலவகைச் செய்யுள்களின் தொகுப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை மீனாட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருப்பதி பெருமாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழனி முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தில்லை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'இலக்கண விளக்கச் சூறாவளி' என்ற பெயரின் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கண விளக்கம் என்ற நூலைச் சூறாவளி போலத் தாக்கி அழிப்பது (மறுப்பது)",
+        "rationale": "இலக்கண விளக்கத்தில் உள்ள பிழைகளைச் சுட்டிக்காட்டி வன்மையாக மறுப்பதற்காக எழுதப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேகமாக எழுதப்பட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காற்று பற்றிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் பயணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Critique."
+  },
+  {
+    "questionNumber": 15,
+    "question": "பிரயோக விவேகம் குறிப்பிடும் 'சமாசம்' (Samaasam) என்பது தமிழில் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொகைநிலைத் தொடர் (Compound words)",
+        "rationale": "வேற்றுமைத் தொகை, வினைத் தொகை போன்றவற்றை வடமொழியில் சமாசம் என்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொகாநிலைத் தொடர்",
+        "rationale": "வியாசம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புணர்ச்சி",
+        "rationale": "சந்தி.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொற்கள் மறைந்து வருவது."
+  },
+  {
+    "questionNumber": 16,
+    "question": "இலக்கண விளக்கம் நூல் எந்த நூலை அதிகமாகப் பின்பற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "எழுத்து, சொல் அதிகாரங்களுக்கு நன்னூலை அப்படியே பல இடங்களில் பின்பற்றுகிறது; பொருள், யாப்பு, அணிக்குத் தொல்காப்பியம் மற்றும் பிற நூல்களைத் தழுவுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "இதை மறுக்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார் அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பவணந்தி நூல்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "குமரகுருபரர் இயற்றிய 'சிதம்பரச் செய்யுட்கோவை' எதற்குக் குறிப்பாகப் பயன்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பிலக்கண உதாரணங்களுக்கு",
+        "rationale": "வெண்பா, ஆசிரியப்பா, கலிப்பா, வஞ்சிப்பா மற்றும் அவற்றின் இனங்களுக்குச் சிறந்த உதாரண இலக்கியமாகத் திகழ்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணி இலக்கணத்திற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவத்திற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாற்று ஆய்வுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுள் வகைகள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "சுப்பிரமணிய தீட்சிதர் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆழ்வார்குறிச்சி (திருநெல்வேலி)",
+        "rationale": "திருநெல்வேலி மாவட்டத்தில் உள்ள ஆழ்வார்குறிச்சி.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவாரூர்",
+        "rationale": "வைத்தியநாத தேசிகர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தென்பாண்டி நாடு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "வைத்தியநாத தேசிகர் எந்த மதத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "திருவாரூர் தியாகராசர் மீது பக்தி கொண்டவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தியாகராசர்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'பாப்பாவினம்' நூல் எதைப் பற்றி விரிவாகப் பேசுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாக்களின் இனங்கள் (தாழிசை, துறை, விருத்தம்)",
+        "rationale": "பா வகைகளுக்கு உரிய துணை வகைகளை (இனங்களை) விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாக்களின் ஓசை",
+        "rationale": "மட்டும் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடுபவரின் தகுதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாவம் புண்ணியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பா + பாவினம்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "சிவஞான முனிவர் இலக்கண விளக்கத்தில் கண்ட முக்கியக் குறைபாடு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பிய நெறியிலிருந்து மாறுபட்டு, பொருந்தாத கருத்துக்களைக் கூறியது",
+        "rationale": "தொல்காப்பிய மரபுக்கு மாறாக, வடமொழி மரபை அளவுக்கு அதிகமாகப் புகுத்தியதைக் கண்டித்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூல் மிகச் சிறியதாக இருந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூல் செய்யுளில் இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள் வாழ்த்து இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரபு மாற்றம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "பிரயோக விவேகம் நூலின் நடை எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணிப்பிரவாள நடை (வடமொழி கலப்பு)",
+        "rationale": "நூற்பாவும் உரையும் வடமொழிச் சொற்கள் மிகுந்து காணப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "தனித்தமிழ் நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிய தமிழ்",
+        "rationale": "தவறு, மிகவும் கடினமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கில நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமஸ்கிருதம் கலந்தது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "இலக்கண விளக்கம் 'உவமவியல்' பகுதியில் எந்த நூலைப் பின்பற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தண்டியலங்காரம்",
+        "rationale": "அணியிலக்கணத்திற்குத் தண்டியலங்காரத்தைத் தழுவுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "பொருளதிகாரத்திற்குத் தொல்காப்பியம் என்றாலும், அணிக்குத் தண்டியை அதிகம் சார்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாறனலங்காரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அணி நூல்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "வைத்தியநாத தேசிகரின் மக்கள் (மகன்கள்) எழுதிய உரை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கண விளக்க உரை (சில பகுதிகள்)",
+        "rationale": "தியாகராச தேசிகர் போன்றோர் இந்நூலுக்கு உரை எழுதியுள்ளனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பிய உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குடும்ப நூல்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "பிரயோக விவேகத்தில் 'பிரயோகம்' என்பதன் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லாட்சி (Usage)",
+        "rationale": "சொற்களைப் வாக்கியங்களில் பயன்படுத்தும் முறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பயணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பயிற்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Application."
+  },
+  {
+    "questionNumber": 26,
+    "question": "இலக்கண விளக்கச் சூறாவளி எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மறுப்பு நூல் (Polemical work)",
+        "rationale": "மற்றொரு நூலின் கருத்துக்களை மறுத்து எழுதும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாற்று நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதினம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்டன நூல்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "குமரகுருபரர் எந்த மடத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தருமபுரம் ஆதீனம் / காசி மடம்",
+        "rationale": "காசியில் மடம் நிறுவியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவாவடுதுறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை ஆதீனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி மடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காசி."
+  },
+  {
+    "questionNumber": 28,
+    "question": "பிரயோக விவேகம் எந்தெந்த மொழிகளுக்குப் பாலமாக அமைகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ் - வடமொழி",
+        "rationale": "இரண்டு மொழிகளின் இலக்கண ஒற்றுமையை நிறுவுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழ் - ஆங்கிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் - தெலுங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் - மலையாளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆரியம்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "இலக்கண விளக்கம் நூலில் 'அகத்திணை' பற்றி உள்ளதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், பொருளதிகாரத்தில் உள்ளது",
+        "rationale": "ஐந்திலக்கண நூல் என்பதால் அகம், புறம் இரண்டும் உண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறத்திணை மட்டும் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணியியல் மட்டும் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நம்பி அகப்பொருளைத் தழுவியது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "திருக்குருகைப் பெருமாள் கவிராயர் யாரைப் போற்றி நூல்கள் இயற்றினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நம்மாழ்வார்",
+        "rationale": "மாறனலங்காரம், மாறனகப்பொருள், பாப்பாவினம் எல்லாவற்றிலும் நம்மாழ்வாரைப் போற்றுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆண்டாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரியாழ்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமங்கையாழ்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சடகோபன்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "இலக்கண விளக்கம் 'பட்டியல்' (Pattiyal) பற்றிப் பேசுகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், 96 வகைச் சிற்றிலக்கியங்கள் மற்றும் பொருத்தங்கள் பற்றிக் கூறுகிறது",
+        "rationale": "பாட்டியல் இலக்கணத்தையும் இந்நூல் தன்னுள் அடக்கியுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகராதிப் பட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாட்டியல் சேர்ந்த ஐந்திலக்கணம்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "பிரயோக விவேகம் நூற்பா வடிவில் உள்ளதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், காரிகை (கட்டளைக் கலித்துறை) யாப்பில் உள்ளது",
+        "rationale": "காரிகை யாப்பில் அமைந்த நூற்பாக்களும், அதற்கு ஆசிரியரே எழுதிய உரையும் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரிகை."
+  },
+  {
+    "questionNumber": 33,
+    "question": "வைத்தியநாத தேசிகர் எந்த நூலை 'முதல் நூல்' என்று போற்றுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியத்தையே முதல் நூலாகக் கொண்டு வழிநூல் செய்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூலைத் தழுவினாலும், தொல்காப்பியமே முதல் நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியக் கடல்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "சிதம்பரச் செய்யுட்கோவை எந்த யாப்பு வகைக்கு முக்கியத்துவம் அளிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அனைத்து வகைப் பாக்களுக்கும்",
+        "rationale": "வெண்பா, அகவல், கலி, வஞ்சி மற்றும் அதன் இனங்களுக்கு உதாரணப் பாடல்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பலவகைச் செய்யுள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பிரயோக விவேகத்தில் 'அந்வயம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல் முடிபு (Word order/Syntax)",
+        "rationale": "வாக்கியத்தில் சொற்களை இயைத்துப் பொருள் கொள்ளும் முறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிரித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூட்டல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொருள்கோள் போன்றது."
+  },
+  {
+    "questionNumber": 36,
+    "question": "இலக்கண விளக்கம் 'சூறாவளி'யால் தாக்கப்பட்டாலும், இன்றும் வழக்கிலிருக்கக் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்திலக்கணத்தையும் ஒரே நூலில் தொகுத்துத் தருவதால்",
+        "rationale": "தொல்காப்பியத்திற்குப் பின் ஐந்திலக்கணத்தையும் ஒருங்கே கற்க உதவும் நூல் இதுவே.",
+        "isCorrect": true
+      },
+      {
+        "text": "அது கதை நூல் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவஞான முனிவர் புகழ்ந்ததால்",
+        "rationale": "அவர் இகழ்ந்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசு ஆணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "One-stop shop for grammar."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'விபக்தி' என்று பிரயோக விவேகம் எதைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேற்றுமை உருபு",
+        "rationale": "வடமொழியில் வேற்றுமையை 'விபக்தி' என்பர். முதலாம் வேற்றுமை (பிரதமா விபக்தி) முதல் சப்தமி வரை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Sanskrit Case."
+  },
+  {
+    "questionNumber": 38,
+    "question": "இலக்கண விளக்கத்தின் ஆசிரியர் வைத்தியநாத தேசிகர் எந்த மரபைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவ வேளாளர்",
+        "rationale": "சைவ மரபைச் சார்ந்த தமிழறிஞர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சைவம்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "குமரகுருபரர் பாடிய மற்றொரு இலக்கணச் சார்புடைய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீதிநெறி விளக்கம்",
+        "rationale": "இது அறநூல், இலக்கண நூல் அன்று. (கேள்விக்கான விடை சிதம்பரச் செய்யுட்கோவை மட்டுமே).",
+        "isCorrect": false
+      },
+      {
+        "text": "கந்தர் கலிவெண்பா",
+        "rationale": "இது பக்தி நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிப்பு: சிதம்பரச் செய்யுட்கோவை மட்டுமே இலக்கண உதாரண நூல்.",
+        "rationale": "விளக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேள்வி எண் 39 விளக்கம்: குமரகுருபரரின் படைப்புகளில் 'சிதம்பரச் செய்யுட்கோவை' யாப்பு இலக்கணத்திற்கு உதாரணம். மற்றவை இலக்கியங்கள்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "பிரயோக விவேகம் மற்றும் இலக்கண விளக்கம் தோன்றிய நூற்றாண்டு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "17ஆம் நூற்றாண்டு",
+        "rationale": "நாயக்கர் காலம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "13ஆம் நூற்றாண்டு",
+        "rationale": "நன்னூல் காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "19ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "1600s."
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாப்பாவினம் நூலில் 'தாழிசை' எவ்வாறு விளக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பா வகையின் இனம் (குறைந்த ஓசை உடையது)",
+        "rationale": "வெண்டாழிசை, ஆசிரியத் தாழிசை போன்றவற்றை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசைக்கருவி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாழ்ந்து ஒலிப்பது."
+  },
+  {
+    "questionNumber": 42,
+    "question": "இலக்கண விளக்கம் தொல்காப்பியத்தின் எந்த அதிகாரங்களைச் சுருக்கித் தருகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று அதிகாரங்களையும், மேலும் நன்னூல் கருத்துக்களையும்",
+        "rationale": "தொல்காப்பியத்தின் 3 அதிகாரங்களையும் எடுத்துக்கொண்டு, நன்னூல் போன்ற பிற்கால நூல்களின் கருத்துக்களையும் இணைக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்து மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முழுமையான தொகுப்பு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "சிவஞான முனிவர் இலக்கண விளக்கத்தை மறுத்து எழுதிய மற்றொரு நூல் (சூறாவளி தவிர)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியச் சூத்திர விருத்தி",
+        "rationale": "தொல்காப்பியப் பாயிர விருத்தி மற்றும் சூத்திர விருத்தியில் இலக்கண விளக்கக் கருத்துக்களை மறுப்பார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவஞான போதம்",
+        "rationale": "இது தத்துவ நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரியபுராணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியத்திற்கு எழுதிய உரை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "பிரயோக விவேகம் வடமொழி அறிஞர்களுக்கு எதை உணர்த்தியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழும் வடமொழியும் இலக்கண அடிப்படையில் உறவுடையவை",
+        "rationale": "தமிழை வடமொழி இலக்கணக் கண்கொண்டு பார்க்க உதவியது (Syntactic comparison).",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழ் தாழ்ந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி தாழ்ந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டும் வேறு வேறு",
+        "rationale": "ஒற்றுமையை வலியுறுத்தியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Comparative Grammar."
+  },
+  {
+    "questionNumber": 45,
+    "question": "இலக்கண விளக்கம் 'பொருளதிகாரத்தில்' எதைச் சேர்த்துள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள், புறப்பொருள், யாப்பு, அணி, பாட்டியல்",
+        "rationale": "பொருளதிகாரத்தின் கீழ் வாழ்வியல் மட்டுமல்லாமல் யாப்பு, அணி, பாட்டியலையும் அடக்கியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணிகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்து, சொல் நீங்கலாக மற்ற அனைத்தும்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "திருக்குருகைப் பெருமாள் கவிராயர் யாருடைய மாணவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சடகோபர் (நம்மாழ்வார்) - மானசீக குரு",
+        "rationale": "நம்மாழ்வாரையே குருவாகக் கொண்டு பாடியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆழ்வார்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'பிரயோக விவேகம்' என்ற பெயரின் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொற்களைப் பயன்படுத்தும் அறிவு (Wisdom of Usage)",
+        "rationale": "பிரயோகம் = பயன்பாடு/சொல்லாட்சி; விவேகம் = அறிவு/தெளிவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் அறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவ அறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசை ஞானம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Usage Wisdom."
+  },
+  {
+    "questionNumber": 48,
+    "question": "இலக்கண விளக்கம் உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைத்தியநாத தேசிகரே எழுதினார்",
+        "rationale": "நூலாசிரியரே உரையையும் எழுதினார் (பிற்காலத்தில் அவர் மகனும் எழுதினார்).",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சி.வை.தாமோதரம் பிள்ளை",
+        "rationale": "பதிப்பித்தார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுய உரை."
+  },
+  {
+    "questionNumber": 49,
+    "question": "சிதம்பரச் செய்யுட்கோவையில் உள்ள பாடல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "68",
+        "rationale": "பல்வேறு யாப்பு வகைகளைக் காட்டும் 68 பாடல்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறுபத்தெட்டு."
+  },
+  {
+    "questionNumber": 50,
+    "question": "பிற்காலத்தில் 'பள்ளிப் பாடத்திட்டத்தில்' இடம்பிடித்த ஐந்திலக்கண நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கண விளக்கம் (சுருக்கம்)",
+        "rationale": "விசாகப் பெருமாளையர் போன்றோர் இலக்கண விளக்கத்தைச் சுருக்கிப் பாடநூலாகப் பயன்படுத்தினர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "கல்லூரி அளவில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரயோக விவேகம்",
+        "rationale": "கடினமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "கிடைக்கவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விசாகப் பெருமாளையர் பதிப்பு."
+  }
+]

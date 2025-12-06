@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "புறப்பொருள் வெண்பாமாலை என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐயன் ஆரிதனார்",
+        "rationale": "சேரர் வழிவந்த ஐயன் ஆரிதனார் என்பவரே இந்நூலை இயற்றியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெண்பாவால் ஆன மாலை."
+  },
+  {
+    "questionNumber": 2,
+    "question": "புறப்பொருள் வெண்பாமாலை எந்த நூலை முதல் நூலாகக் கொண்டு எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியத்தைப் பின்பற்றினாலும், இதன் நேரடி முதல் நூல் வேறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரு படலம்",
+        "rationale": "அகத்தியரின் மாணவர்கள் பன்னிருவர் எழுதிய 'பன்னிரு படலம்' என்ற நூலை வழிநூலாகக் கொண்டே இது இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காக்கை பாடினியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பன்னிருவர் பாடியது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "புறப்பொருள் வெண்பாமாலை புறத்திணைகளை எத்தனை வகையாகப் பிரிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏழு",
+        "rationale": "தொல்காப்பியம் தான் ஏழாகப் பிரிக்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரண்டு",
+        "rationale": "வெட்சி முதல் பெருந்திணை ஈறாக 12 படலங்களாக (திணைகளாக)ப் பிரிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "12 படலங்கள்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "நிரை (பசுக்கூட்டம்) கவர்தல் எத்திணைக்கு உரியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி",
+        "rationale": "பகைவர் நாட்டின் ஆநிரைகளைக் கவர்ந்து வருதல் வெட்சித் திணை.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "மீட்டல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "படையெடுத்தல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "எதிர்த்தல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் திணை."
+  },
+  {
+    "questionNumber": 5,
+    "question": "நிரை மீட்டல் எத்திணைக்கு உரியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "கவர்ந்து செல்லப்பட்ட ஆநிரைகளை மீட்டு வருதல் கரந்தைத் திணை.",
+        "isCorrect": true
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தும்பை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கரந்தைப் பூ சூடிப் போரிடுவது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "மண்ணாசை (நாடு பிடித்தல்) காரணமாகப் பகைவர் நாட்டின் மீது படையெடுப்பது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சி",
+        "rationale": "வஞ்சிப் பூ சூடிப் பகைவர் நாட்டின் மீது படையெடுத்தல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தடுப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "மதில் வளைத்தல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நொச்சி",
+        "rationale": "மதில் காத்தல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாடா வஞ்சி."
+  },
+  {
+    "questionNumber": 7,
+    "question": "படையெடுத்து வரும் பகைவனைத் தடுத்து நிறுத்திப் போரிடுவது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "காஞ்சிப் பூ சூடித் தன் நாட்டைக்காக்க எதிர்த்துப் போரிடுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தும்பை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிலையாமைக்கும் இத்திணை உரியது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "கோட்டை மதிலைக் காக்க உள்ளிருந்து போரிடுவது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உழிஞை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நொச்சி",
+        "rationale": "நொச்சிப் பூ சூடி மதிலைக் காத்தல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தும்பை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மதில் காத்தல்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "பகைவரின் கோட்டை மதிலை வளைத்துப் (சுற்றி வளைத்து) போரிடுவது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உழிஞை",
+        "rationale": "உழிஞைப் பூ சூடி மதிலை வளைத்தல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நொச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முடக்கத்தான் செடி (உழிஞை)."
+  },
+  {
+    "questionNumber": 10,
+    "question": "இரு பெரும் வேந்தர்களும் 'வெற்றி ஒன்றையே' குறிக்கோளாகக் கொண்டு எதிரெதிர் நின்று போரிடுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தும்பை",
+        "rationale": "தும்பைப் பூ சூடி வலிமையை நிலைநாட்டப் போரிடுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாகை",
+        "rationale": "வெற்றி பெற்ற பின் வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடாண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அதிரப் பொருவது."
+  },
+  {
+    "questionNumber": 11,
+    "question": "போரில் வெற்றி பெற்ற மன்னன் சூடும் பூ எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தும்பை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "வாகை என்றால் வெற்றி. வெற்றி பெற்றவர் வாகை சூடுவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெற்றித் திணை."
+  },
+  {
+    "questionNumber": 12,
+    "question": "ஒருவனுடைய புகழ், வலிமை, கொடை, அருள் முதலியவற்றை ஆராய்ந்து கூறுவது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொதுவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடாண் திணை",
+        "rationale": "பாடு + ஆண் + திணை = பாடப்படும் ஆண்மகனின் ஒழுகலாறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "கைக்கிளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருந்திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடுவதற்குத் தகுதியுடைய ஆண்மகன்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "தொல்காப்பியத்தில் இல்லாத, ஆனால் புறப்பொருள் வெண்பாமாலையில் உள்ள திணைகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி, வஞ்சி",
+        "rationale": "இவை தொல்காப்பியத்திலும் உள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரந்தை, நொச்சி, பொதுவியல், கைக்கிளை, பெருந்திணை",
+        "rationale": "தொல்காப்பியம் கரந்தையை வெட்சியிலும், நொச்சியை உழிஞையிலும் அடக்கும். கைக்கிளை, பெருந்திணையை அகத்தில் வைக்கும். வெண்பாமாலை இவற்றைத் தனித்தனியே புறத்தில் வைக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாகை, பாடாண்",
+        "rationale": "இவை இரண்டிலும் உண்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுவுமில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியம் 7, இது 12."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'பொதுவியல்' திணை உணர்த்தும் செய்தி யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மற்ற புறத்திணைகளில் கூறப்படாத செய்திகள் மற்றும் அறக்கருத்துகள்",
+        "rationale": "வெட்சி முதலிய திணைகளுக்குப் பொதுவானவற்றையும், அவற்றில் கூறப்படாதவற்றையும் (எ-டு: நிலையாமை, நடுகல்) கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொது மக்களுக்கான செய்திகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர்களுக்கான போர் முறைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காதல் செய்திகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எஞ்சிய செய்திகள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "போரில் இறந்த வீரனுக்கு நடுகல் நட்டு வழிபடுதல் எந்தத் திணையில் (அல்லது துறையில்) கூறப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரந்தை மற்றும் பொதுவியல்",
+        "rationale": "வெண்பாமாலை மரபுப்படி நடுகல் வழிபாடு பொதுவியலிலும், வீரக்கல் நிறுவுதல் கரந்தையிலும் (சில இடங்களில்) பேசப்படும். (பொதுவியல் - நடுகல் வழிபாடு சிறப்பு).",
+        "isCorrect": true
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீர வணக்கம்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'கொளு' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடலின் தலைப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துறையின் விளக்கத்தை (இலக்கணத்தை) உரைக்கும் நூற்பா",
+        "rationale": "வெண்பாமாலையில் ஒவ்வொரு துறைக்கும் முதலில் 'கொளு' (விளக்கம்) இருக்கும், அடுத்து 'வெண்பா' (எடுத்துக்காட்டு) இருக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா பாடும் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடிவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கருத்தைக் 'கொள்ள' வைப்பது."
+  },
+  {
+    "questionNumber": 17,
+    "question": "புறப்பொருள் வெண்பாமாலையின் ஆசிரியர் ஐயன் ஆரிதனார் எம்மதத்தைச் சார்ந்தவராகக் கருதப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமணம்",
+        "rationale": "நூலில் சமண சமயக் கருத்துக்களின் தாக்கம் இருப்பதால் இவர் சமணர் எனக் கருதப்படுகிறார். (சிலர் சைவர் என்றும் கூறுவர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இஸ்லாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிறித்தவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்து நூலான பன்னிரு படலம் சார்ந்த மரபு."
+  },
+  {
+    "questionNumber": 18,
+    "question": "தொல்காப்பியர் 'அகத்திணை' என்று கூறும் கைக்கிளை, பெருந்திணையை வெண்பாமாலை எதில் சேர்க்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறத்திணை",
+        "rationale": "வெண்பாமாலை கைக்கிளை (ஒருதலைக் காமம்), பெருந்திணை (பொருந்தாக் காமம்) ஆகியவற்றை புறத்திணையின் இறுதியில் வைக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசைத்திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகத்திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புறப்பொருள் நூல் என்பதால்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "வெண்பாமாலையில் உள்ள மொத்த வெண்பாக்களின் எண்ணிக்கை (தோராயமாக)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "361",
+        "rationale": "சுமார் 361 வெண்பாக்கள் (பதிப்புக்கு ஏற்ப மாறுபடும்).",
+        "isCorrect": true
+      },
+      {
+        "text": "1330",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "2000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "300க்கும் மேல், 400க்கும் கீழ்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'பிள்ளைத்தெளிவு' என்ற துறை எத்திணையில் வரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "நிரை மீட்கச் செல்லும் வீரர்களின் (பிள்ளைகளின்) சிறப்பைக் கூறுவது கரந்தைத் திணை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீரர்களின் தெளிவு."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'மூதின் முல்லை' என்பது எத்திணையின் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "வாகைத் திணையில் மறக்குடி மகளிரின் வீரத்தை (மூதின் முல்லை) விளக்குவது வழக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மறக்குடி மகளிரின் வீரம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'கழல் நிலை' (வீரக் கழல் அணிதல்) எத்திணைச் செய்தி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடண்திணை",
+        "rationale": "வீரனின் காலில் கழல் அணிவித்துப் போற்றுதல் பாடாணில் வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நொச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீரன் புகழைப் பாடுவது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "புறப்பொருள் வெண்பாமாலை உரையின் சிறப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகவும் கடினமானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெளிவான உரைநடை மற்றும் உதாரணப் பாடல்கள் கொண்டது",
+        "rationale": "கொளுவிற்கும் வெண்பாவிற்கும் தெளிவான பொழிப்புரையும், சில இடங்களில் மேற்கோள்களும் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செய்யுள் வடிவிலானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலத்தில் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாமுவேல் பிள்ளை பதிப்பித்தது."
+  },
+  {
+    "questionNumber": 24,
+    "question": "புறப்பொருள் வெண்பாமாலை உரையாசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர் தெரியவில்லை (பழைய உரை)",
+        "rationale": "இதற்கு ஒரு பழைய உரை உண்டு, அதன் ஆசிரியர் பெயர் திட்டவட்டமாகத் தெரியவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அநாமதேய உரை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "பிற்காலத்தில் வந்த புறநானூற்றுப் பதிப்புகளுக்குத் திணை, துறை வகுக்க உதவிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியத்தை விட, வெண்பாமாலை அடிப்படையிலேயே புறநானூற்றுப் பாடல்களுக்குத் திணை, துறை வகுக்கப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள் வெண்பாமாலை",
+        "rationale": "புறநானூற்றின் அடிக்குறிப்புகள் பெரும்பாலும் வெண்பாமாலை இலக்கணத்தையே பின்பற்றுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "12 திணை மரபு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'வல்லாண் பக்கம்' என்பது எத்திணைத் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கைக்கிளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "ஒருவனின் வலிமையையும், இயல்பையும் எடுத்துக் கூறுவது வாகையின் துறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வல்லாண் என்றால் வலிமை."
+  },
+  {
+    "questionNumber": 27,
+    "question": "மன்னன் இறந்துபட்டான் எனத் துயருற்றுப் பாடுவது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொதுவியல் (கையறு நிலை)",
+        "rationale": "இறந்தவர்க்காக இரங்கிப் பாடுவது கையறு நிலை, இது பொதுவியலில் வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடாண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செயலற்று நிற்றல்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "வெண்பாமாலையில் 'பெருந்திணை' எவ்வாறு விளக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகச் சிறந்த காதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருந்தாக் காமம் (வயது முதிர்ந்தோர், வற்புறுத்தல்)",
+        "rationale": "வயது வேறுபாடு அல்லது ஒவ்வாத காதல் பெருந்திணை எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரர்களின் நட்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள் பக்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்பின் ஐந்திணைக்கு மாறுபட்டது."
+  },
+  {
+    "questionNumber": 29,
+    "question": "அரசன் போருக்குச் செல்லும் முன் 'குடை' மற்றும் 'வாள்' ஆகியவற்றை நல்ல நாளில் அனுப்புவது எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குடைநாட் கோள், வாள்நாட் கோள்",
+        "rationale": "வஞ்சித் திணையில் இது விளக்கப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரிசளித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடிசூட்டு விழா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெற்றி விழா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாட்கோள்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "வீரர்கள் போரில் பூக்களைச் சூடுவதன் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழகுக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்கள் அணியினரை அடையாளம் காணவும், போர் நோக்கத்தை உணர்த்தவும்",
+        "rationale": "குறிப்பிட்ட பூ குறிப்பிட்ட போர் முறையை (தாக்குதல்/தடுத்தல்) உணர்த்தும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடவுள் வழிபாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாசனைக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Identity card போல."
+  },
+  {
+    "questionNumber": 31,
+    "question": "புறப்பொருள் வெண்பாமாலை கூறும் திணைகளுக்கும் பூக்களுக்கும் உள்ள தொடர்பில் தவறானது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி - இட்லிப் பூ",
+        "rationale": "வெட்சிப்பூ சிவப்பு நிறமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழிஞை - முடக்கத்தான்",
+        "rationale": "சரி.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை - தாமரை",
+        "rationale": "தவறு. வாகை என்பது வாகை மரத்தின் பூ (Albizia lebbeck). தாமரை அல்ல.",
+        "isCorrect": true
+      },
+      {
+        "text": "நொச்சி - நொச்சி இலை/பூ",
+        "rationale": "சரி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெற்றிப் பூ."
+  },
+  {
+    "questionNumber": 32,
+    "question": "‘சந்தச் செய்யுள்’ என்று புகழப்படும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருப்புகழ்",
+        "rationale": "அது அருணகிரிநாதர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள் வெண்பாமாலை",
+        "rationale": "இதன் வெண்பாக்கள் ஓசை நயம் மிக்கவை, எனினும் 'சந்த நூல்' எனத் தனிப் பெயர் இல்லை, இது இலக்கண இலக்கிய நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிப்பு: இவ்வினா இத்தலைப்புக்குப் பொருந்தாது, ஆனால் வெண்பாமாலையின் வெண்பாக்கள் எளிமையானவை.",
+        "rationale": "விளக்கத்திற்காக.",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பராமாயணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேள்வி எண் 32 நீக்கம் அல்லது திருத்தம்: வெண்பாமாலையின் பா வகை: நேரிசை மற்றும் இன்னிசை வெண்பாக்கள்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "எயில் காத்தல் (கோட்டை காத்தல்) என்பது எத்திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நொச்சி",
+        "rationale": "எயில் என்றால் மதில்/கோட்டை. அதைக் காப்பது நொச்சி.",
+        "isCorrect": true
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "அது வளைத்தல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "அது நாடு காத்தல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "அது படையெடுப்பு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மதில்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "புறப்பொருள் வெண்பாமாலை உரை எந்தப் பதிப்பாசிரியரால் செம்மையாகப் பதிப்பிக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உ.வே.சாமிநாதையர்",
+        "rationale": "உ.வே.சா அவர்கள் இந்நூலைப் பதிப்பித்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழ்த் தாத்தா."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'பூவை நிலை' என்பது எத்திணையில் வரும் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடாண் திணை",
+        "rationale": "திருமால் (கண்ணன்) நிறத்தோடு காயாம்பூவை ஒப்பிட்டு அரசனைப் புகழ்வது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தும்பை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காயாம்பூ வண்ணம்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "வெண்பாமாலை காட்டும் 'காஞ்சி' திணையின் பொருள் தொல்காப்பியத்திலிருந்து எவ்வாறு மாறுபடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் 'நிலையாமை' என்கிறது; வெண்பாமாலை 'படையெடுப்பை எதிர்த்தல்' என்கிறது",
+        "rationale": "தொல்காப்பியத்தில் காஞ்சி என்பது உலக நிலையாமை. வெண்பாமாலையில் அது வஞ்சிக்கு மாறான போர்முறை (எதிரூன்றல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டும் ஒன்றுதான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பாமாலை காஞ்சியை நீக்கிவிட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம் காஞ்சியைப் போர் என்கிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிலையாமை vs போர்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "‘மழபுல வஞ்சி’ என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சித் திணையின் ஒரு துறை",
+        "rationale": "பகைவர் நாட்டைத் தீயிட்டு அழித்தலைக் கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மழைக்காலப் போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குழந்தைகளின் விளையாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எரி பரத்தல்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "கணவன் இறந்தபின் மனைவியும் தீப்பாய்ந்து இறத்தலை 'மூதானந்தம்' என்று கூறும் திணை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொதுவியல்",
+        "rationale": "பெண்களின் தீப்பாய்தல், விதவை நோன்பு போன்றவை பொதுவியலில் வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கைக்கிளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சதி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "ஒருதலைக் காமம் என்பது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கைக்கிளை",
+        "rationale": "ஒருதலைக் காதல் கைக்கிளை எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருந்திணை",
+        "rationale": "பொருந்தாக் காமம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு பக்கம் மட்டும்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "புறப்பொருள் வெண்பாமாலை உரை வாயிலாக நாம் அறியும் செய்தி என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பண்டையத் தமிழரின் போர் அறம் மற்றும் வாழ்வியல்",
+        "rationale": "போர் நடக்கும் முறை, வீரம், கொடை, நிலையாமை ஆகியவற்றை உரை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமையல் குறிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவ முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டிடக்கலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழர் வீரம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'செரு' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போர்",
+        "rationale": "செருக்களம் என்றால் போர்க்களம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செருப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செருக்களம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "புறப்பொருள் வெண்பாமாலையில் 'தழிஞ்சி' என்பது எத்திணையின் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சி",
+        "rationale": "பகைவர் அஞ்சி ஓடும்போது அவர்களைத் துரத்திச் செல்லாமல் அருளுவது அல்லது ஓடும் வீரரைப் பின்தொடர்ந்து சென்று தாக்குவது (இடத்திற்கு ஏற்ப). வெண்பாமாலை 'வஞ்சி'யில் இது வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நொச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதுகிட்டு ஓடுவோரைத் தாக்குதல்/அருளுதல்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஐயன் ஆரிதனார் சேரர் பரம்பரையைச் சேர்ந்தவர் என்பதை எதன் மூலம் அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறப்புப் பாயிரம்",
+        "rationale": "நூலின் சிறப்புப் பாயிரம் அவரை 'வானவர்' (சேரர்) என்றும் 'ஐயன்' என்றும் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவர் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவர் எழுதிய வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வெட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வில்லவர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'கொற்றவள்ளை' என்பது எத்திணைக்கு உரிய துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சி",
+        "rationale": "பகைவர் நாடு அழிவதற்கு இரங்கிப் பாடுவது கொற்றவள்ளை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பகைவர் அழிவுக்கு இரங்குதல்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "வெண்பாமாலை கூறும் துறைகளின் எண்ணிக்கை (தோராயமாக)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "30",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "81",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "341",
+        "rationale": "சுமார் 341 துறைகள் (பாடல்களின் எண்ணிக்கைக்கு ஏற்ப மாறுபடும்).",
+        "isCorrect": true
+      },
+      {
+        "text": "1000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "300க்கும் மேல்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "புறப்பொருள் வெண்பாமாலை எந்த நூற்றாண்டைச் சேர்ந்ததாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 9ஆம் நூற்றாண்டு",
+        "rationale": "இந்நூல் கி.பி. 9ஆம் நூற்றாண்டளவில் தோன்றியிருக்கலாம் எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 15ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சோழர் காலத் தொடக்கம்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'குடிநிலை' (குடிப்பெருமை பேசுதல்) எந்தத் திணையில் வரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரந்தை",
+        "rationale": "வீரர்களின் குடிப் பெருமையை பேசுவது கரந்தைத் திணையின் துறைகளுள் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "கைக்கிளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நொச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குலப் பெருமை."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'ஊர்கொலை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சித் திணைத் துறை",
+        "rationale": "ஆநிரை கவரச் செல்லும்போது ஊரை அழித்தல் அல்லது சூறையாடுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஊர் திருவிழா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவ முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரி வசூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊரை அழித்தல்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "புறப்பொருள் வெண்பாமாலைக்கு உரை எழுதியவர் உதாரணப் பாடல்களாக எவற்றைத் தந்துள்ளார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பாமாலையில் உள்ள வெண்பாக்களையே",
+        "rationale": "நூலில் உள்ள வெண்பாக்களே விதிகளுக்கு உதாரணங்களாக அமைந்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேவாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலிலேயே உதாரணம் உள்ளது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "வெண்பாமாலை கூறும் 'காந்தள்' எதனை அடையாளப்படுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெண்களின் கை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்காந்தள் பூ (கார் கால மலர்)",
+        "rationale": "இது ஒரு பூ.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறவர் குடியின் மாண்பு (காஞ்சித் திணைத் துறை)",
+        "rationale": "வெண்பாமாலையில் காஞ்சித் திணையில் 'காந்தள்' என்பது ஒரு துறையாக வந்து மறவர் குடியின் சிறப்பைக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மறக்குடி மாண்பு."
+  }
+]

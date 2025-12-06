@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இறையனார் அகப்பொருள் என்ற நூலை இயற்றியதாகக் கருதப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "நக்கீரர் இதற்கு உரை எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார் (சிவபெருமான்)",
+        "rationale": "மதுரை ஆலவாய் இறைவனே (சிவபெருமான்) இதனை இயற்றிப் பீடத்தின் கீழ் வைத்தார் என்பது வரலாறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மதுரை சோமசுந்தரர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "இறையனார் அகப்பொருள் வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவியல்",
+        "rationale": "இது அகப்பொருள் பற்றியது என்பதால் 'களவியல்' என்றும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்பியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் நெறி விளக்கம்",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள் விளக்கம்",
+        "rationale": "இது நம்பி அகப்பொருள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் முதல் பகுதி."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தமிழில் கிடைத்த முதல் உரைநடை நூல் (உரை நூல்) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலப்பதிகார அரும்பதவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார் அகப்பொருள் உரை (நக்கீரர் உரை)",
+        "rationale": "இதுவே தமிழில் நமக்குக் கிடைத்துள்ள மிகப் பழமையான உரைநடை நூல் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பிய இளம்பூரணர் உரை",
+        "rationale": "இது நக்கீரர் உரைக்குப் பிந்தையது.",
+        "isCorrect": false
+      },
+      {
+        "text": "களிற்றியானை நிரை",
+        "rationale": "இது திருக்குறள் பகுப்பு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்கங்கள் பற்றிய வரலாறு கூறும் உரை."
+  },
+  {
+    "questionNumber": 4,
+    "question": "இறையனார் அகப்பொருள் எத்தனை நூற்பாக்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1610",
+        "rationale": "இது தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "rationale": "இந்நூல் மொத்தம் 60 நூற்பாக்களை மட்டுமே கொண்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1330",
+        "rationale": "இது திருக்குறள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "இது நாலடியார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறுபது."
+  },
+  {
+    "questionNumber": 5,
+    "question": "முச்சங்கங்கள் (தலை, இடை, கடை) பற்றிய வரலாற்றை விரிவாகக் கூறும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இறையனார் களவியல் உரை",
+        "rationale": "நக்கீரர் எழுதிய இவ்வுரையில்தான் சங்கங்கள் பற்றிய முழுமையான தகவல்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "கடல்கோள் பற்றிக் கூறுகிறது, சங்க வரலாறு விரிவாக இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "இதில் சங்க வரலாறு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணிமேகலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நக்கீரர் எழுதியது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "இறையனார் அகப்பொருள் உரை யாரால் எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "மதுரை கணக்காயர் மகனார் நக்கீரரால் எழுதப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீலகண்டனார்",
+        "rationale": "நக்கீரர் பரம்பரையில் வந்தவர், உரையைத் தொகுத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமுருகாற்றுப்படை பாடியவர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "இறையனார் அகப்பொருள் நூல் தோன்றக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பன்னிரண்டு ஆண்டு பஞ்சம்",
+        "rationale": "பாண்டிய நாட்டில் 12 ஆண்டுகள் பஞ்சம் ஏற்பட்டதால் இலக்கணம் அழிந்துவிடாமல் காக்க இந்நூல் தோன்றியதாகக் வரலாறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் வெற்றி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னனின் ஆணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமண விழா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வற்கடம் (பஞ்சம்)."
+  },
+  {
+    "questionNumber": 8,
+    "question": "இறையனார் களவியல் உரையின் நடை எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எளிய பேச்சு வழக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை கலந்த செறிவான உரைநடை",
+        "rationale": "சந்த நயத்துடன் கூடிய, அடுக்குத் தொடர்கள் நிறைந்த செறிவான உரைநடை.",
+        "isCorrect": true
+      },
+      {
+        "text": "மணிப்பிரவாள நடை",
+        "rationale": "இது பிற்கால வழக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினா-விடை வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எதுகை மோனை அமைந்த உரை."
+  },
+  {
+    "questionNumber": 9,
+    "question": "இறையனார் அகப்பொருள் உரையில் மேற்கோளாகக் காட்டப்பட்டுள்ள நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாண்டிக்கோவை",
+        "rationale": "நூற்பாக்களுக்கு உதாரணச் செய்யுளாகப் பாண்டிக்கோவைப் பாடல்களே தரப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்கோவையார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நளவெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பராமாயணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாண்டியன் நெடுமாறன் பற்றிய கோவை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'பிந்து நூல்களின் முந்து நூல்கள்' என்று அழைக்கப்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியத்திற்கு முற்பட்ட நூல்கள்",
+        "rationale": "தவறு, அவை முந்து நூல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிற்காலத்தில் உரையாசிரியர்களால் மேற்கோள் காட்டப்பட்டு, தற்போது கிடைக்காத நூல்கள்",
+        "rationale": "யாப்பருங்கலம், நன்னூல் போன்ற பிற்கால (பிந்து) நூல்களில் மேற்கோள் காட்டப்பட்ட பழைய நூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க இலக்கியங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதினங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவிநயம், காக்கை பாடினியம் போன்றவை."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'அவிநயம்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவிநயனார்",
+        "rationale": "இவர் தொல்காப்பியர் காலத்தவர் அல்லது சற்றுப் பிற்பட்டவர் எனக் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனம்பாரனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காக்கை பாடினியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரிலேயே விடை உள்ளது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "அவிநயம் எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள் நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்திலக்கண நூல்",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, அணி ஆகிய ஐந்திற்கும் இலக்கணம் கூறியதாகத் தெரிகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத்துவ நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோதிட நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாப்பருங்கல விருத்தியுரையில் இதன் பாடல்கள் உள்ளன."
+  },
+  {
+    "questionNumber": 13,
+    "question": "அவிநயத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராச பவித்திரப் பல்லவதரையர்",
+        "rationale": "இவர் அவிநயத்திற்கு உரை எழுதியதாக யாப்பருங்கல விருத்தியுரை கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடியார்க்கு நல்லார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு பல்லவ மன்னர் அல்லது அதிகாரி."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'காக்கை பாடினியம்' என்ற நூல் எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பிலக்கணம்",
+        "rationale": "யாப்பு (செய்யுள்) இலக்கணம் பற்றிக் கூறும் பழைமையான நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமையல் கலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் கலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிற்பக் கலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுள் உறுப்புகளை விளக்குவது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "காக்கை பாடினியார் யாருடைய மாணவர் எனக் கருதப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியரின் 12 மாணவர்களுள் ஒருவர் என்றும், அல்லது அவர்களோடு படித்தவர் என்றும் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறுமுனிவரின் மாணவர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'விருந்தே தானும் புதுவது புனைந்த யாப்பின் மேற்றே' - எனத் தொல்காப்பியம் கூறுவது எதனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருந்தினர் உபசரிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதுக்கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதிதாகத் தோன்றிய இலக்கியங்கள் (விருந்து)",
+        "rationale": "பழையனவற்றிக்கு மாறாகப் புதிதாகப் புனையப்படும் இலக்கியங்களை 'விருந்து' எனத் தொல்காப்பியம் அழைக்கிறது. காக்கை பாடினியம் போன்றவை இவ்வகையில் வரலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வனப்புக்களுள் ஒன்று."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'சிறுகாக்கை பாடினியம்' என்ற நூல் எதிலிருந்து வேறுபட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேரகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காக்கை பாடினியம்",
+        "rationale": "காக்கை பாடினியம் பெரிய நூல், சிறுகாக்கை பாடினியம் அதன் சுருக்கம் அல்லது வேறொரு நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெரியது, சிறியது."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'பன்னிரு படலம்' என்ற நூல் எந்தப் பொருள் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "புறத்திணைகள் பற்றிக் கூறும் நூல். வெண்பா மாலைக்கு இதுவே முதல் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெட்சி, கரந்தை முதலியன."
+  },
+  {
+    "questionNumber": 19,
+    "question": "பன்னிரு படலத்தை இயற்றியவர்கள் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பன்னிரு ஆழ்வார்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியரின் மாணவர்கள் பன்னிருவர்",
+        "rationale": "தொல்காப்பியர் உள்ளிட்ட அகத்தியரின் 12 மாணவர்கள் ஆளுக்கு ஒரு படலமாகப் பாடித் தொகுத்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாயன்மார்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கப் புலவர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியர், அதங்கோட்டாசான் உள்ளிட்டோர்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'நத்தத்தம்' (நற்றத்தம்) என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நத்தத்தனார்",
+        "rationale": "இவர் அகத்தியரின் மாணவர்களுள் ஒருவர் எனக் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திரிகடுகம் ஆசிரியர் அல்லர்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'பல்காயம்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்காயனார்",
+        "rationale": "இவரும் அகத்தியரின் மாணவர்களுள் ஒருவராகக் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பனம்பாரனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காயம் என்றால் ஆகாயம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'மயேச்சுரம்' என்ற நூல் எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணம்",
+        "rationale": "யாப்பருங்கல விருத்தியுரையில் மயேச்சுரர் எழுதிய இலக்கண நூற்பாக்கள் மேற்கோளாகக் காட்டப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சித்தாந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யோகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மயேச்சுரர் இயற்றியது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'சங்க யாப்பு' என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்க காலத்தில் வழங்கிய யாப்பிலக்கண நூல்",
+        "rationale": "யாப்பருங்கல விருத்தியில் 'சங்க யாப்பு' என்ற பெயரில் மேற்கோள்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க இலக்கியத் தொகுப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கப் பலகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கு செய்யும் கலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுள் இலக்கணம்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "இறையனார் அகப்பொருள் உரை யாரால் கண்டுபிடிக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உ.வே.சாமிநாதையர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகண்டனார் (முசிறி)",
+        "rationale": "நக்கீரர் பரம்பரையில் வந்த இவர் செப்பேடுகளில் இருந்த உரையைத் தொகுத்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சி.வை.தாமோதரம் பிள்ளை",
+        "rationale": "பதிப்பித்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுமுக நாவலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்க காலத்திற்குப் பின் வந்தவர்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "இறையனார் களவியல் உரையில் கூறப்படும் 'தலைச்சங்கம்' எத்தனை ஆண்டுகள் நடைபெற்றதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4440 ஆண்டுகள்",
+        "rationale": "மிக நீண்ட காலம் நடைபெற்றதாகப் புராண மரபு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1850 ஆண்டுகள்",
+        "rationale": "இது கடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "3700 ஆண்டுகள்",
+        "rationale": "இது இடைச்சங்கம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்காயிரத்து நானூற்று நாற்பது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "தலைச்சங்கம் எங்கு நடைபெற்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தென்மதுரை",
+        "rationale": "கடல்கோளுக்கு முற்பட்ட தென்மதுரையில்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபாடபுரம்",
+        "rationale": "இது இடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமதுரை (இன்றைய மதுரை)",
+        "rationale": "இது கடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சிபுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடலில் மூழ்கிய நகரம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "இடைச்சங்கத்தில் அரங்கேற்றப்பட்ட முக்கிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குறள்",
+        "rationale": "கடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "இடைச்சங்க காலத்தில் தொல்காப்பியம் அரங்கேற்றப்பட்டதாக இறையனார் களவியல் உரை கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரியபுராணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நமக்குக் கிடைத்த முதல் நூல்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "இறையனார் அகப்பொருள் நூலை நக்கீரர் யாருக்குப் பொருள் உரைத்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாண்டிய மன்னனுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருத்திரசன்மருக்கு",
+        "rationale": "மதுரை உப்பூரிக்குடி கிழார் மகனார் உருத்திரசன்மர் என்ற ஊமைப் பிள்ளை கண்ணீர் விட்டு மெய்ப்பாடு காட்டியதால் இவரது உரை ஏற்கப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இறையனாருக்கே",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியருக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊமைப் பிள்ளை."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'பன்னிரு படலம்' இக்காலத்தில் கிடைக்கிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முழுமையாகக் கிடைக்கிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை, மறைந்துவிட்டது",
+        "rationale": "புறப்பொருள் வெண்பாமாலை தோன்றிய பின், மூல நூலான பன்னிரு படலம் வழக்கொழிந்து போனது. சில சூத்திரங்கள் மட்டுமே எஞ்சியுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாதி நூல் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இப்போதுதான் கண்டுபிடிக்கப்பட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெண்பாமாலை வந்ததால் இது மறைந்தது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "அவிநயத்தின் உரையாசிரியர் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராச பவித்திரப் பல்லவதரையர்",
+        "rationale": "யாப்பருங்கல விருத்தியில் இவர் பெயர் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருந்தேவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பல்லவப் பெயர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'வாய்ப்பியம்' என்பது எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இசை நூல்",
+        "rationale": "வாய்ப்பியம் என்பது தொல்காப்பியத்திற்கு முற்பட்ட அல்லது சமகாலத்தைய இசை/இலக்கண நூலாகக் கருதப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு நூல்",
+        "rationale": "வாய்ப்பியம் என்பது ஒரு பழைமையான இலக்கண நூல் (யாப்பு/பொது).",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத்துவ நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணித நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியர் 'யாப்பு' என்று குறிப்பிடும் முன்னோர் நூல்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "இறையனார் அகப்பொருள் கூறும் களவியல் வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு (இயற்கைப் புணர்ச்சி, இடந்தலைப்பாடு)",
+        "rationale": "குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "இயற்கைப் புணர்ச்சி, இடந்தலைப்பாடு, பாங்கற் கூட்டம், பாங்கியர் கூட்டம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "அது திணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கைகோள் வகைகள்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "நக்கீரர் உரை எதனை 'கற்பு' என்று வரையறுக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமணம் செய்து கொள்வது",
+        "rationale": "கரணம் (திருமணம்) நடப்பதே கற்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "காதலிப்பது",
+        "rationale": "அது களவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரிந்து செல்வது",
+        "rationale": "அது பாலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடல் கொள்வது",
+        "rationale": "அது மருதம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேள்வித் தீயைச் சான்றாகக் கொள்வது."
+  },
+  {
+    "questionNumber": 34,
+    "question": "காக்கை பாடினியம் எந்த யாப்பு வகைக்கு முக்கியத்துவம் அளிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா, ஆசிரியப்பா",
+        "rationale": "பழந்தமிழ் யாப்பு வகைகளை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "விருத்தம் பிற்கால வளர்ச்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதுக்கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஹைக்கூ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்க காலப் பாக்கள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பன்னிரு படலத்தில் 'வெட்சி' திணை எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிரை கவர்தல்",
+        "rationale": "பகைவர் நாட்டுப் பசுக்களைக் கவர்ந்து வருதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிரை மீட்டல்",
+        "rationale": "அது கரந்தை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோட்டை வளைத்தல்",
+        "rationale": "அது உழிஞை.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் செய்தல்",
+        "rationale": "பொதுவான போர் தும்பை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் புறத்திணை."
+  },
+  {
+    "questionNumber": 36,
+    "question": "தொல்காப்பியத்திற்கு முந்தைய இசை நூல் எதுவாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருநாரை",
+        "rationale": "பெருநாரை, பெருங்குருகு போன்றவை அழிந்துபோன இசை நூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "இது காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவாசகம்",
+        "rationale": "இது பக்தி நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "இது இலக்கணம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பறவையின் பெயர் கொண்டது."
+  },
+  {
+    "questionNumber": 37,
+    "question": "இறையனார் களவியல் உரையில் 'பாண்டியன்' எவ்வாறு சிறப்பிக்கப்படுகிறான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ் வளர்த்தவன்",
+        "rationale": "சங்கம் வைத்துத் தமிழ் வளர்த்த பெருமை பாண்டியர்களுக்கே உரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வடமொழி எதிர்ப்பாளன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் கொள்ளையன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்கத் தலைவன்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'மயேச்சுரர்' எம்மதத்தைச் சார்ந்தவர் எனக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "பெயரே சிவபெருமானைக் குறிக்கிறது (மகேஸ்வரர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிறித்தவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மகேஸ்வரன்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "இறையனார் அகப்பொருளைக் கண்டெடுத்த இடம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை மீனாட்சி அம்மன் கோயில் பீடம்",
+        "rationale": "இறைவன் பீடத்தின் அடியில் செப்பேடுகளில் எழுதப்பட்டிருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தஞ்சை பெரிய கோயில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொதிகை மலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடற்கரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆலவாய்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "அவிநயத்தின் சூத்திரங்கள் எந்த உரையில் அதிகம் காணப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பருங்கல விருத்தியுரை",
+        "rationale": "குணசாகரர் எழுதிய யாப்பருங்கல விருத்தியுரையில் அவிநயப் பாடல்கள் பல மேற்கோளாக உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல் மயிலைநாதர் உரை",
+        "rationale": "குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர் உரை",
+        "rationale": "குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேனாவரையம்",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாப்பு நூல் உரை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "இறையனார் அகப்பொருள் உரையில் கூறப்படும் 'கடைச்சங்கப் புலவர்கள்' எண்ணிக்கை எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "49",
+        "rationale": "நாற்பத்தொன்பது பேர் அவையில் இருந்தனர் (நக்கீரர் உட்பட).",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "63",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐம்பதுக்கு ஒன்று குறைவு."
+  },
+  {
+    "questionNumber": 42,
+    "question": "இறையனார் அகப்பொருள் நூலை முதலில் உரை எழுதியவர் யார் என்று பலரும் முயன்றனர். அதில் தோல்வியுற்றவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை மருதன் இளநாகனார்",
+        "rationale": "நக்கீரருக்கு முன் பலர் முயன்று இறைவனால் ஏற்கப்படவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு சங்கப் புலவர்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "இறையனார் அகப்பொருளின் முக்கிய நோக்கம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காதலின் சிறப்பை இலக்கணமாக வகுப்பது",
+        "rationale": "அகத்திணை இலக்கணத்தைச் சுருக்கமாகவும் தெளிவாகவும் கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முறைகளைக் கூறுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசை கற்பிப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம் கூறுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்பின் ஐந்திணை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "காக்கை பாடினியம், சிறுகாக்கை பாடினியம் - இவ்விரண்டும் எக்காலத்தில் மறைந்திருக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழர் காலத்திற்குப் பின்",
+        "rationale": "யாப்பருங்கலம் தோன்றிய பின் இவை வழக்கொழிந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலேயர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமிர்தசாகரர் நூலுக்குப் பின்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "நக்கீரர் உரை எந்த வகையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காண்டிகை உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தியுரை (விரிவுரை)",
+        "rationale": "நூற்பாவின் பொருளை மிக விரிவாகவும், வரலாற்றுச் செய்திகளோடும் விளக்குவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொழிப்புரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிக விரிவானது."
+  },
+  {
+    "questionNumber": 46,
+    "question": "பன்னிரு படலத்தில் 'கரந்தை' என்பது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கவரப்பட்ட ஆநிரைகளை மீட்டல்",
+        "rationale": "வெட்சிக்கு மாறானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோட்டையைக் காத்தல்",
+        "rationale": "நொச்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதில் வளைத்தல்",
+        "rationale": "உழிஞை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெற்றி வாகை சூடுதல்",
+        "rationale": "வாகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பசுக்களை மீட்பது."
+  },
+  {
+    "questionNumber": 47,
+    "question": "இறையனார் அகப்பொருள் உரை வரலாற்றின்படி தமிழ் எப்போது தோன்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்லாயிரம் ஆண்டுகளுக்கு முன் (ஊழிக் காலம்)",
+        "rationale": "மிகப் பழமையானது என்பது அதன் கருத்து.",
+        "isCorrect": true
+      },
+      {
+        "text": "நேற்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 1ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 300",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொன்மை."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'நத்தத்தம்' நூல் எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல் இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு (செய்யுள்) இலக்கணம்",
+        "rationale": "இதுவும் ஒரு யாப்பு நூலாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டிடக்கலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்தியர் மாணவர் நூல்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "பிந்து நூல்களின் முந்து நூல்கள் எதன் மூலம் அறியப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்வெட்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரையாசிரியர்களின் மேற்கோள்கள்",
+        "rationale": "பிற்கால உரையாசிரியர்கள் (பேராசிரியர், நச்சினார்க்கினியர், குணசாகரர்) தங்கள் உரையில் இவற்றை மேற்கோள் காட்டியுள்ளனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செவிவழிச் செய்திகள்",
+        "rationale": "நம்பகத்தன்மை குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொலைக்காட்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ-டு: 'என்றார் காக்கை பாடினியார்' என வருவது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "இறையனார் அகப்பொருள் உரையில் கூறப்படும் சங்கங்கள் எதனால் அழிந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல்கோள் (சுனாமி)",
+        "rationale": "கடல் பொங்கி நிலத்தை அழித்ததால் சங்கங்கள் அழிந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலநடுக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தீ விபத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றரசர்களின் படையெடுப்பு",
+        "rationale": "தவறு (முதன்மைக் காரணம் கடல்கோள்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடல் கொண்டது."
+  }
+]

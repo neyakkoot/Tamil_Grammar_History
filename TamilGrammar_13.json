@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நன்னூல் என்ற இலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "கி.பி. 13ஆம் நூற்றாண்டில் வாழ்ந்த சமண முனிவரான பவணந்தி முனிவரே நன்னூலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சீயகங்கன் வேண்டுகோளை ஏற்றவர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "நன்னூல் எந்த நூலை 'முதல் நூலாகக்' கொண்டு எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியத்தை முதல் நூலாகக் கொண்டு, காலத்திற்கு ஏற்பச் சில மாற்றங்களுடன் வழிநூலாக நன்னூல் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேமிநாதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முன்னோர் நூலின் வழி."
+  },
+  {
+    "questionNumber": 3,
+    "question": "நன்னூல் எத்தனை அதிகாரங்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று (எழுத்து, சொல், பொருள்)",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு (எழுத்து, சொல்)",
+        "rationale": "நன்னூல் எழுத்ததிகாரம், சொல்லதிகாரம் என இரண்டு அதிகாரங்களை மட்டுமே கொண்டுள்ளது. (பொருள், யாப்பு, அணி ஆகியன அழிந்துவிட்டதாகக் கருதப்படுகிறது அல்லது எழுதப்படவில்லை).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழிக்கு முதன்மையான இரண்டு."
+  },
+  {
+    "questionNumber": 4,
+    "question": "பவணந்தி முனிவரை ஆதரித்து, நன்னூல் எழுதக் காரணமாக இருந்த மன்னன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சீயகங்கன்",
+        "rationale": "கங்க நாட்டை ஆண்ட அமராபரணன் என்கிற சீயகங்கன் என்ற சிற்றரசன் வேண்டுகோளின்படி நன்னூல் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரராசேந்திர சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராஜராஜ சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கங்க மன்னன்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "நன்னூல் பாயிரம் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு (பொது, சிறப்பு)",
+        "rationale": "பொதுப்பாயிரம், சிறப்புப்பாயிரம் என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலுக்கு முகம் போன்றது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "நன்னூலின் படி, ஆசிரியராக ஆவதற்குத் தகுதியற்றவர்கள் (ஆகாதவர்) எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்கு",
+        "rationale": "கழற்குடம், மடற்பனை, பருத்திக்குண்டிகை, முடத்தெங்கு ஆகிய நால்வரும் ஆசிரியர் ஆகார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கழற்குடம், மடற்பனை..."
+  },
+  {
+    "questionNumber": 7,
+    "question": "நன்னூல் குறிப்பிடும் மாணவர் வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று (தலை, இடை, கடை)",
+        "rationale": "மாணவர்களைத் தலைமாணாக்கர், இடைமாணாக்கர், கடைமாணாக்கர் என மூவகையாகப் பிரிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்னம், மண், எருமை..."
+  },
+  {
+    "questionNumber": 8,
+    "question": "நன்னூலின் படி தமிழ் எழுத்துக்களின் மொத்த எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "247",
+        "rationale": "தற்காலக் கணக்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "rationale": "முதல் எழுத்துக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "269 (அல்லது உரையாசிரியர்கள் கணக்குப்படி மாறுபடும்)",
+        "rationale": "நன்னூல் கூறும் சார்பெழுத்துக்களின் விரிவான வகைப்பாட்டின்படி (உயிர்மெய் 216 + ஆய்தம் 8 + ...) எண்ணிக்கை மிக அதிகம் (369 எனச் சிலர் கணக்கிடுவர்). குறிப்பு: சார்பெழுத்து 10 வகை, விரித்தால் 369.",
+        "isCorrect": false
+      },
+      {
+        "text": "சார்பெழுத்து 10 வகை, முதலெழுத்து 30",
+        "rationale": "இதுவே அடிப்படைப் பாகுபாடு.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "கேள்வி எண் 8 விளக்கம்: நன்னூல் சார்பெழுத்துக்களை 10 வகையாகப் பிரிக்கிறது. (உயிர்மெய், ஆய்தம், உயிரளபெடை...)."
+  },
+  {
+    "questionNumber": 9,
+    "question": "நன்னூலில் எழுத்ததிகாரம் எத்தனை இயல்களாகப் பகுக்கப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "எழுத்தியல், பதவியல், உயிரீற்றுப் புணரியல், மெய்யீற்றுப் புணரியல், உருபு புணரியல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்து முதல் உருபு வரை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "பவணந்தி முனிவர் சமண சமயத்தவர் என்பதை எதன் மூலம் அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடவுள் வாழ்த்து",
+        "rationale": "'மலர்தலை உலகின்...' எனத் தொடங்கும் பாடலில் அருகக் கடவுளை வணங்குவதால்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவர் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊர் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னன் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அருகன்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'பழையன கழிதலும் புதியன புகுதலும் வழுவல கால வகையினான' - என்ற நூற்பா இடம்பெற்ற நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "கால மாற்றத்திற்கேற்ப மொழியில் ஏற்படும் மாற்றங்களை ஏற்க வேண்டும் எனக் கூறும் புகழ்பெற்ற நன்னூல் நூற்பா.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாற்றம் ஒன்றே மாறாதது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "நன்னூலுக்குக் கிடைத்த மிகப் பழமையான உரை யாருடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "மயிலைநாதர் உரையே நன்னூலுக்குக் கிடைத்த முதல் உரையாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்கர நமச்சிவாயர்",
+        "rationale": "இவர் பிற்காலத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவஞான முனிவர்",
+        "rationale": "இவர் பிற்காலத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுமுக நாவலர்",
+        "rationale": "இவர் 19ஆம் நூற்றாண்டு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மயிலாப்பூரைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "நன்னூலில் சொல்லதிகாரம் எத்தனை இயல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "பெயரியல், வினையியல், பொதுவியல், இடையியல், உரியியல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயர், வினை, இடை, உரி, பொது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'பதவியல்' என்ற தனிப் பிரிவை வகுத்த முதல் இலக்கண நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியம் கிளவியாக்கத்தில் சொற்களைப் பேசுகிறது, பதவியல் எனத் தனி இயல் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூலில்தான் 'பதவியல்' (பகுபதம், பகாப்பதம்) எழுத்ததிகாரத்தின் ஒரு பகுதியாகத் தனித்து விளக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார் அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பகுபத உறுப்பிலக்கணம்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "பகுபத உறுப்புகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறு",
+        "rationale": "பகுதி, விகுதி, இடைநிலை, சாரியை, சந்தி, விகாரம் என ஆறு உறுப்புகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பகுதி முதல் விகாரம் வரை."
+  },
+  {
+    "questionNumber": 16,
+    "question": "நன்னூல் குறிப்பிடும் 'சார்பெழுத்து' வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "தொல்காப்பியம் 3 என்கிறது (குற்றியலுகரம், குற்றியலிகரம், ஆய்தம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "உயிர்மெய், ஆய்தம், உயிரளபெடை, ஒற்றளபெடை, குற்றியலுகரம், குற்றியலிகரம், ஐகாரக்குறுக்கம், ஔகாரக்குறுக்கம், மகரக்குறுக்கம், ஆய்தக்குறுக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரிவான பாகுபாடு."
+  },
+  {
+    "questionNumber": 17,
+    "question": "சங்கர நமச்சிவாயர் எழுதிய நன்னூல் உரை எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல் விருத்தியுரை",
+        "rationale": "இவர் எழுதிய உரை விரிவாக அமைந்ததால் விருத்தியுரை எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காண்டிகை உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொழிப்புரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவஞான முனிவரின் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "சிவஞான முனிவர் நன்னூலுக்குச் செய்த பணி யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்கர நமச்சிவாயர் உரையைத் திருத்திப் 'புத்தம் புத்துரை' (விருத்தியுரை) எழுதினார்",
+        "rationale": "சங்கர நமச்சிவாயரின் உரையைச் செப்பனிட்டு, சில இடங்களில் திருத்தி விரிவான உரை எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூலை ஆங்கிலத்தில் மொழிபெயர்த்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூலை எரித்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூலுக்குப் பாயிரம் பாடினார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாபாடியம் எழுதியவர்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "மாணவர்களுக்கு எளிமையாகப் புரியும் வகையில் 'காண்டிகை உரை' எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறுமுக நாவலர்",
+        "rationale": "நன்னூல் காண்டிகை உரை (Navalar Commentary) இன்றும் மாணவர்களால் பெரிதும் பயன்படுத்தப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாழ்ப்பாணத்து அறிஞர்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "நன்னூலில் மொத்தம் எத்தனை நூற்பாக்கள் உள்ளன (தோராயமாக)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "462",
+        "rationale": "பதிப்புகளுக்கு ஏற்பச் சிறு மாற்றம் இருப்பினும், பொதுவாக 462 நூற்பாக்கள் எனக் கொள்ளப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "1610",
+        "rationale": "தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1330",
+        "rationale": "திருக்குறள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நானூற்று அறுபதுக்கு மேல்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "நன்னூல் கூறும் 'பொதுவியல்' (சொல்லதிகாரம்) எவற்றை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர், வினை, இடை, உரி ஆகிய நான்கு சொற்களுக்கும் பொதுவான இலக்கணம்",
+        "rationale": "திணை, பால், எண், இடம், வழு, வழாநிலை போன்ற பொதுவான செய்திகளை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறக்கருத்துகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் முறைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எல்லாச் சொற்களுக்கும் பொதுவானது."
+  },
+  {
+    "questionNumber": 22,
+    "question": "நன்னூலார் 'காரணப் பெயர்', 'இடுகுறிப் பெயர்' பற்றி விளக்குகிறாரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், பெயரியலில் விளக்குகிறார்",
+        "rationale": "இடுகுறி, காரணம், இடுகுறிச் சிறப்பு, காரணச் சிறப்பு எனப் பெயர்களை வகைப்படுத்துகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம் மட்டுமே கூறுகிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது ஆங்கில இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயர்ச்சொல் வகைகள்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "மொழிக்கு முதலில் வரும் எழுத்துக்கள் எத்தனை என நன்னூல் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "22",
+        "rationale": "உயிர் 12, மெய் 10 (க், ச், த், ந், ப், ம், வ், ய், ஞ், ங்).",
+        "isCorrect": true
+      },
+      {
+        "text": "30",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பன்னீருயிரும் கசதந பமவ யஞங."
+  },
+  {
+    "questionNumber": 24,
+    "question": "மொழிக்கு இறுதியில் வரும் எழுத்துக்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "24",
+        "rationale": "உயிர் 12 + மெய் 11 + குற்றியலுகரம் 1.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயிர், மெய், உகரம்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'விசாகப் பெருமாளையர்' எழுதிய நன்னூல் உரை எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வினா-விடை வடிவிலான காண்டிகை உரை",
+        "rationale": "மாணவர்கள் கற்க எளிமையாக வினா-விடை முறையில் அமைந்தது (ஆறுமுக நாவலருக்கு முற்பட்டது).",
+        "isCorrect": true
+      },
+      {
+        "text": "மிகக் கடினமான உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கில உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சென்னை கல்விச் சங்கத் தலைவர்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "கூலகை தம்பிரான் உரை என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூழங்கைத் தம்பிரான் எழுதிய உரை",
+        "rationale": "இதுவும் நன்னூலுக்குக் கிடைத்துள்ள ஒரு பழைய உரை.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோயில் பற்றிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூழ் பற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஈழத்து அறிஞர்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "நன்னூல் வேற்றுமை உருபுகளை எத்தனை எனக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        "rationale": "முதல் வேற்றுமை (எழுவாய்) முதல் எட்டாம் வேற்றுமை (விளி) வரை 8.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தொல்காப்பியம் விளி வேற்றுமையைச் சேர்க்காமல் 7 என்னும் (சிலர் கருத்து). நன்னூல் 8 எனத் தெளிவாகக் காட்டும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐ, ஆல், கு, இன், அது, கண்..."
+  },
+  {
+    "questionNumber": 28,
+    "question": "நன்னூல் 'ஆறறிவு' உயிர்களைப் பற்றிப் பேசுகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இல்லை",
+        "rationale": "நன்னூல் எழுத்து, சொல் இலக்கணம் மட்டுமே பேசுவதால் உயிரினப் பாகுபாடு (பொருள் இலக்கணம்) இதில் இல்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆம்",
+        "rationale": "தொல்காப்பியத்தில் மட்டுமே உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறிது பேசுகிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனி அதிகாரம் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொருள் அதிகாரம் இல்லை."
+  },
+  {
+    "questionNumber": 29,
+    "question": "நன்னூலார் குறிப்பிடும் 'நால்வகைச் சொற்கள்' எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர், வினை, இடை, உரி",
+        "rationale": "இது இலக்கண வகைப்பாடு.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயற்சொல், திரிசொல், திசைச்சொல், வடசொல்",
+        "rationale": "இது இலக்கிய வகைப்பாடு (நன்னூல் இதையும் விளக்குகிறது, ஆனால் அடிப்படை இலக்கணப் பாகுபாடு பெயர், வினை, இடை, உரி).",
+        "isCorrect": false
+      },
+      {
+        "text": "அகம், புறம், களவு, கற்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திணை, பால், எண், இடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Grammatical categories."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'எழுத்தெனப் படுவ அகர முதல னகர இறுவாய் முப்பஃ தென்ப' - இது எந்த நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "சரியான விடை தொல்காப்பியம். நன்னூல் 'பூமலி அசோகின்...' எனத் தொடங்கும் (கடவுள் வாழ்த்து) அல்லது 'எழுத்தியல்' தொடக்கம் வேறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூலின் நூற்பா: 'மொழியி முதலி னிலையி னிறுதியி...'.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேள்வி எண் 30 திருத்தம்: இது தொல்காப்பிய நூற்பா. நன்னூலை வேறுபடுத்திக் காட்டக் கேட்கப்பட்டது."
+  },
+  {
+    "questionNumber": 31,
+    "question": "பவணந்தி முனிவர் வாழ்ந்த ஊர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சனகாபுரம்",
+        "rationale": "நன்னூல் சிறப்புப் பாயிரம் 'சனகாபுரத்துத் தவமுனி' எனக் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயிலாப்பூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சனகன் பெயர் கொண்ட ஊர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "நன்னூல் 'மெய்யீற்றுப் புணரியல்' எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மெய்யெழுத்தில் முடியும் சொற்களோடு வருமொழி சேரும் முறை",
+        "rationale": "ண், ம், ல், வ் போன்ற மெய்களில் முடியும் சொற்களின் புணர்ச்சி விதிகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயிரெழுத்தில் முடியும் சொற்கள்",
+        "rationale": "அது உயிரீற்றுப் புணரியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபு புணர்ச்சி",
+        "rationale": "அது உருபு புணரியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடசொல் புணர்ச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புள்ளி ஈறு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஆசிரியருக்குரிய குணங்களாக நன்னூல் எவற்றைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குலன், அருள், தெய்வம், கொள்கை...",
+        "rationale": "நல்லாசிரியர் இலக்கணம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம், அதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபம், கடுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிலம், மலை, நிறை கோல், மலர்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "நன்னூலார் குறிப்பிடும் 'நூலின் குற்றங்கள்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பத்து",
+        "rationale": "குன்றக் கூறல், மிகைபடக் கூறல், கூறியது கூறல்... உள்ளிட்ட 10 குற்றங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முப்பத்து இரண்டு",
+        "rationale": "இது உத்திகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குன்றக் கூறல்..."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'நூல்' (Book) என்பதற்குப் பவணந்தி கூறும் உவமை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பஞ்சு",
+        "rationale": "பஞ்சு நூலாக மாறுவது போல, சொற்கள் நூலாகின்றன (நூல் என்ற சொல்லுக்கான காரண விளக்கம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பஞ்சிதன் சொல்லாப் பனுவல் இழையாக."
+  },
+  {
+    "questionNumber": 36,
+    "question": "நன்னூல் 'உயிர் மயங்கியல்' என்று தனி இயல் வைத்துள்ளதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இல்லை",
+        "rationale": "தொல்காப்பியத்தில் உள்ளது; நன்னூலில் இது 'உயிரீற்றுப் புணரியல்' என்று அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆம்",
+        "rationale": "தவறு (பெயர் மாற்றம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "அது சொல்லதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயர் மாற்றம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'வழு' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குற்றம் (இலக்கணப் பிழை)",
+        "rationale": "திணை, பால், இட மாறுபாடு போன்றவை வழு.",
+        "isCorrect": true
+      },
+      {
+        "text": "சரி (வழாநிலை)",
+        "rationale": "பிழையின்மை வழாநிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வழுக்குதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழைப்பழம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செழிப்பா, வழுவா?"
+  },
+  {
+    "questionNumber": 38,
+    "question": "நன்னூல் கூறும் 'வழுவமைதி' என்பது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணப் பிழையாயினும், பெரியோர்களால் ஏற்றுக்கொள்ளப்படுவது",
+        "rationale": "காரணம் கருதிப் பிழையைச் சரியென ஏற்றுக்கொள்வது. (எ-டு: 'என் அம்மை வந்தாள்' என்று மாட்டைப் பார்த்துச் சொல்வது - திணை வழுவமைதி).",
+        "isCorrect": true
+      },
+      {
+        "text": "பிழையைத் திருத்துவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைதியாக இருப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிழை செய்யாமல் இருப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உவப்பு, உயர்வு, சினம் காரணமாக."
+  },
+  {
+    "questionNumber": 39,
+    "question": "மயிலைநாதர் உரை நன்னூலின் எந்தப் பதிப்பில் அதிகம் காணப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உ.வே.சா பதிப்பு",
+        "rationale": "உ.வே.சா அவர்கள் மயிலைநாதர் உரையுடன் நன்னூலைப் பதிப்பித்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆறுமுக நாவலர் பதிப்பு",
+        "rationale": "அவர் காண்டிகை உரை எழுதினார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழகப் பதிப்பு",
+        "rationale": "பல உரைகள் உண்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரி நிலையம்",
+        "rationale": "பொதுவானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழ்த் தாத்தா."
+  },
+  {
+    "questionNumber": 40,
+    "question": "நன்னூல் குறிப்பிடும் 'நூலின் அழகு' (வனப்பு) எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        "rationale": "தொல்காப்பியம் கூறும் அம்மை, அழகு, தொன்மை... உள்ளிட்ட 8 வனப்புகளை நன்னூலும் ஏற்கிறது (பாயிரத்தில்).",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அம்மை, அழகு..."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'ஊற்றங்கால் ஆண்டிப் புலவர்' உரை எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு அரிய உரை",
+        "rationale": "நன்னூலுக்கு எழுதப்பட்ட உரைகளுள் இதுவும் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கில உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்யுள் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடக உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆண்டிப் புலவர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "நன்னூல் 'வடமொழி ஆக்கம்' (Sanskrit adaptation) பற்றிக் கூறுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொதுவியல் பகுதியில் வட எழுத்துக்களைத் தமிழில் எழுதும் முறை பற்றிக் கூறுகிறது",
+        "rationale": "கிரந்த எழுத்துக்களை (ஹ, ஸ, ஜ...) தமிழ்ப்படுத்தும் விதிகளைக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கூடாது என்கிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழியே சிறந்தது என்கிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுவும் கூறவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதவியல்/பொதுவியல்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'எழுத்ததிகாரம்' எத்தனை நூற்பாக்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "202 (சுமார் 200)",
+        "rationale": "தோராயமாக 200க்கும் மேற்பட்ட நூற்பாக்கள் எழுத்ததிகாரத்தில் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாதி நூல்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "இராமாநுசக் கவிராயர் உரை எப்போது தோன்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19ஆம் நூற்றாண்டு",
+        "rationale": "நவீன காலத்தில் தோன்றிய உரைகளுள் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "13ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நவீன உரை."
+  },
+  {
+    "questionNumber": 45,
+    "question": "நன்னூலைப் பாடநூலாகக் கொண்டு கற்பிக்கும் மரபு எப்போது தொடங்கியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தோன்றிய காலத்திலிருந்தே (கி.பி. 13)",
+        "rationale": "எளிமையும் தெளிவும் காரணமாகத் தொல்காப்பியத்திற்குப் பின் முதன்மைப் பாடநூலாக மாறியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலேயர் வந்த பின்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "20ஆம் நூற்றாண்டில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இப்போதுதான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "700 ஆண்டுகளாக."
+  },
+  {
+    "questionNumber": 46,
+    "question": "சடகோப ராமாநுசாசாரியார் நன்னூலுக்கு என்ன செய்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பதிப்பித்தார் மற்றும் உரை எழுதினார் (காண்டிகை/விருத்தி)",
+        "rationale": "வைணவ அறிஞரான இவர் நன்னூலுக்குச் சிறந்த உரை விளக்கங்களை அளித்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எதிர்த்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழித்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிபெயர்த்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வைணவர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "நன்னூல் 'உரிச்சொல்'லை எவ்வாறு விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல வகைப் பண்புகளையும் குறிக்கும் சொல்",
+        "rationale": "சால, உறு, தவ, நனி... போன்றவை. இசை, குறிப்பு, பண்பு ஆகியவற்றை உணர்த்துவன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெயர்ச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடைச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உரிமை உடையது."
+  },
+  {
+    "questionNumber": 48,
+    "question": "நன்னூல் கூறும் 'மதம்' (கொள்கை) எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏழு",
+        "rationale": "உடன்படல், மறுத்தல், பிறர் தம் மதமேற்கொண்டு களைதல்... உள்ளிட்ட 7 மதங்கள் (நூலாசிரியரின் கொள்கைகள்).",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூன்மரபு."
+  },
+  {
+    "questionNumber": 49,
+    "question": "நன்னூல் எந்தப் பா வகையால் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூற்பா (சுத்திர யாப்பு / ஆசிரியப்பா இனம்)",
+        "rationale": "மனனம் செய்யத் தகுந்த 'நூற்பா' வடிவில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூத்திரம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "நன்னூல் இக்காலத்தில் ஏன் முக்கியத்துவம் பெறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ்க் கல்வியின் அடிப்படை இலக்கண நூலாகத் திகழ்வதால்",
+        "rationale": "பள்ளி, கல்லூரிகளில் தமிழ் இலக்கணம் கற்க நன்னூலே அடிப்படையாக உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அது கதைக் களஞ்சியம் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிகப் பெரிய நூல் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகுக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இன்றைய பாடத்திட்டம்."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தண்டியலங்காரம் எவ்வகை இலக்கண நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பிலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணியிலக்கணம்",
+        "rationale": "தண்டியலங்காரம் அணிகளை (Figures of Speech) மட்டுமே விளக்கும் சிறப்பு இலக்கண நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுளின் அழகைக் கூறுவது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தண்டியலங்காரத்தின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தண்டி",
+        "rationale": "தண்டி என்ற புலவரால் இயற்றப்பட்டதால் இது தண்டியலங்காரம் எனப் பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்டபாணி சுவாமிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் பெயரிலேயே ஆசிரியர் பெயர் உள்ளது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தண்டியலங்காரம் எந்த வடமொழி நூலைத் தழுவி எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காவ்யாதர்சம்",
+        "rationale": "வடமொழியில் தண்டி (இன்னொருவர்) எழுதிய 'காவ்யாதர்சம்' என்ற நூலைத் தழுவியே தமிழில் தண்டியலங்காரம் எழுதப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சந்திராலோகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குவலயானந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரதாப ருத்ரீயம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காவியம் + ஆதர்சம்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "தண்டியலங்காரம் எத்தனை பிரிவுகளை (இயல்களை) உடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "பொதுவியல், பொருளணியியல், சொல்லணியியல் என மூன்று பிரிவுகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொது, பொருள், சொல்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "தண்டியலங்காரம் கூறும் பொருளணிகளின் எண்ணிக்கை எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "35",
+        "rationale": "தன்மை அணி முதல் பாविकம் ஈறாக 35 பொருளணிகளை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "64",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முப்பத்து ஐந்து."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தண்டியலங்கார ஆசிரியர் தண்டி எந்தக் காலத்தைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 12ஆம் நூற்றாண்டு",
+        "rationale": "இரண்டாம் குலோத்துங்க சோழன் அல்லது விக்கிரம சோழன் காலத்தில் (கி.பி. 12ஆம் நூற்றாண்டு) வாழ்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 18ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 7ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கம்பருக்குச் சற்றுப் பிந்தையவர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "செய்யுளின் உறுப்புகளில் ஒன்றாகிய 'அணி' என்பதற்கு என்ன பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழகு",
+        "rationale": "பெண்ணுக்கு அணிகலன் அழகு சேர்ப்பது போல, செய்யுளுக்கு அழகு சேர்ப்பது அணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அலங்காரம்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "தண்டியலங்காரத்தின் 'பொதுவியல்' எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செய்யுள் வகைகள், காப்பிய இலக்கணம், நெறிகள் (Style)",
+        "rationale": "முத்தகம், குளகம் போன்ற செய்யுள் வகைகளையும், வைதருப்பம், கௌடம் ஆகிய நெறிகளையும் விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை அணி மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல் விளையாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அடிப்படைச் செய்திகள்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "தண்டி குறிப்பிடும் இரண்டு வகையான செய்யுள் நெறிகள் (Styles) எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைதருப்பம், கௌடம்",
+        "rationale": "மென்மையான நடை 'வைதருப்பம்', கடினமான நடை 'கௌடம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வடமொழி, தென்மொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செந்தமிழ், கொடுந்தமிழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல், இசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விதர்ப்ப நாடு, கௌட நாடு."
+  },
+  {
+    "questionNumber": 10,
+    "question": "சிறந்த காவியத்திற்கு (வைதருப்ப நெறிக்கு) எத்தனை குணங்கள் இருக்க வேண்டும் எனத் தண்டி கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "செறிவு, தெளிவு, சமநிலை, இன்பம், ஒழுகிசை, உதாரம், உய்த்தலில் பொருண்மை, காந்தம், வலி, சமாதி ஆகிய 10 குணங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்துக் குணங்கள்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "பொருளை இயல்பு நவிற்சியாகக் கூறுவது எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தன்மை அணி (இயல்பு நவிற்சி)",
+        "rationale": "எப்பொருளையும் அதன் இயல்பு மாறாமல் கூறுவது தன்மை அணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருவக அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உயர்வு நவிற்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உள்ளதை உள்ளபடி கூறுதல்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "ஒன்றை மற்றொன்றோடு ஒப்பிட்டுக் கூறுவது எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமை அணி",
+        "rationale": "'மயில் போல ஆடினாள்' என ஒப்பிடுவது உவமை.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருவகம்",
+        "rationale": "அது வேறுபடுத்தாது கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தற்குறிப்பேற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போல, புரைய."
+  },
+  {
+    "questionNumber": 13,
+    "question": "உவமையையும் பொருளையும் வேறுபடுத்தாமல் இரண்டும் ஒன்றே எனக் கூறுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருவக அணி",
+        "rationale": "முகம் வேறு, நிலவு வேறு என்று சொல்லாமல் 'முகநிலவு' என ஒன்றாக்குவது உருவகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை அணி",
+        "rationale": "நிலவு போன்ற முகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பின்வருநிலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலேடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வழியொழுகி விழிவெள்ளம் (கண்ணீரை வெள்ளமாக உருவகித்தல்)."
+  },
+  {
+    "questionNumber": 14,
+    "question": "இயல்பாக நடக்கும் நிகழ்ச்சியின் மீது கவிஞர் தன் குறிப்பை ஏற்றிக் கூறுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தற்குறிப்பேற்ற அணி",
+        "rationale": "தன் + குறிப்பு + ஏற்றம். எ-டு: கோவலன் மதுரைக்குள் வரும்போது கொடி அசைந்தது, 'வரவேண்டாம்' எனத் தடுப்பது போல் இருந்தது என்று கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தன்மை அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சப்புகழ்ச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிலப்பதிகாரக் கொடி அசைவு."
+  },
+  {
+    "questionNumber": 15,
+    "question": "புகழ்வது போலப் பழிப்பதும், பழிப்பது போலப் புகழ்வதும் எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சப்புகழ்ச்சி அணி",
+        "rationale": "வஞ்சமாக (மறைமுகமாக) புகழ்தல் அல்லது இகழ்தல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்வு நவிற்சி",
+        "rationale": "மிகையாகப் புகழ்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தற்குறிப்பேற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேவர் அனையர் கயவர்..."
+  },
+  {
+    "questionNumber": 16,
+    "question": "ஒரு சொல் அல்லது தொடர் இருபொருள் தருமாறு பாடுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலேடை (இரட்டுற மொழிதல்)",
+        "rationale": "சிலேடை என்றால் 'சேர்ந்து இசைத்தல்'. ஒரே சொல் இரண்டு பொருளைத் தரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யமகம்",
+        "rationale": "அது மடக்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரிபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Double meaning."
+  },
+  {
+    "questionNumber": 17,
+    "question": "முன்னர் வந்த சொல்லோ, பொருளோ மீண்டும் மீண்டும் வருவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பின்வருநிலை அணி",
+        "rationale": "சொல் பின்வருநிலை, பொருள் பின்வருநிலை, சொற்பொருள் பின்வருநிலை என மூன்று வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன்வருநிலை",
+        "rationale": "இப்படி ஒரு அணி இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிரல்நிறை",
+        "rationale": "வரிசையாக நிறுத்துவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மடக்கு",
+        "rationale": "வேறு பொருள் தருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துப்பார்க்குத் துப்பாய..."
+  },
+  {
+    "questionNumber": 18,
+    "question": "தண்டியலங்காரத்தின் 'சொல்லணியியல்' எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மடக்கு (யமகம்) மற்றும் சித்திரக் கவிகள்",
+        "rationale": "சொற்களை வைத்துச் செய்யும் வித்தைகள் (Visual poetry, Repetition puzzles) இதில் அடங்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை",
+        "rationale": "அது பொருளணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "தன்மை",
+        "rationale": "அது பொருளணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "காப்பிய இலக்கணம்",
+        "rationale": "அது பொதுவியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல் விளையாட்டு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'மடக்கு' (Yamakam) என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரே சொல் மீண்டும் மீண்டும் வந்து வேறு வேறு பொருள் தருவது",
+        "rationale": "சொல் அல்லது அடி மடங்கி வருவது, ஆனால் பொருள் மாறுபடும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரே சொல் மீண்டும் வந்து அதே பொருள் தருவது",
+        "rationale": "அது சொற்பொருள் பின்வருநிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மடக்கிக் கட்டுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடிதத்தை மடக்குவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆடு, பாடு (வேறு பொருள்)."
+  },
+  {
+    "questionNumber": 20,
+    "question": "தண்டியலங்காரம் கூறும் 'சித்திரக் கவி' வகைகளுள் ஒன்று?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாலை மாற்று (Palindrome)",
+        "rationale": "திருஞானசம்பந்தர் பாடியது போல, முன்னிருந்து படித்தாலும் பின்னிருந்து படித்தாலும் ஒன்றாக வருவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதுக்கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஹைக்கூ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாவல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாமாமாநீ..."
+  },
+  {
+    "questionNumber": 21,
+    "question": "தண்டியலங்காரம் காப்பியம் எத்தனை வகைப்படும் எனக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு (பெருங்காப்பியம், சிறுகாப்பியம்)",
+        "rationale": "அறம், பொருள், இன்பம், வீடு ஆகிய நான்கும் அமைந்தால் பெருங்காப்பியம்; ஏதேனும் குறைந்தால் சிறுகாப்பியம் (காப்பியம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து (ஐம்பெருங்காப்பியம்)",
+        "rationale": "ஐம்பெருங்காப்பியம் என்ற வகைப்பாட்டை இது விளக்கவில்லை, பொதுவான காப்பிய இலக்கணத்தையே கூறுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெரியது, சிறியது."
+  },
+  {
+    "questionNumber": 22,
+    "question": "சொற்களை முறைப்பட நிறுத்தி, அதே முறையில் பொருள் கொள்வது எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிரல்நிறை அணி",
+        "rationale": "அன்பும் அறனும் உடைத்தாயின்... என்பது போல வரிசையாக நிறுத்திப் பொருள் கொள்வது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாற்று அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நவிற்சி அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வரிசை."
+  },
+  {
+    "questionNumber": 23,
+    "question": "இல்லாத ஒன்றை (உலகில் இல்லாதது) உவமையாகக் கூறுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இல் பொருள் உவமை அணி",
+        "rationale": "எ-டு: 'பொன்மழை பொழிந்தது போல' (பொன் மழை பெய்யாது).",
+        "isCorrect": true
+      },
+      {
+        "text": "உள்ளுறை உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏகதேச உருவகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எடுத்துக்காட்டு உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குதிரைக்குக் கொம்பு முளைத்தது போல."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'தீவக அணி' (Deepakam) என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விளக்கு",
+        "rationale": "ஓரிடத்தில் வைத்த விளக்கு பல இடங்களுக்கும் வெளிச்சம் தருவது போல, ஒரு சொல் பல இடங்களிலும் சென்று பொருள் தருவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தீவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெருப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணிகலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விளக்கு."
+  },
+  {
+    "questionNumber": 25,
+    "question": "உவம உருபு (போல, போன்ற) மறைந்து வருவது எவ்வகை உவமை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எடுத்துக்காட்டு உவமை அணி",
+        "rationale": "'அகர முதல... ஆதிபகவன் முதற்றே...' (இடையில் 'அதுபோல' என்பது மறைந்துள்ளது).",
+        "isCorrect": true
+      },
+      {
+        "text": "விரி உவமை",
+        "rationale": "உருபு வெளிப்படையாக வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல் பொருள் உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருக்குறளில் அதிகம் வருவது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "தண்டியலங்காரத்தில் 'முத்தகம்' என்பது எதனைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு பாடலிலேயே பொருள் முடிவது",
+        "rationale": "தனிப்பாடல் (Anthology verse with complete meaning).",
+        "isCorrect": true
+      },
+      {
+        "text": "பல பாடல்கள் தொடர்ந்து வருவது",
+        "rationale": "அது குளகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்தம் கொடுப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தனிப்பாடல்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "பல பாடல்கள் சேர்ந்து ஒரு வினைமுற்றைக் கொண்டு முடிவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குளகம்",
+        "rationale": "ஒரு பாட்டுத் தொகுதி (Syntax connects multiple stanzas).",
+        "isCorrect": true
+      },
+      {
+        "text": "முத்தகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொகைநிலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடர்நிலை",
+        "rationale": "பொதுவான பெயர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சீவகசிந்தாமணியில் அதிகம்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "தண்டியலங்காரத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுப்பிரமணிய தேசிகர்",
+        "rationale": "தண்டியலங்காரத்திற்குப் பழைய உரையும், சுப்பிரமணிய தேசிகர் எழுதிய உரையும் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிரயோக விவேகம் நூலாரோடு தொடர்புடைய பெயர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "கவிஞன் தான் கூறக் கருதிய பொருளை வெளிப்படையாகக் கூறாமல், வேறொன்றின் மேல் ஏற்றிக் கூறுவது (Allegory)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிறிது மொழிதல் அணி (ஒட்டணி)",
+        "rationale": "'பீலிபெய் சாகாடும்...' (மென்மையான மயிற்தோகையே ஆனாலும் அதிகம் ஏற்றினால் வண்டி முறியும் = பகைவர் பலர் கூடினால் வெல்வர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "வேற்றுமை அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தன்மை அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்று சொல்ல மற்றொன்று விளங்குவது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "இரண்டு பொருள்களுக்கு இடையே உள்ள ஒப்புமையைக் கூறி, பின் அவற்றை வேறுபடுத்துவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேற்றுமை அணி",
+        "rationale": "தீயும் செந்தீ, நீயும் செந்தீ (ஒப்புமை); அது சுடும், நீ சுடமாட்டாய் (வேறுபாடு).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒற்றுமை அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலேடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Difference."
+  },
+  {
+    "questionNumber": 31,
+    "question": "தண்டியலங்காரம் கூறும் 'சுவை அணி' எத்தனை சுவைகளை (Rasa) விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு அல்லது ஒன்பது",
+        "rationale": "தொல்காப்பியம் 8 மெய்ப்பாடுகள் என்கிறது; தண்டி வடமொழி மரபுப்படி சாந்தத்தையும் சேர்த்து 9 சுவைகள் (நவரசம்) என்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நவரசம்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'நிரோட்டக யமகம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உதடு ஒட்டாமல் பாடுவது (இதழ் ஒட்டாமை)",
+        "rationale": "ப, ம போன்ற இதழ் ஒட்டும் எழுத்துக்கள் இல்லாமல் பாடுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிறுத்திப் பாடுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓட்டமில்லாமல் பாடுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீளமான யமகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Lipogram."
+  },
+  {
+    "questionNumber": 33,
+    "question": "தண்டியலங்காரத்தில் 'பாவிகம்' என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காப்பியம் முழுவதிலும் ஊடாடி நிற்கும் மையக் கருத்து (Moral)",
+        "rationale": "தனிப்பாடலில் அமையாமல், நூல் முழுவதிலும் இழையோடும் கருத்து. (எ-டு: அரசியல் பிழைத்தோர்க்கு அறம் கூற்றாகும்).",
+        "isCorrect": true
+      },
+      {
+        "text": "பாவம் செய்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாவனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீதி."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'கோமூத்திரி' (Gomuthri) என்பது எவ்வகை சித்திரக்கவி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பசுவின் மூத்திரம் பெய்யும் தாரை போல வளைந்து செல்லும் எழுத்து அமைப்பு",
+        "rationale": "பாடலின் எழுத்துக்களை மேலும்கீழுமாகப் படிக்கும்போது ஒரே மாதிரி வருவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பசுவின் படம் வரைவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோலம் போடுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேராகப் படிப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Zigzag reading."
+  },
+  {
+    "questionNumber": 35,
+    "question": "காரணம் இல்லாமல் காரியம் நிகழ்ந்ததாகக் கூறுவது எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விபாவனை அணி",
+        "rationale": "காரணம் இன்றிக் காரியம் விளைதல். (எ-டு: மையின்றிக் கண் சிவந்தது).",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறப்பு அணி",
+        "rationale": "காரணம் இருந்தும் காரியம் நிகழாமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏது அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விசித்திரமானது."
+  },
+  {
+    "questionNumber": 36,
+    "question": "தண்டியலங்காரம் உதாரணப் பாடல்கள் எங்கிருந்து எடுக்கப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெரும்பாலும் ஆசிரியரே இயற்றியவை அல்லது பழைய நூல்கள்",
+        "rationale": "பல பாடல்கள் ஆசிரியரால் இயற்றப்பட்டவை (அன்பில் ஆலந்துறை ஈசன் மீது பாடப்பட்டவை).",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரைப்படங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாளிதழ்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்பில் ஆலந்துறை."
+  },
+  {
+    "questionNumber": 37,
+    "question": "பள்ளிகளிலும் கல்லூரிகளிலும் 'அணி இலக்கணம்' கற்கப் பெரிதும் பயன்படும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தண்டியலங்காரம்",
+        "rationale": "இலக்கண நூல்களுள் அணிக்கு மிகவும் செல்வாக்குப் பெற்றது இதுவே.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறனலங்காரம்",
+        "rationale": "இது ஆழ்வார்கள் மீது பாடப்பட்டது, சற்று விரிவானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "வழக்கில் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம் உவமவியல்",
+        "rationale": "ஆய்வுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Standard Text."
+  },
+  {
+    "questionNumber": 38,
+    "question": "தண்டியலங்காரத்தில் 'அவையடக்கு' என்பது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவையினரிடம் பணிவு காட்டுதல் (Apology)",
+        "rationale": "தன் சிறுமையையும், அவையினரின் பெருமையையும் கூறிப் பிழையிருப்பின் பொறுக்க வேண்டுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவையை அடக்கி ஆளுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேடைப் பேச்சு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்த்துக் கூறுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Modesty."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'ஏகதேச உருவகம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்றை உருவகம் செய்து, அதனோடு தொடர்புடைய மற்றொன்றை உருவகம் செய்யாமல் விடுவது",
+        "rationale": "பகுதி உருவகம். (எ-டு: முகத்தை நிலவாக உருவகம் செய்துவிட்டு, கண்களைக் குவளையாகச் சொல்லாமல் விடுதல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "முழு உருவகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறான உருவகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடு கடத்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாதி செய்தல்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'கூடசதுக்கம்' என்பது எவ்வகைச் சித்திரக்கவி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புதிர் (Riddle)",
+        "rationale": "மறைந்துள்ள பொருளைக் கண்டுபிடிக்கும் வகையில் பாடப்படும் புதிர்ப் பாடல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சதுரங்கப் பலகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓவியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூடை பின்னுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கூடம் என்றால் மறைவு."
+  },
+  {
+    "questionNumber": 41,
+    "question": "தண்டியலங்காரம் கூறும் 'நிரல்' மற்றும் 'நிறை' என்பதன் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரிசை மற்றும் நிறுத்துதல்",
+        "rationale": "சொற்களை வரிசைப்பட நிறுத்துதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீர் மற்றும் நிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீளம் மற்றும் அகலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம் மற்றும் பூமி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வரிசையாக."
+  },
+  {
+    "questionNumber": 42,
+    "question": "தண்டியலங்காரம் ஆசிரியர் தண்டியின் தந்தை பெயர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அம்பிகாபதி",
+        "rationale": "என்று சிலர் கருதுவர் (கம்பரின் மகன் அம்பிகாபதி அல்ல, இவர் வேறு).",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிச்சக்ரவர்த்தி மகன் பெயரோடு ஒப்புமை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "தண்டியலங்காரத்தில் 'எதுகை' மற்றும் 'மோனை' எங்கு விளக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லணியியல் (சித்திரக் கவி பகுதியில்)",
+        "rationale": "யாப்பில் சொல்லப்படும் எதுகை மோனையைத் தாண்டி, சித்திரக் கவிகளில் இவை அமையும் விதத்தை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருளணியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொதுவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூலில் இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல் விளையாட்டு."
+  },
+  {
+    "questionNumber": 44,
+    "question": "பல பொருள்கள் ஒரு சொல்லால் குறிக்கப்படுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலேடை",
+        "rationale": "ஒரு சொல் பல பொருள் தருவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தன்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Pun."
+  },
+  {
+    "questionNumber": 45,
+    "question": "தண்டியலங்காரம் கூறும் 'மயக்கு அணி' எதை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயக்கம் (Confusion/Illusion)",
+        "rationale": "ஒன்றைப் பார்த்து மற்றொன்று என மயங்குவது. (எ-டு: முகத்தைப் பார்த்து நிலவு என நினைத்தல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "மயக்கம் போட்டு விழுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கள் குடித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தேகம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'எழுவாயும் பயனிலையும் இயைந்து வருதல்' என்பது எந்தப் பொருள்கோள் அல்லது அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிரல்நிறை",
+        "rationale": "முறையாக அமைப்பது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாற்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முறை."
+  },
+  {
+    "questionNumber": 47,
+    "question": "தண்டியலங்காரம் எந்த சமயச் சார்புடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொதுவானது (சைவ, வைணவக் காப்பியங்களுக்கும் பொருந்தும்)",
+        "rationale": "குறிப்பிட்ட சமயச் சார்பு இல்லை, எனினும் உதாரணப் பாடல்கள் சைவச் சார்புடையவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிறித்தவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்பில் ஆலந்துறை ஈசன்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'சகத்திர சித்திரம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆயிரம் இதழ்கள் கொண்ட தாமரை வடிவப் பாட்டு",
+        "rationale": "ஒரு வகைச் சித்திரக் கவி.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆயிரம் பாடல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சித்திரம் வரைதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சக்கரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Thousand."
+  },
+  {
+    "questionNumber": 49,
+    "question": "தண்டியலங்காரத்தில் 'உதாத்தம்' என்ற அணி எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வ மிகுதி அல்லது உள்ளத்து உயர்வு",
+        "rationale": "பெரிய செல்வத்தையோ அல்லது உயர்ந்த பண்பையோ வியந்து கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சோகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வள்ளல் தன்மை."
+  },
+  {
+    "questionNumber": 50,
+    "question": "வடமொழிக் காவ்யாதர்சத்திற்கும் தண்டியலங்காரத்திற்கும் உள்ள முக்கிய வேறுபாடு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ் மரபுக்கேற்ற மாற்றங்கள் செய்யப்பட்டுள்ளன",
+        "rationale": "முழுமையான மொழிபெயர்ப்பாக இல்லாமல், தமிழுக்கு ஏற்றவாறு சில அணிகள் மாற்றியும், கூட்டியும் தரப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேறுபாடே இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முற்றிலும் புதிய நூல்",
+        "rationale": "தவறு, இது வழிநூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழியை விடச் சுருக்கமானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தழுவல் நூல்."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'அகப்பொருள் விளக்கம்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாற்கவிராச நம்பி",
+        "rationale": "இதனால் இந்நூல் 'நம்பி அகப்பொருள்' என்றும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐயன் ஆரிதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நம்பி."
+  },
+  {
+    "questionNumber": 2,
+    "question": "அகப்பொருள் விளக்கம் எத்தனை இயல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "அகத்திணையியல், களவியல், வரைவியல், கற்பியல், ஒழிபியல் என ஐந்து இயல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணை முதல் ஒழிபியல் வரை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "நாற்கவிராச நம்பி எந்த மன்னனின் வேண்டுகோளுக்கிணங்க இந்நூலை இயற்றினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குலசேகர பாண்டியன்",
+        "rationale": "பாண்டிய மன்னன் குலசேகரன் அவையில் இந்நூல் அரங்கேற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரராசேந்திர சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராஜராஜ சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாண்டிய மன்னன்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "அகப்பொருள் விளக்கம் எந்த நூல்களை அடியொற்றி எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் மற்றும் இறையனார் அகப்பொருள்",
+        "rationale": "பழந்தமிழ் அகப்பொருள் மரபுகளைத் தொகுத்து எளிமையாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள் வெண்பாமாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முந்து நூல்கள்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "தொல்காப்பியத்தில் இல்லாத எந்தப் புதிய பிரிவை நம்பி அகப்பொருள் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரைவியல்",
+        "rationale": "தொல்காப்பியத்தில் களவு, கற்பு மட்டுமே உள்ளது. நம்பி, களவிற்கும் கற்பிற்கும் இடையில் 'வரைவியல்' (திருமணம்) என்ற தனி இயலை வகுத்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "களவியல்",
+        "rationale": "உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கற்பியல்",
+        "rationale": "உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளியல்",
+        "rationale": "உள்ளது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமணம் பற்றியது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "அகப்பொருள் விளக்கத்தில் 'வரைவு' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓவியம் வரைதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமணம்",
+        "rationale": "வரைதல் என்றால் திருமணம் செய்தல் என்று பொருள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எல்லை வகுத்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுதுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலியாணம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "அகப்பொருள் விளக்கம் எத்தகைய நடை கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூற்பா (சூத்திரம்)",
+        "rationale": "மாணவர்கள் கற்க எளிமையான நூற்பா வடிவில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நன்னூல் போல."
+  },
+  {
+    "questionNumber": 8,
+    "question": "நாற்கவிராச நம்பி எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புளியங்குடி",
+        "rationale": "திருப்புளியங்குடி என்னும் ஊரைச் சேர்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாண்டி நாடு."
+  },
+  {
+    "questionNumber": 9,
+    "question": "அகப்பொருள் விளக்கத்தின்படி 'அன்பின் ஐந்திணை' எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறிஞ்சி, முல்லை, மருதம், நெய்தல், பாலை",
+        "rationale": "இவையே அகத்திணைகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெட்சி, கரந்தை...",
+        "rationale": "இவை புறத்திணைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கைக்கிளை, பெருந்திணை",
+        "rationale": "இவை அகப்புறம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறம், பொருள், இன்பம், வீடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிலங்கள்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'களவியற் காரிகை' என்ற நூல் எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவொழுக்கம் (காதல்)",
+        "rationale": "அகப்பொருளின் களவியல் பகுதியை மட்டும் விரிவாகக் காரிகை யாப்பில் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருட்டுத் தொழில்",
+        "rationale": "தவறு (களவு என்றால் இங்கு காதல்).",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதல்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "களவியற் காரிகையின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெரியவில்லை (ஆனால் உரை எழுதியவர் வை.மு. சடகோப ராமானுசாசாரியார் பதிப்பித்தார்)",
+        "rationale": "ஆசிரியர் பெயர் திட்டவட்டமாகத் தெரியவில்லை (சிலர் வச்சணந்தி என்பர், உறுதியில்லை).",
+        "isCorrect": true
+      },
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அநாமதேயர்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "பன்னிரு பாட்டியல் என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பன்னிரு புலவர்கள் பாடிய பாட்டியல் நூற்பாக்களின் தொகுப்பு",
+        "rationale": "அகத்தியர், இந்திரகாளியார் உள்ளிட்ட பன்னிருவர் (அல்லது பல புலவர்கள்) பாடிய பாட்டியல் இலக்கணங்களின் தொகுப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரே புலவர் எழுதிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரண்டு பாடல்களைக் கொண்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரண்டு ஆழ்வார்கள் பாடியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொகுப்பு நூல்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "பன்னிரு பாட்டியலில் இடம்பெறும் 'ஆனந்தக் குற்றம்' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறு",
+        "rationale": "எழுத்து, சொல், பொருள் வகையில் 6 வகையான ஆனந்தக் குற்றங்களை விளக்குகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதினொன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல வகைகள்",
+        "rationale": "பன்னிரு பாட்டியல் பலவகையான குற்றங்களை விரிவாகப் பேசுகிறது (குறிப்பாகக் கணப் பொருத்தம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீய நிமித்தம்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'நவநீதப் பாட்டியல்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நவநீத நாடன்",
+        "rationale": "நவநீத நாடன் என்பவரால் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரஞ்சோதி முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தண்டி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரிலேயே விடை உள்ளது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "நவநீதப் பாட்டியல் எவ்வகை யாப்பால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலிவெண்பா",
+        "rationale": "இந்நூல் கலிவெண்பாவால் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூற்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டளைக் கலித்துறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெண்பாவின் வகை."
+  },
+  {
+    "questionNumber": 16,
+    "question": "நவநீதப் பாட்டியல் வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலித்துறைப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பாப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொதுப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நவநீதப் பாட்டியல் (அல்லது நவநீத நடனார் பாட்டியல்)",
+        "rationale": "சரியான மாற்றுப் பெயர் சிறப்பாக இல்லை, நூலின் பெயரே பிரபலம்.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "ஆசிரியர் பெயர்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'வரையறுத்த பாட்டியல்' எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரபந்தங்களின் வரையறைகளை",
+        "rationale": "சிற்றிலக்கியங்களின் இலக்கணத்தை வரையறுத்துக் கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரைதல் (திருமணம்)",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓவியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Definition."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'சிதம்பரப் பாட்டியல்' நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரஞ்சோதி முனிவர்",
+        "rationale": "திருவிளையாடல் புராணம் பாடிய பரஞ்சோதி முனிவரே சிதம்பரப் பாட்டியலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உமாபதி சிவாச்சாரியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கச்சியப்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேக்கிழார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருவிளையாடல் புராணம்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "பாட்டியல் நூல்கள் கூறும் 'பறவை' பொருத்தம் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலைவனின் நட்சத்திரத்திற்கு உரிய பறவைக்கும், பாடலின் முதலெழுத்து பறவைக்கும் உள்ள பொருத்தம்",
+        "rationale": "பறவை (புள்) பொருத்தம் பார்ப்பது பாட்டியல் மரபு (வல்லூறு, ஆந்தை ஆகாது).",
+        "isCorrect": true
+      },
+      {
+        "text": "தலைவன் வளர்க்கும் பறவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் பறவை போலப் பறக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உணவுப் பழக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புள்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'மாறனலங்காரம்' என்ற அணியிலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குருகைப் பெருமாள் கவிராயர்",
+        "rationale": "ஆழ்வார்திருநகரியைச் சேர்ந்த இவர் நம்மாழ்வார் மீது கொண்ட பற்றால் இந்நூலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நம்மாழ்வார்",
+        "rationale": "இவர் பாட்டுடைத் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரகவி ஆழ்வார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிள்ளை லோகாச்சாரியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருக்குருகை."
+  },
+  {
+    "questionNumber": 21,
+    "question": "மாறனலங்காரம் எந்த நூலைப் பின்பற்றி எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தண்டியலங்காரம்",
+        "rationale": "தண்டியலங்காரத்தை அடியொற்றி, ஆனால் வைணவச் சார்புடன் எழுதப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழி வழிநூலின் வழிநூல்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "மாறனலங்காரத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நம்மாழ்வார் (மாறன்)",
+        "rationale": "நம்மாழ்வாரின் சிறப்பைக் கூறும் வகையில் உதாரணப் பாடல்கள் அமைந்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "நம்மாழ்வாரைப் போற்றுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராமானுஜர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டிய மன்னன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வகுளாபரணன்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "மாறனலங்காரம் தண்டியலங்காரத்திலிருந்து எவ்வாறு மாறுபடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அணிகளின் எண்ணிக்கையில் மாற்றம் மற்றும் வைணவ பக்தி",
+        "rationale": "தண்டியில் உள்ள அணிகளோடு மேலும் பல புதிய அணிகளைச் (64 அணிகள் வரை) சேர்த்து விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேறுபாடே இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இது யாப்பு நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவ நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அணிகள் அதிகம்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'மாறனகப் பொருள்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குருகைப் பெருமாள் கவிராயர்",
+        "rationale": "மாறனலங்காரம் இயற்றியவரே இதையும் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அலங்காரம் பாடியவர்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "மாறனகப் பொருள் எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள் இலக்கணம் (திருக்குருகை மான்மியம்)",
+        "rationale": "நம்மாழ்வாரைத் தலைவனாகவும், தலைவியாகவும் கொண்டு அகப்பொருள் இலக்கணம் வகுக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருக்குருகை."
+  },
+  {
+    "questionNumber": 26,
+    "question": "பாட்டியல் நூல்கள் கூறும் 'வருணப் பொருத்தம்' (Caste match) எதன் அடிப்படையில் அமைகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடலின் முதல் எழுத்து",
+        "rationale": "முதல் எழுத்து உயிர், மெய், உயிர்மெய் ஆவதைப் பொறுத்து வருணம் கற்பிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலைவனின் நிறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவனின் சாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்துக்குச் சாதி."
+  },
+  {
+    "questionNumber": 27,
+    "question": "நம்பி அகப்பொருள் கூறும் 'ஒழிபியல்' எதை உள்ளடக்கியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முந்தைய இயல்களில் விடுபட்ட செய்திகள் (கைக்கிளை, பெருந்திணை, மடல்)",
+        "rationale": "கைக்கிளை, பெருந்திணை, மடலேறுதல் போன்ற அகத்திணைச் செய்திகள் ஒழிபியலில் விளக்கப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமணம்",
+        "rationale": "அது வரைவியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கற்பு",
+        "rationale": "அது கற்பியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எஞ்சியது."
+  },
+  {
+    "questionNumber": 28,
+    "question": "சிதம்பரப் பாட்டியல் எவ்வகை யாப்பால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தம்",
+        "rationale": "இந்நூல் விருத்தப் பாக்களால் ஆனது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூற்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பரஞ்சோதி முனிவர் விருத்தம் பாடுவதில் வல்லவர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "பாட்டியல் நூல்களில் 'தூது' இலக்கியத்திற்கு இலக்கணம் உள்ளதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "அன்னம் முதல் வண்டு ஈறாக 10 பொருட்களைத் தூது விடுவது பற்றிப் பாட்டியல் நூல்கள் கூறுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தச விடு தூது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "மாறனலங்காரத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரைவேலன் (பழைய உரை)",
+        "rationale": "இந்நூலுக்குப் பழைய உரை ஒன்று உள்ளது (காரைவேலன் பதிப்பித்தது).",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடியார்க்கு நல்லார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழைய உரை."
+  },
+  {
+    "questionNumber": 31,
+    "question": "அகப்பொருள் விளக்கம் (நம்பி) உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாற்கவிராச நம்பியே உரை எழுதினார்",
+        "rationale": "இந்நூலுக்கு ஆசிரியரே உரையும் எழுதியதாகக் கருதப்படுகிறது (அல்லது பழைய உரை).",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சி.வை.தாமோதரம் பிள்ளை",
+        "rationale": "இவர் பதிப்பாசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுய உரை."
+  },
+  {
+    "questionNumber": 32,
+    "question": "பாட்டியல் நூல்கள் 'பிள்ளைத்தமிழ்' ஆண்பாலுக்கு எத்தனை பருவம், பெண்பாலுக்கு எத்தனை பருவம் என்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இருபாலருக்கும் 10 பருவங்கள் (கடைசி 3 மாறும்)",
+        "rationale": "முதல் 7 பருவங்கள் பொது, கடைசி 3 பருவங்கள் (சிற்றில், சிறுபறை, சிறுதேர் - ஆண்; கழங்கு, அம்மானை, ஊசல் - பெண்) மாறும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆணுக்கு 7, பெண்ணுக்கு 5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இருவருக்கும் 12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேறுபாடு இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஏழு பொது."
+  },
+  {
+    "questionNumber": 33,
+    "question": "திருக்குருகைப் பெருமாள் கவிராயர் வாழ்ந்த காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 16ஆம் நூற்றாண்டு",
+        "rationale": "நாயக்கர் காலத்தைச் சேர்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 10ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கிருஷ்ணதேவராயர் காலம்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "நம்பி அகப்பொருளில் 'இறந்தகாலம், நிகழ்காலம், எதிர்காலம்' பற்றிய குறிப்புகள் எதில் வரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரைவியல் (திருமணக் காலம்)",
+        "rationale": "வரைவு (திருமணம்) நிகழும் காலங்களை விளக்கும்போது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொதுவான இலக்கணம் என்பதால் இதில் இல்லை",
+        "rationale": "இது அகப்பொருள் நூல், கால இலக்கணம் சொல்லதிகாரத்தில் வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "களவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கற்பியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேள்வி எண் 34 விளக்கம்: அகப்பொருள் நூல் பெரும் பொழுது, சிறுபொழுது (காலம்) பற்றிப் பேசும் (முதற்பொருள்). ஆனால் இலக்கண காலங்கள் (Tense) பேசாது."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பாட்டியல் நூல்கள் கூறும் 'கதி' பொருத்தம் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நடை (தேவர் கதி, மக்கள் கதி, விலங்கு கதி, நரகர் கதி)",
+        "rationale": "பாடலின் முதல் சீரின் அமைப்பை வைத்து அது எக்கதியைச் சாரும் எனக் கணிப்பது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோட்சம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேவர், மக்கள், விலங்கு, நரகம்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "மாறனலங்காரத்தில் உள்ள உதாரணப் பாடல்கள் யாரைப் புகழ்ந்து பாடப்பட்டவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நம்மாழ்வார்",
+        "rationale": "ஒவ்வொரு அணிக்கும் நம்மாழ்வாரைப் புகழும் பாடல்களே உதாரணங்களாகத் தரப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "மறைமுகமாகத் திருமாலைப் புகழ்ந்தாலும், நேரடித் தலைவர் நம்மாழ்வார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சடகோபன்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "அகப்பொருள் விளக்கத்தில் 'மடலேறுதல்' யாருக்கு உரியது எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆண்களுக்கு (தலைவன்)",
+        "rationale": "தலைவியை அடைய முடியாத தலைவன் பனைமடல் குதிரை ஏறுவான். இது ஆண்களுக்கே உரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெண்களுக்கு",
+        "rationale": "பெண்கள் மடலேறுதல் பழந்தமிழ் மரபில் இல்லை (பெருந்திட்டால் தவிர).",
+        "isCorrect": false
+      },
+      {
+        "text": "இருவருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோழிக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாவென மடலும் ஊர்ப."
+  },
+  {
+    "questionNumber": 38,
+    "question": "நவநீதப் பாட்டியல் 'நவநீதம்' (வெண்ணெய்) போல எப்படி இருக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எளிமையாக, சுருக்கமாக",
+        "rationale": "கற்க எளிமையாக இருப்பதால் இப்பெயர் (ஆசிரியர் பெயரும் காரணம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "கடினமாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருகக்கூடியதாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்மையாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எளிமை."
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாட்டியல் நூல்கள் எந்த வகையான இலக்கியங்களுக்கு முக்கியத்துவம் அளிக்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிற்றிலக்கியங்கள் (Prabandhas)",
+        "rationale": "கோப்பு, உலா, பரணி, தூது போன்ற 96 வகைச் சிற்றிலக்கியங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருங்காப்பியங்கள்",
+        "rationale": "குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கப் பாடல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாவல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொண்ணூற்றாறு."
+  },
+  {
+    "questionNumber": 40,
+    "question": "அகப்பொருள் விளக்கத்தில் 'கற்பு' என்பதன் இலக்கணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேள்விச் சடங்குகளுடன் ஊரார் அறியத் திருமணம் செய்தல்",
+        "rationale": "களவு வெளிப்பட்டுத் திருமணம் செய்தலே கற்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "மனதளவில் இணைவது",
+        "rationale": "அது களவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரிந்து செல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கரணம் தப்பினால் மரணம் (பழமொழி). கரணம் = சடங்கு."
+  },
+  {
+    "questionNumber": 41,
+    "question": "மாறனலங்காரம் கூறும் அணிகளின் எண்ணிக்கை (தோராயமாக)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "64",
+        "rationale": "தண்டியை விடக் கூடுதலாகப் பல அணிகளைச் சேர்த்து 64 அணிகள் வரை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "35",
+        "rationale": "இது தண்டி.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறுபத்து நான்கு கலைகள் போல."
+  },
+  {
+    "questionNumber": 42,
+    "question": "பாட்டியல் நூல்களில் 'நால்வகைப் பா'வில் 'வஞ்சிப்பா' யாருக்கு உரியதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மக்களுக்கு (அல்லது சூத்திரர்க்கு)",
+        "rationale": "வருணப் பாகுபாட்டில் கடைசி வருணத்தார்க்கு வஞ்சிப்பா உரியது என்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அந்தணர்க்கு",
+        "rationale": "வெண்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர்க்கு",
+        "rationale": "ஆசிரியப்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்க்கு",
+        "rationale": "கலிப்பா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடைசி."
+  },
+  {
+    "questionNumber": 43,
+    "question": "சிதம்பரப் பாட்டியல் பிற பாட்டியல் நூல்களிலிருந்து எதில் மாறுபடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து இயல்களைக் கொண்டுள்ளது (உறுப்பியல், செய்யுளியல்...)",
+        "rationale": "அமைப்பில் சிறிது வேறுபாடு கொண்டது (மறைந்துபோன சில பாட்டியல் நூல்களைத் தழுவியது).",
+        "isCorrect": true
+      },
+      {
+        "text": "வேறுபாடே இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இது இசை நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பரஞ்சோதி முனிவர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "அகப்பொருள் விளக்கத்தில் 'உடன்போக்கு' என்பது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலைவனும் தலைவியும் ஊர் அறியாமல் வெளியேறிச் செல்லுதல்",
+        "rationale": "திருமணம் செய்துகொள்ளும் நோக்கில் பெற்றோர் அறியாமல் செல்வது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடனே போவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர்களுடன் போவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போருக்குச் செல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Elopement."
+  },
+  {
+    "questionNumber": 45,
+    "question": "களவியற் காரிகை நூலின் முழு வடிவம் கிடைத்ததா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சில பாடல்களே கிடைத்துள்ளன",
+        "rationale": "முழுமையாகக் கிடைக்கவில்லை, உரையாசிரியர்களின் மேற்கோள்களே அதிகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முழுமையாக உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சுப் புத்தகம் உள்ளது",
+        "rationale": "தொகுப்பு உள்ளது, மூல நூல் முழுமை இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிதைந்த நூல்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "திருக்குருகைப் பெருமாள் கவிராயர் 'மாறனலங்காரம்' தவிர எழுதிய மற்றொரு நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்குருகை மான்மியம் (மற்றும் மாறனகப் பொருள்)",
+        "rationale": "நம்மாழ்வார் பிறந்த ஊரின் சிறப்பைக் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பராமாயணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊர் வரலாறு."
+  },
+  {
+    "questionNumber": 47,
+    "question": "அகப்பொருள் விளக்கத்தில் 'செவிலி' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலைவியின் வளர்ப்புத் தாய் (தோழியின் தாய்)",
+        "rationale": "தலைவியை வளர்த்தவள், ஈன்ற தாய்க்கு அடுத்த நிலையில் உள்ளவள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலைவியின் அக்கா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேலைக்காரி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலைவனின் தாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Foster mother."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'வச்சணந்தி மாலை' என்பது எந்த நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பாப் பாட்டியல்",
+        "rationale": "வெண்பாப் பாட்டியலுக்கு வழங்கும் மாற்றுப் பெயர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பன்னிரு பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நவநீதப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாறனலங்காரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குணவீர பண்டிதர்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "அகப்பொருள் விளக்கத்தை எளிமையாகக் கற்க உதவும் வினா-விடை நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள் வினா-விடை",
+        "rationale": "நாவலர் மற்றும் பல அறிஞர்கள் மாணவர்களுக்காக இம்முறையில் எழுதியுள்ளனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Questions and Answers."
+  },
+  {
+    "questionNumber": 50,
+    "question": "பாட்டியல் நூல்கள் கூறும் 'பத்துப் பொருத்தங்கள்' எதற்காகப் பார்க்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டுடைத் தலைவன் நீண்ட காலம் வாழ்வதற்கும், நூல் சிறப்பதற்கும்",
+        "rationale": "தலைவனுக்குத் தீங்கு நேராமல் காக்கப் பொருத்தங்கள் பார்க்கப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமணத்திற்காக",
+        "rationale": "தவறு (இது நூல் பொருத்தம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் வெற்றிக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீடு கட்ட",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயுள் விருத்தி."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'இந்திர காளியம்' என்ற நூல் எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பிலக்கணம்",
+        "rationale": "இந்திர காளியம் என்பது ஒரு யாப்பிலக்கண நூல். யாப்பருங்கல விருத்தியுரையில் இது மேற்கோள் காட்டப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுள் இலக்கணம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "இந்திர காளியம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யமுனைத் துறைவர்",
+        "rationale": "யாப்பருங்கல விருத்தியுரை மூலம் இந்நூலின் ஆசிரியர் யமுனைத் துறைவர் என அறியமுடிகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யமுனை நதி."
+  },
+  {
+    "questionNumber": 3,
+    "question": "இந்திர காளியம் இன்று முழுமையாகக் கிடைக்கிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை, மறைந்துபோன நூல்களுள் ஒன்று",
+        "rationale": "உரையாசிரியர்களின் மேற்கோள் பாடல்கள் (சுமார் 45 பாடல்கள்) மட்டுமே கிடைத்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாதி கிடைத்துள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கையெழுத்துப் படியாக உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாப்பருங்கல விருத்தியில் உள்ளது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "நேமிநாதம் என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "சமண முனிவரான குணவீர பண்டிதர் இயற்றிய நூலே நேமிநாதம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களப்பாளர் குலத்தைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "நேமிநாதம் எந்தத் தெய்வத்தின் பெயரால் அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவபெருமான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேமிநாதர் (தீர்த்தங்கரர்)",
+        "rationale": "சமண சமயத்தின் 22-வது தீர்த்தங்கரரான நேமிநாதர் பெயரால் இந்நூல் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஜைன மதம்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "நேமிநாதம் எவ்வகை இலக்கண நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்திலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்து மற்றும் சொல் இலக்கணம்",
+        "rationale": "தொல்காப்பியத்தின் எழுத்து மற்றும் சொல்லதிகாரத்தைச் சுருக்கிக் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பு இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியச் சுருக்கம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "நேமிநாதம் நூல் வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சின்னூல்",
+        "rationale": "தொல்காப்பியத்தைச் சுருக்கமாகக் கூறுவதால் இது 'சின்னூல்' (சிறிய நூல்) என்று அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெரிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெரியதற்கு எதிரானது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "குணவீர பண்டிதர் வாழ்ந்த ஊர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிலாப்பூர் (மயிலை)",
+        "rationale": "தொண்டை நாட்டில் உள்ள மயிலாப்பூரில் (சென்னை) வாழ்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சிபுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கபாலீஸ்வரர் கோயில் உள்ள ஊர் (ஆனால் இவர் சமணர்)."
+  },
+  {
+    "questionNumber": 9,
+    "question": "நேமிநாதம் எத்தனை வெண்பாக்களால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "96",
+        "rationale": "எழுத்ததிகாரம், சொல்லதிகாரம் சேர்த்து மொத்தம் 96 வெண்பாக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "1000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறுக்கும் குறைவு."
+  },
+  {
+    "questionNumber": 10,
+    "question": "குணவீர பண்டிதர் இயற்றிய மற்றொரு நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பாப் பாட்டியல்",
+        "rationale": "பாட்டியல் இலக்கணம் கூறும் 'வெண்பாப் பாட்டியல்' இவரால் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாட்டியல் நூல்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "வெண்பாப் பாட்டியல் வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வச்சணந்தி மாலை",
+        "rationale": "குணவீர பண்டிதர் தம் ஆசிரியர் 'வச்சணந்தி' (வஜ்ரநந்தி) பெயரால் இந்நூலை 'வச்சணந்தி மாலை' என்றும் அழைத்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நவநீதப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிதம்பரப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கண விளக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆசிரியரின் குருவின் பெயர்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "வெண்பாப் பாட்டியல் எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல் இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிற்றிலக்கியங்களின் இலக்கணம் மற்றும் பொருத்தங்கள்",
+        "rationale": "பாட்டியல் என்பது பிரபந்தங்களின் இலக்கணம் மற்றும் பாட்டுடைத் தலைவனுக்கும் பாடலுக்கும் உள்ள 10 பொருத்தங்களைக் கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொருத்தம் பார்த்தல்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வெண்பாப் பாட்டியல் எத்தனை இயல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று (மொழி, செய்யுள், பொது)",
+        "rationale": "மொழியியல், செய்யுளியல், பொதுவியல் என மூன்று இயல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழி, செய்யுள், பொது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "குணவீர பண்டிதர் எந்த நூற்றாண்டைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 12ஆம் நூற்றாண்டு",
+        "rationale": "இவர் கி.பி. 12ஆம் நூற்றாண்டின் பிற்பகுதியில் வாழ்ந்தவர் (மூன்றாம் குலோத்துங்கன் காலம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 7ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சோழர் காலத்தின் இறுதி."
+  },
+  {
+    "questionNumber": 15,
+    "question": "நேமிநாதம் தொல்காப்பியத்தின் எப்பகுதிகளைச் சுருக்கிக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்து, சொல்",
+        "rationale": "தொல்காப்பியத்தின் எழுத்ததிகாரம் மற்றும் சொல்லதிகாரச் செய்திகளைச் சுருக்கி வெண்பாவில் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் இரண்டு அதிகாரங்கள்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'சொல்லின் பொதுவிலக்கணம்' பற்றி நேமிநாதம் விரிவாகப் பேசுகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "சொல்லதிகாரத்தில் சொற்களின் பொதுத் தன்மையை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது எழுத்து நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடையில் உள்ள அதிகாரம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "வெண்பாப் பாட்டியலில் கூறப்படும் 'பொருத்தங்கள்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பத்து",
+        "rationale": "திருமணப் பொருத்தம் போல, பாட்டுடைத் தலைவனுக்கும் நூலுக்கும் 10 வகையான பொருத்தங்கள் பார்க்கப்படும் (நாள், கோள், கணம் போன்றவை).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமணத்திற்குப் பார்ப்பது போல."
+  },
+  {
+    "questionNumber": 18,
+    "question": "பாட்டியல் நூல்களில் முதன்முதலில் தோன்றியதாகக் கிடைக்கும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பாப் பாட்டியல்",
+        "rationale": "பன்னிரு பாட்டியல் தொகுப்பு நூல்; ஒரு தனிப் புலவரால் இயற்றப்பட்டு முழுமையாகக் கிடைக்கும் முதல் பாட்டியல் நூல் இதுவே.",
+        "isCorrect": true
+      },
+      {
+        "text": "நவநீதப் பாட்டியல்",
+        "rationale": "பிற்கால நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிதம்பரப் பாட்டியல்",
+        "rationale": "பிற்கால நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "பாட்டியல் நூல் அன்று.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குணவீர பண்டிதர் இயற்றியது."
+  },
+  {
+    "questionNumber": 19,
+    "question": "இந்திர காளியம் நூலின் பா வகை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தம்",
+        "rationale": "யாப்பருங்கல விருத்தியில் மேற்கோளாக வரும் பாடல்கள் விருத்தப் பாக்களாக உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தம் மிக்கது."
+  },
+  {
+    "questionNumber": 20,
+    "question": "நேமிநாதம் நூலின் தொடக்கம் எவ்வாறு அமைகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நேமிநாதர் துதியுடன்",
+        "rationale": "சமணத் தீர்த்தங்கரரான நேமிநாதரைப் போற்றி நூல் தொடங்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன் துதியுடன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால் துதியுடன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயற்கை வாழ்த்துடன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடவுள் வாழ்த்து."
+  },
+  {
+    "questionNumber": 21,
+    "question": "குணவீர பண்டிதர் 'களப்பாளர்' என்று ஏன் அழைக்கப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களப்பிரர் குலத்தில் பிறந்ததால்",
+        "rationale": "களப்பாளர் என்பது களப்பிரர் மரபைக் குறிப்பதாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "களையெடுப்பவர் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "களம் ஆடுபவர் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவி பாடுபவர் என்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு அரச பரம்பரை."
+  },
+  {
+    "questionNumber": 22,
+    "question": "வெண்பாப் பாட்டியலின் 'மொழியியல்' எதைப் பற்றிக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொற்களின் இலக்கணம் மற்றும் பொருத்தங்கள்",
+        "rationale": "பாட்டுடைத் தலைவனுக்கும் பாடலுக்கும் உரிய நற்சொற்கள், தீய சொற்கள் (ஆனந்தக் குற்றம்) மற்றும் 10 பொருத்தங்களை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழியின் வரலாறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிற மொழிச் சொற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகராதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மங்கலச் சொல்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'ஆனந்தக் குற்றம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மகிழ்ச்சியான குற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடலில் வரக்கூடாத தீய நிமித்தங்கள்/சொற்கள்",
+        "rationale": "தலைவனுக்குத் தீங்கு விளைவிக்கும் எழுத்தையோ சொல்லையோ பாடலில் பயன்படுத்துவது குற்றம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசைக் குற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்புக் குற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலைவன் உயிர் காக்கத் தவிர்க்க வேண்டியவை."
+  },
+  {
+    "questionNumber": 24,
+    "question": "வெண்பாப் பாட்டியல் 'செய்யுளியல்' பகுதியில் எதை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பு விதிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரபந்தங்களின் இலக்கணம்",
+        "rationale": "பிள்ளைத்தமிழ், உலா, கலம்பகம் போன்ற சிற்றிலக்கியங்களின் இலக்கணத்தை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செய்யுள் உறுப்புகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருத்தங்கள்",
+        "rationale": "அது மொழியியல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கிய வகைகள்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "இந்திர காளியம் நூலில் கூறப்படும் யாப்புக் கருத்துகள் எதனுடன் ஒத்துப்போகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "யாப்பருங்கலம் நூலுக்கு முன்னோடியாகவோ அல்லது இணையானதாகவோ இது கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "மாறுபடுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமிர்தசாகரர் மேற்கோள் காட்டுகிறார்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "வெண்பாப் பாட்டியலின் ஆசிரியர் குணவீர பண்டிதரின் குரு யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஜ்ரநந்தி (வச்சணந்தி)",
+        "rationale": "இவர் பெயரிலேயே நூல் 'வச்சணந்தி மாலை' என அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகாவீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வைரம் (Vajra)."
+  },
+  {
+    "questionNumber": 27,
+    "question": "நேமிநாதம் எந்த பா வகையால் இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "இந்நூல் வெண்பாக்களால் ஆனது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஈற்றடி முச்சீர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "பாட்டியல் நூல்கள் எதற்காகத் தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருள் இலக்கணம் கற்பிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர்களையும், தெய்வங்களையும் பாடும்போது விதிகளைக் கடைப்பிடிக்க",
+        "rationale": "தலைவனுக்குத் தீங்கு வராமல் காக்கவும், இலக்கிய வகைகளை வரையறுக்கவும் தோன்றின.",
+        "isCorrect": true
+      },
+      {
+        "text": "காதல் கடிதம் எழுத",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாறு எழுத",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வசை பாடாமல் இருக்க."
+  },
+  {
+    "questionNumber": 29,
+    "question": "வெண்பாப் பாட்டியல் கூறும் 'நால்வகைப் பா' எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா, ஆசிரியப்பா, கலிப்பா, வஞ்சிப்பா",
+        "rationale": "இப்பாக்களுக்கு உரிய இனங்களையும் இது விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறள், சிந்து, விருத்தம், தாழிசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகம், புறம், பொது, களவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழிப் பாக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அடிப்படைப் பாக்கள்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "நேமிநாதத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "இதற்கு உரை எழுதியவர் பெயர் தெரியவில்லை, ஆனால் உரை கிடைத்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணசாகரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அநாமதேயர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "வெண்பாப் பாட்டியல் எந்தச் சாதியினருக்கு எந்தப் பா வகை சிறந்தது என்று கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், வருணப் பாகுபாடு அடிப்படையில் பா வகைகளைப் பிரிக்கிறது",
+        "rationale": "அந்தணர்க்கு வெண்பா, அரசர்க்கு ஆசிரியப்பா... என்று வருண அடிப்படையில் பா வகைகளை ஒதுக்கும் வழக்கம் பாட்டியலில் உண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை, அனைவருக்கும் சமம்",
+        "rationale": "பாட்டியல் நூல்கள் சாதிப் பாகுபாட்டைப் பாடல்களில் புகுத்தின.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெய்வங்களுக்கு மட்டும் பா உண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விலங்குகளுக்குப் பா உண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நால்வருணம்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "நேமிநாத உரை எந்தக் காலத்தைச் சேர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 13-14ஆம் நூற்றாண்டு",
+        "rationale": "நன்னூல் உரைக்கு முற்பட்டதாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 2ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடைக்காலம்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'பிள்ளைத்தமிழ்' இலக்கியத்திற்கு இலக்கணம் வகுத்த நூல்களுள் ஒன்று?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியம் பிள்ளைத்தமிழ் பற்றிப் பெயர் சுட்டிச் சொல்லவில்லை (குழவி மருங்கினும்... என்று குறிப்பு மட்டும் உண்டு).",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பாப் பாட்டியல்",
+        "rationale": "பிள்ளைத்தமிழின் பருவங்கள் (காப்பு, செங்கீரை...) மற்றும் ஆண்பால், பெண்பால் வேறுபாடுகளை வரையறுத்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பத்து பருவங்கள்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "குணவீர பண்டிதர் சமண மதத்தைச் சார்ந்தவர் என்பதை எதன் மூலம் அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூலின் கடவுள் வாழ்த்து மற்றும் 'நேமிநாதர்' பெயர் மூலம்",
+        "rationale": "நேமிநாதர் சமணத் தீர்த்தங்கரர்; வஜ்ரநந்தி சமண முனிவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவர் அணிந்த ஆடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவர் பெயர்",
+        "rationale": "பெயர் மட்டும் போதாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர் குறிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஜைனம்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "வெண்பாப் பாட்டியல் 'மங்கலப் பொருத்தம்' பற்றி என்ன கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடலின் முதல் சொல் மங்கலமாக இருக்க வேண்டும்",
+        "rationale": "திரு, பொன், பூ, மணி போன்ற மங்கலச் சொற்களில் பாடல் தொடங்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல் சோகமாக இருக்க வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடலில் முடிவு மங்கலமாக இருக்க வேண்டும்",
+        "rationale": "தொடக்கம் முக்கியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலைப்பு மங்கலமாக இருக்க வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திரு, உலகம், பொன்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "நேமிநாதம் தொல்காப்பியத்திற்கு மாற்றாகத் தோன்றக் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் மிகவும் விரிவாகவும், அக்காலத்திற்குச் சில மாற்றங்கள் தேவைப்பட்டதாலும்",
+        "rationale": "மாணவர்கள் எளிதில் கற்கச் சுருக்கமான நூல் தேவைப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம் அழிந்துவிட்டதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம் வடமொழியில் இருந்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர் ஆணையால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுருக்கம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "இந்திர காளியம் நூலின் பெயர் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இந்திரனால் இயற்றப்பட்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காளியம்மன் பற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர் காரணம் தெளிவாகத் தெரியவில்லை (யமுனைத் துறைவர் இயற்றியது)",
+        "rationale": "ஆசிரியர் யமுனைத் துறைவர் எனினும் நூல் பெயர் காரணம் ஆய்வுக்கரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இந்திர விழா பற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆசிரியர் வேறு, நூல் பெயர் வேறு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'நூலினும், சொல்லினும், எழுத்தினும்பேரிது நேமிநாதம்' - இக்கூற்று சரியா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை, 'தொல்காப்பியக் கடல் தன்னை ஒரு சிறு சொல்லால் அடக்கியது நேமிநாதம்' என்பதே புகழ்",
+        "rationale": "இது ஒரு சுருக்க நூல் (சின்னூல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "இது இசை நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இது நாடக நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடலை உள்ளங்கையில் அடக்கியது போல."
+  },
+  {
+    "questionNumber": 39,
+    "question": "வெண்பாப் பாட்டியலின் 'கணப் பொருத்தம்' எதனை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சீர் வகைகள் (தேமா, புளிமா - தேவர், நரகர் கணம்)",
+        "rationale": "சீர்களைத் தேவர் கணம், மனிதர் கணம், நரகர் கணம் எனப் பிரித்துத் தலைவனுக்கு ஏற்ற கணத்தில் பாடல் தொடங்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்சத்திரக் கூட்டம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மக்கள் கூட்டம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எண்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நரகர் கணம் ஆகாது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "நேமிநாதம் நூலில் 'எழுத்து' அதிகாரத்தில் எத்தனை பாடல்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "24",
+        "rationale": "சுமார் 24 வெண்பாக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "96",
+        "rationale": "மொத்தம் 96.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிகக் குறைவு."
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாட்டியல் மரபில் 'நாட்கோள்' (நாள் பொருத்தம்) என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடல் அரங்கேற்றும் நாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் தொடங்கும் முதல் எழுத்து எந்த விண்மீனுக்கு (நட்சத்திரத்திற்கு) உரியது என்பது",
+        "rationale": "அசுவினி முதல் ரேவதி வரையிலான 27 நட்சத்திரங்களுக்கு உரிய எழுத்துக்களைக் கணக்கிட்டுப் பொருத்தம் பார்ப்பது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலைவனின் பிறந்த நாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவரின் பிறந்த நாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27 நட்சத்திரங்கள்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "வெண்பாப் பாட்டியல் எந்த யாப்பால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "பெயரே 'வெண்பாப்' பாட்டியல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டளைக் கலித்துறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் தலைப்பு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "நேமிநாதம் 'வடசொல்' பற்றி என்ன கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வட எழுத்துக்களை நீக்கித் தமிழ் ஒலிப்புக்கு ஏற்ப மாற்ற வேண்டும்",
+        "rationale": "தொல்காப்பியர் வழியைப் பின்பற்றுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அப்படியே பயன்படுத்தலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடசொல்லே கூடாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலம் கலக்கலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தற்சமம், தற்பவம்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "குணவீர பண்டிதர் சமண சமயத்தின் எந்தப் பிரிவைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திகம்பரர்",
+        "rationale": "தமிழ்நாட்டுச் சமணர்கள் பெரும்பாலும் திகம்பரப் பிரிவினர் (நந்தி சங்கம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "சுவேதாம்பரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகாயானம்",
+        "rationale": "அது பௌத்தம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஹீனயானம்",
+        "rationale": "அது பௌத்தம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திசையே ஆடை."
+  },
+  {
+    "questionNumber": 45,
+    "question": "வெண்பாப் பாட்டியல் குறிப்பிடும் 'உலா' இலக்கியத்தின் பாட்டுடைத் தலைவன் வயது வரம்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எந்த வயதும் ஆகலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேதை முதல் பேரிளம்பெண் வரை எழுவர் காதலிப்பதாகப் பாடுவது",
+        "rationale": "உலா வரும் தலைவனைக் கண்டு ஏழு பருவ மகளிரும் காதல் கொள்வது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குழந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முதியவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஏழு பருவ மகளிர்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "இந்திர காளியம் எப்போது மறைந்திருக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழர் காலத்திற்குப் பின்",
+        "rationale": "யாப்பருங்கலம் (கி.பி. 10ஆம் நூற்றாண்டு) தோன்றிய பின் இதன் தேவை குறைந்து மறைந்திருக்கலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேற்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலேயர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமிர்தசாகரர் காலத்திற்குப் பின்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "நேமிநாதம் கற்பிக்கும் முறை எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எளிமை மற்றும் சுருக்கம்",
+        "rationale": "சிக்கலான விதிகளை எளிமைப்படுத்திக் கூறுவது இதன் சிறப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "விவாதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை சொல்லுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினா விடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சின்னூல்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "வெண்பாப் பாட்டியல் 'கலம்பகம்' பாடலில் இருக்க வேண்டிய உறுப்புகளின் எண்ணிக்கையை எதை வைத்துக் கணக்கிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டுடைத் தலைவனின் வருணம் (சாதி)",
+        "rationale": "தேவர்க்கு 100, அந்தணர்க்கு 95, அரசர்க்கு 90... என்ற வகையில் எண்ணிக்கை மாறுபடும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புலவரின் விருப்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு, தொண்ணூறு..."
+  },
+  {
+    "questionNumber": 49,
+    "question": "குணவீர பண்டிதர் 'தொல்காப்பியப் புதையலை'த் திறக்க உதவிய திறவுகோல் என்று எதைக் குறிப்பிடலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நேமிநாதம்",
+        "rationale": "தொல்காப்பியத்தின் செறிவான கருத்துக்களை எளிமையாகப் புரிந்து கொள்ள நேமிநாதம் உதவுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பாப் பாட்டியல்",
+        "rationale": "இது பாட்டியல் நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுருக்க நூல்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "பாட்டியல் நூல்களில் 'செவி அறிவுறூஉ' என்பது எவ்வகை இலக்கியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரசனுக்கு அறம் கூறுவது",
+        "rationale": "மன்னன் செய்ய வேண்டிய கடமைகளை அவன் காதுபட (செவி) அறிவுறுத்துவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத்துவர் குறிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காதல் பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குழந்தைப் பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புறநானூற்றுத் துறை."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'தமிழ் நெறி விளக்கம்' என்ற நூல் எப்பொருள் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "இது அகப்பொருள் துறைகளை விளக்கும் ஒரு சிறிய நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதல் ஒழுக்கம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தமிழ் நெறி விளக்கத்தின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர் தெரியவில்லை",
+        "rationale": "இந்நூலின் ஆசிரியர் பெயர் அறியப்படவில்லை. (சிலர் இது ஒரு தனியொரு புலவரால் இயற்றப்பட்டது என்பர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அநாமதேய நூல்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தமிழ் நெறி விளக்கம் எத்தனை பாடல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "25",
+        "rationale": "கிடைத்துள்ளவரை இந்நூல் 25 பாடல்களைக் கொண்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிகச் சிறிய நூல்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "யாப்பருங்கலம் என்ற விரிவான இலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "அமிர்தசாகரர் என்பவரே யாப்பருங்கலம் மற்றும் யாப்பருங்கலக் காரிகை ஆகிய இரண்டையும் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குணசாகரர்",
+        "rationale": "இவர் உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடல் (சாகரம்) என்ற பெயர் கொண்டவர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "அமிர்தசாகரர் எந்தச் சமயத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "அமிர்தசாகரர் ஒரு சமணத் துறவி ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஜைன மதம்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "யாப்பருங்கல விருத்தியுரை என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பருங்கலக் காரிகையின் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம் நூலுக்கு எழுதப்பட்ட மிக விரிவான உரை",
+        "rationale": "பெயர் தெரியாத ஒருவரால் யாப்பருங்கலம் நூலுக்கு எழுதப்பட்ட பேருரை. இது இலக்கணக் களஞ்சியமாகத் திகழ்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரு தனி நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருத்தி என்றால் விரிவு."
+  },
+  {
+    "questionNumber": 7,
+    "question": "யாப்பருங்கல விருத்தியுரையின் முக்கியத்துவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இது மிக எளிமையானது",
+        "rationale": "இல்லை, இது கடினமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறைந்துபோன பல இலக்கண நூல்களின் பாடல்களை இது மேற்கோள்களாகக் கொண்டுள்ளது",
+        "rationale": "அவிநயம், சங்க யாப்பு, காக்கை பாடினியம், மயேச்சுரம் போன்ற அழிந்துபோன நூல்களின் பாடல்கள் இவ்வுரை மூலமே நமக்குக் கிடைத்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இது ஆங்கிலத்தில் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இது கதை சொல்கிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கணக் கடல்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'யாப்பருங்கலக் காரிகை' நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குணசாகரர்",
+        "rationale": "இவர் உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "யாப்பருங்கலம் என்ற பெரிய நூலை இயற்றிய அவரே, மாணவர்கள் எளிதில் கற்க 'காரிகை'யை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமுதசாகரர்",
+        "rationale": "இது அமிர்தசாகரரின் தமிழ்ப் பெயர் வடிவம் (சரியே, எனினும் ஆப்ஷனில் அமிர்தசாகரர் இருப்பின் அதையே தேர்வு செய்க).",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெரிய நூலை எழுதியவரே சிறிய நூலையும் எழுதினார்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "யாப்பருங்கலக் காரிகை நூலுக்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குணசாகரர்",
+        "rationale": "அமிர்தசாகரரின் மாணவரான குணசாகரர் இதற்கு உரை எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயிலைநாதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கர நமச்சிவாயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவரும் கடல் (சாகரம்) பெயர் கொண்டவர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "யாப்பருங்கலக் காரிகை எத்தனை இயல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று (உறுப்பியல், செய்யுளியல், ஒழிபியல்)",
+        "rationale": "காரிகை மூன்று முக்கியப் பிரிவுகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உறுப்பு, செய்யுள், ஒழிபு."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'காரிகை' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெண்",
+        "rationale": "காரிகை என்பது பெண்ணைக் குறிக்கும். இந்நூல் ஒரு பெண்ணை முன்னிலைப்படுத்தி (மகடூஉ முன்னிலை) இலக்கணம் கூறுவதால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குழந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மகடூஉ முன்னிலை."
+  },
+  {
+    "questionNumber": 12,
+    "question": "யாப்பருங்கலக் காரிகை முழுவதுமே எந்தப் பா வகையால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டளைக் கலித்துறை",
+        "rationale": "காரிகையின் பாடல்கள் அனைத்தும் கட்டளைக் கலித்துறை என்னும் யாப்பு வகையால் ஆனவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நேர் 16, நிரை 17."
+  },
+  {
+    "questionNumber": 13,
+    "question": "செய்யுள் உறுப்புகள் எத்தனை என யாப்பருங்கலக் காரிகை கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறு",
+        "rationale": "எழுத்து, அசை, சீர், தளை, அடி, தொடை என ஆறு உறுப்புகளைக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்து முதல் தொடை ஈறாக."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'அமிதசாகரனார் செய்த காரிகை' எனக் கூறும் பாயிரப் பாடல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காதல் மகளிர்க் குணமுரைப்ப...",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணார் கண்ணி...",
+        "rationale": "தற்புகழ்ச்சிப் பாயிரமாகிய இது நூலாசிரியரைக் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உலகம் யாவையும்...",
+        "rationale": "இது கம்பராமாயணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகர முதல...",
+        "rationale": "இது திருக்குறள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணார் கண்ணி."
+  },
+  {
+    "questionNumber": 15,
+    "question": "தமிழ் யாப்பிலக்கணத்தைக் கற்க இன்றும் கல்லூரிகளில் அடிப்படையாகப் பயன்படும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் செய்யுளியல்",
+        "rationale": "இது ஆய்வுக்குரியது, பாடநூலாகக் கடினமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலக் காரிகை",
+        "rationale": "மாணவர்களுக்கு எளிமையாக யாப்பிலக்கணம் கற்பிக்க இந்நூலே பெரிதும் பயன்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவிநயம்",
+        "rationale": "கிடைக்கவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க யாப்பு",
+        "rationale": "கிடைக்கவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரிகை கற்றாரோடு கவிதைக்கோர் சொல்லாடாதே."
+  },
+  {
+    "questionNumber": 16,
+    "question": "காரிகையில் 'ஒழிபியல்' எதனைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முதல் இரண்டு இயல்களில் விடுபட்ட செய்திகள்",
+        "rationale": "உறுப்பியல், செய்யுளியலில் சொல்லப்படாத எஞ்சிய இலக்கணங்களை ஒழிபியல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூலின் முடிவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியர் வரலாறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள் வாழ்த்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒழிபு என்றால் எஞ்சியது."
+  },
+  {
+    "questionNumber": 17,
+    "question": "யாப்பருங்கலம் மற்றும் காரிகை தோன்றிய காலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 10ஆம் நூற்றாண்டு",
+        "rationale": "இவர்கள் கி.பி. 10 அல்லது 11ஆம் நூற்றாண்டைச் சேர்ந்தவர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 3ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சோழர் காலத்திற்குச் சற்று முற்பட்டது அல்லது தொடக்கம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "யாப்பருங்கல விருத்தியுரை எந்த நகரில் அரங்கேற்றப்பட்டதாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சிபுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்கொண்ட ஒரு நகரம் (மேலைக்கடற்கரை)",
+        "rationale": "சமணர்கள் வாழ்ந்த துளுநாட்டுப் பகுதியில் இது தோன்றியிருக்கலாம் எனக் கருதப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "களப்பாளர்களின் பகுதி அல்லது துளு நாடு",
+        "rationale": "அமிர்தசாகரர் 'குன்றை' என்னும் ஊரைச் சேர்ந்தவர்.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "குன்றை (சிறுகுன்றை)."
+  },
+  {
+    "questionNumber": 19,
+    "question": "அமிர்தசாகரர் யாரால் ஆதரிக்கப்பட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாண்டிய மன்னன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரும்பிடுகு முத்தரையர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமண முனிவர்கள் மற்றும் புரவலர்கள்",
+        "rationale": "குறிப்பாக 'நீலகேசி' உரையில் இவரைப் பற்றிய குறிப்புகள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "ராஜராஜ சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமண சமயத் தொடர்பு."
+  },
+  {
+    "questionNumber": 20,
+    "question": "காரிகையில் 'கணங்கள்' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்கு",
+        "rationale": "ஈரசைச் சீர் (இயற்சீர்), மூவசைச் சீர் (உரிச்சீர்) அடிப்படையில் தேமா, புளிமா, கருவிளம், கூவிளம் என அடிப்படை வாய்பாடுகள் 4 (இது சீர்).",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு (மூவசைச் சீர்கள்)",
+        "rationale": "காய்ச்சீர் 4, கனிச்சீர் 4 என மூவசைச் சீர்கள் 8.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு வகைச் சீர்கள்",
+        "rationale": "ஓரசை, ஈரசை, மூவசை, நான்கசைச் சீர்கள் எனச் சீர் 4 வகைப்படும்.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "சீர் வகைகள்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'மா முன் நிரை' வருவது என்ன தளை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயற்சீர் வெண்டளை",
+        "rationale": "மா முன் நிரையும், விளம் முன் நேரும் வருவது இயற்சீர் வெண்டளை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்சீர் வெண்டளை",
+        "rationale": "காய் முன் நேர் வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியத் தளை",
+        "rationale": "மா முன் நேர், விளம் முன் நிரை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலித் தளை",
+        "rationale": "காய் முன் நிரை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இயல்பாக வருவது."
+  },
+  {
+    "questionNumber": 22,
+    "question": "காரிகையில் ஒவ்வொரு பாடலின் இறுதியிலும், இடையிலும் வரும் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமிர்தசாகரர் பெயர்",
+        "rationale": "பாடலின் உள்ளே ஆசிரியர் பெயர் வராது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு பெண்ணின் பெயர் அல்லது விளி",
+        "rationale": "'ஆழிப்பா', 'ஒண்ணுதால்' என்று பெண்ணை விளித்துப் பாடுவது காரிகை மரபு.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடவுள் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னன் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மகடூஉ முன்னிலை."
+  },
+  {
+    "questionNumber": 23,
+    "question": "யாப்பருங்கலம் எந்த நூலுக்குப் பின் தோன்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் யாப்பருங்கலத்திற்குப் பிந்தையது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியத்திற்குப் பல நூற்றாண்டுகளுக்குப் பின் தோன்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காரிகை",
+        "rationale": "யாப்பருங்கலம் தான் முதலில் தோன்றியது, காரிகை அதன் சுருக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "வீரசோழியம் சமகாலத்தையது அல்லது சற்றுப் பிந்தையது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிகப் பழமையான நூல்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "காரிகையில் 'தளை' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "நேரொன்றாசிரியத்தளை முதல் கலித்தளை ஈறாக 7 தளைகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பந்தம் (Binding)."
+  },
+  {
+    "questionNumber": 25,
+    "question": "அசை எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு (நேர், நிரை)",
+        "rationale": "குறில் தனித்தோ, ஒற்றடுத்தோ வருவது; நெடில் தனித்தோ, ஒற்றடுத்தோ வருவது நேர். இருகுறில் இணைந்தோ, ஒற்றடுத்தோ; குறில் நெடில் இணைந்தோ ஒற்றடுத்தோ வருவது நிரை.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்துகளின் அசைவு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'தொடை' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொடுத்தல் (பூக்கட்டுதல் போல)",
+        "rationale": "எழுத்துக்களோ சீர்களோ ஒன்றோடு ஒன்று தொடுக்கப்படுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மோனை, எதுகை போன்றவை."
+  },
+  {
+    "questionNumber": 27,
+    "question": "அடிதோறும் முதல் எழுத்து ஒன்றி வருவது என்ன தொடை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மோனை",
+        "rationale": "முதல் எழுத்து ஒன்றி வருவது மோனை.",
+        "isCorrect": true
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "இரண்டாம் எழுத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயைபு",
+        "rationale": "இறுதி எழுத்து/சொல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முரண்",
+        "rationale": "எதிர்ச்சொல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதலெழுத்து."
+  },
+  {
+    "questionNumber": 28,
+    "question": "அடிதோறும் இரண்டாம் எழுத்து ஒன்றி வருவது என்ன தொடை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மோனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "இரண்டாம் எழுத்து ஒன்றி வர, முதல் எழுத்து அளவு ஒத்திருப்பது எதுகை.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயைபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அளபெடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டாவது."
+  },
+  {
+    "questionNumber": 29,
+    "question": "யாப்பருங்கலம் எந்த நூலுக்கு இணையான பெருமையுடையதாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "யாப்பு இலக்கணத்தில் தொல்காப்பியத்திற்குப் பின் மிக விரிவான நூல் இதுவே.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் சொல்லிலக்கணத்திற்குச் சிறப்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "இது அறநூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "இது காப்பியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கண நூல்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "யாப்பருங்கலக் காரிகை உரையாசிரியர் குணசாகரர், அமிர்தசாகரருக்கு என்ன உறவுமுறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாணவர்",
+        "rationale": "குணசாகரர் அமிர்தசாகரரின் மாணவர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குரு-சீடன்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "கட்டளைக் கலித்துறையில் ஒவ்வொரு அடியிலும் எத்தனை எழுத்துக்கள் இருக்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நேர் அசையில் தொடங்கினால் 16, நிரை அசையில் தொடங்கினால் 17",
+        "rationale": "இதுவே கட்டளைக் கலித்துறையின் முக்கிய விதி (ஒற்று நீக்கி எண்ண வேண்டும்).",
+        "isCorrect": true
+      },
+      {
+        "text": "எப்போதும் 16",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எப்போதும் 20",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எண்ணிக்கை கணக்கில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பதினாறு, பதினேழு."
+  },
+  {
+    "questionNumber": 32,
+    "question": "யாப்பருங்கலக் காரிகையில் உள்ள மொத்தக் காரிகைகளின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "44",
+        "rationale": "காரிகை 44 கட்டளைக் கலித்துறைப் பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1330",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாற்பத்து நான்கு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'ஆழிப்பா' என்பது யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல் போன்றவளே (பெண்)",
+        "rationale": "காரிகையில் மகடூஉ முன்னிலையாகப் பயன்படுத்தப்படும் சொல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெண்ணை அழைத்தல்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "தமிழ் நெறி விளக்கம் எந்த நூலின் அகப்பொருள் மரபைப் பின்பற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் மற்றும் இறையனார் அகப்பொருள்",
+        "rationale": "பழந்தமிழ் அகப்பொருள் மரபைத் தெளிவாக விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள் வெண்பாமாலை",
+        "rationale": "இது புறப்பொருள் நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழைய மரபு."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'மாத்திரை' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மருந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்து ஒலிக்கப்படும் கால அளவு",
+        "rationale": "கண் இமைக்கும் நேரம் அல்லது கை நொடிக்கும் நேரம் ஒரு மாத்திரை.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்து வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் வகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கால அளவு."
+  },
+  {
+    "questionNumber": 36,
+    "question": "யாப்பருங்கல விருத்தியுரை எந்த மதக் கருத்துக்களை உள்ளடக்கியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமணம்",
+        "rationale": "நூலாசிரியர் சமணர் என்பதால் சமணக் கருத்துக்கள் மற்றும் அருகக் கடவுள் வாழ்த்து இடம்பெற்றுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சைவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிறித்தவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஜைனம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "வெண்பாவின் ஈற்றுச் சீர் (இறுதிச் சீர்) எவ்வாறு முடிய வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாள், மலர், காசு, பிறப்பு",
+        "rationale": "இந்நான்கில் ஏதேனும் ஒன்றைக் கொண்டு முடிய வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேமா, புளிமா",
+        "rationale": "மட்டும் போதாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காய், கனி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுவும் வரலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஓரசைச் சீர் அல்லது குற்றியலுகரச் சீர்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "யாப்பருங்கலக் காரிகையில் 'உறுப்பியல்' எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்து, அசை, சீர், தளை, அடி, தொடை",
+        "rationale": "செய்யுளின் அடிப்படை உறுப்புகளை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பா வகைகள்",
+        "rationale": "அது செய்யுளியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எஞ்சிய செய்திகள்",
+        "rationale": "அது ஒழிபியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுள் கட்டமைப்பு."
+  },
+  {
+    "questionNumber": 39,
+    "question": "குணசாகரர் உரைக்கு உதாரணச் செய்யுள்கள் எங்கிருந்து எடுக்கப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கியங்கள் மற்றும் பழைய இலக்கண நூல்கள்",
+        "rationale": "பல பழைய நூல்களிலிருந்து மேற்கோள்களை எடுத்துத் தந்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவரே இயற்றினார்",
+        "rationale": "சில பாடல்களை இயற்றியிருக்கலாம், ஆனால் பல மேற்கோள்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரைப்படப் பாடல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்தித்தாள்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முன்னோர் மொழிபொருள்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "யாப்பருங்கலம் நூலில் கூறப்படும் 'பா' வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்கு (வெண்பா, ஆசிரியப்பா, கலிப்பா, வஞ்சிப்பா)",
+        "rationale": "அதன் இனங்களையும் சேர்த்து விரிவாக விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "மருட்பாவையும் சேர்த்தால் ஐந்து (எனினும் அடிப்படை 4).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முக்கியமான நான்கு."
+  },
+  {
+    "questionNumber": 41,
+    "question": "தமிழில் தோன்றிய முதல் 'காரிகை' நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பருங்கலக் காரிகை",
+        "rationale": "இதுவே காரிகை நூல்களுக்கு முன்னோடி.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்டியலங்காரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாறனலங்காரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமிர்தசாகரர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "கலிப்பா எவ்வகை ஓசையைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துள்ளல் ஓசை",
+        "rationale": "கலிப்பா துள்ளல் ஓசை உடையது (கன்று துள்ளுவது போல).",
+        "isCorrect": true
+      },
+      {
+        "text": "செப்பலோசை",
+        "rationale": "வெண்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகவலோசை",
+        "rationale": "ஆசிரியப்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "வஞ்சிப்பா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துள்ளிக் குதிப்பது."
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஆசிரியப்பா எவ்வகை ஓசையைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகவலோசை",
+        "rationale": "மயில் அகவுவது போன்ற ஓசை.",
+        "isCorrect": true
+      },
+      {
+        "text": "செப்பலோசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துள்ளல் ஓசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகவல்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "வெண்பா எவ்வகை ஓசையைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செப்பலோசை",
+        "rationale": "இருவர் உரையாடுவது போன்ற ஓசை.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகவலோசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துள்ளல் ஓசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செப்புதல் என்றால் சொல்லுதல்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "வஞ்சிப்பா எவ்வகை ஓசையைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "தாழ்ந்து ஒலிக்கும் ஓசை.",
+        "isCorrect": true
+      },
+      {
+        "text": "செப்பலோசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகவலோசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துள்ளல் ஓசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தூங்குவது போல."
+  },
+  {
+    "questionNumber": 46,
+    "question": "யாப்பருங்கலக் காரிகை எந்த வகையான நூல்களுள் ஒன்று?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிற்றிலக்கியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கண நூல் (யாப்பு)",
+        "rationale": "யாப்பிலக்கணம் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க இலக்கியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கணம்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "அமிர்தசாகரர் பிறந்த ஊர் எதுவாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தீபங்குடி",
+        "rationale": "இது வேறு புலவர் ஊர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குன்றை (சிறுகுன்றை)",
+        "rationale": "களப்பாளர் நாட்டிலிருந்த குன்றை என்ற ஊர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குன்று."
+  },
+  {
+    "questionNumber": 48,
+    "question": "காரிகையில் 'பா இனம்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று (தாழிசை, துறை, விருத்தம்)",
+        "rationale": "ஒவ்வொரு பா வகைக்கும் தாழிசை, துறை, விருத்தம் என மூன்று இனங்கள் உண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாக்களின் உறவினர்கள்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'விருத்தியுரை' என்பதன் நேரடிப் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுருக்க உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விரிவான உரை (Commentary explaining in detail)",
+        "rationale": "மூல நூலின் கருத்தை ஆழமாகவும், விரிவாகவும், மேற்கோள்களுடனும் விளக்குவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொற்பொருள் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரிவு."
+  },
+  {
+    "questionNumber": 50,
+    "question": "யாப்பருங்கலக் காரிகை மனனம் செய்வதற்கு ஏற்றதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இல்லை, கடினமானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆம், மனனம் செய்வதற்கு ஏற்ற வகையில் சுருக்கமாகவும், எதுகை மோனையுடனும் அமைந்துள்ளது",
+        "rationale": "மாணவர்கள் மனப்பாடம் செய்து நினைவில் கொள்ளும் வகையில் 'கட்டளைக் கலித்துறை' யாப்பில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரைநடை வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மாணவர்களுக்கு ஏற்றது."
+  }
+]
