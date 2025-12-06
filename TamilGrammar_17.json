@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'சந்திராலோகம்' எவ்வகை இலக்கண நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பிலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணியிலக்கணம்",
+        "rationale": "சந்திராலோகம் என்பது வடமொழியில் ஜயதேவர் இயற்றிய அணியிலக்கண நூல். இது தமிழிலும் மொழிபெயர்க்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழித் தழுவல்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "சந்திராலோகம் கூறும் அணிகளின் எண்ணிக்கை எவ்வளவு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "சந்திராலோகம் 100 வகை அணிகளை (நூறு அலங்காரங்களை) விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "35",
+        "rationale": "இது தண்டியலங்காரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "64",
+        "rationale": "இது மாறனலங்காரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சதகம் (நூறு)."
+  },
+  {
+    "questionNumber": 3,
+    "question": "சந்திராலோகத்தின் மூல ஆசிரியர் யார் (வடமொழியில்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜயதேவர்",
+        "rationale": "வடமொழியில் பியூட வருஷ ஜயதேவர் என்பவர் இயற்றியதே சந்திராலோகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அப்பைய தீட்சிதர்",
+        "rationale": "இவர் குவலயானந்தம் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தண்டி",
+        "rationale": "இவர் காவ்யாதர்சம் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காளிதாசர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கீத கோவிந்தம் எழுதியவர் பெயரைக் கொண்டவர் (இவர் வேறு)."
+  },
+  {
+    "questionNumber": 4,
+    "question": "'குவலயானந்தம்' என்ற நூல் எதனை அடிப்படையாகக் கொண்டு எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சந்திராலோகம்",
+        "rationale": "சந்திராலோகத்தில் உள்ள 100 அணிகளையும் அடிப்படையாகக் கொண்டு, அவற்றை விரிவுபடுத்தி எழுதப்பட்டதே குவலயானந்தம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்டியலங்காரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஜயதேவர் நூல்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "வடமொழியில் 'குவலயானந்தம்' நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அப்பைய தீட்சிதர்",
+        "rationale": "புகழ்பெற்ற வடமொழி அறிஞரான அப்பைய தீட்சிதர் இயற்றிய நூலே குவலயானந்தம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுப்பிரமணிய தீட்சிதர்",
+        "rationale": "இவர் பிரயோக விவேகம் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜயதேவர்",
+        "rationale": "இவர் சந்திராலோகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாமனர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீட்சிதர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தமிழில் குவலயானந்தத்தை மொழிபெயர்த்து/தழுவி எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாணிக்கவாசகர் (பிற்காலப் புலவர்)",
+        "rationale": "திருவாசகம் பாடியவர் அல்லர். பிற்காலத்தில் வாழ்ந்த ஒரு புலவர் குவலயானந்தத்தைத் தமிழில் தந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாணிக்கவாசகர் (நாயன்மார்)",
+        "rationale": "இவர் கி.பி. 9ஆம் நூற்றாண்டு, குவலயானந்தம் மிகவும் பிற்பட்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாயன்மார் பெயர் கொண்ட வேறொருவர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "சந்திராலோகம் மற்றும் குவலயானந்தம் ஆகிய நூல்கள் தமிழில் எப்போது தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19ஆம் நூற்றாண்டு",
+        "rationale": "இவை மிகப்பிற்காலத்தில் (நாயக்கர் காலத்திற்குப் பின் அல்லது 19ஆம் நூ.) தமிழில் மொழிபெயர்க்கப்பட்டன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நவீன காலத் தொடக்கம்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'அறுவகை இலக்கணம்' என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வண்ணச்சரபம் தண்டபாணி சுவாமிகள்",
+        "rationale": "ஐந்திலக்கணத்தோடு ஆறாவதாக ஒன்றைச் சேர்த்து 'அறுவகை இலக்கணம்' இயற்றியவர் தண்டபாணி சுவாமிகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தொன்னூல் விளக்கம் (ஐந்திலக்கணம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "நன்னூல் (இரண்டிலக்கணம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "மூன்றிலக்கணம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முருகப் பெருமான் மீது வண்ணப் பாடல்கள் பாடியவர்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "தண்டபாணி சுவாமிகள் கூறும் 'ஆறாவது இலக்கணம்' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புலமை இலக்கணம்",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, அணி ஆகியவற்றோடு 'புலமை' (Scholarship/Poetic capability) என்பதையும் ஓர் இலக்கணமாகச் சேர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசை இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடக இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சு இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிஞரின் தகுதி."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'விருத்தப் பாவியல்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வண்ணச்சரபம் தண்டபாணி சுவாமிகள்",
+        "rationale": "அறுவகை இலக்கணம் இயற்றிய அவரே விருத்தப் பாக்களுக்கு இலக்கணம் கூறும் இந்நூலையும் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குருகைப் பெருமாள் கவிராயர்",
+        "rationale": "இவர் பாப்பாவினம் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமிர்தசாகரர்",
+        "rationale": "இவர் காரிகை பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வண்ணச்சரபம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "சந்திராலோகத்தில் உள்ள ஒரு சிறப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணமும் இலக்கியமும் (உதாரணமும்) ஒரே பாடலில் அமைந்திருக்கும்",
+        "rationale": "அணியின் இலக்கணத்தைச் சொல்லி, அதே பாடலிலேயே அதற்கான உதாரணத்தையும் தருவது இதன் தனிச்சிறப்பு (Lakshya-Lakshana Samanvayam).",
+        "isCorrect": true
+      },
+      {
+        "text": "உதாரணம் தனியாக இருக்கும்",
+        "rationale": "இது தண்டியலங்கார முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படம் வரைந்திருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரே வரியில் விதியும் சான்றும்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "குவலயானந்தம் எதற்காகப் பெரிதும் போற்றப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அணிகளின் நுட்பமான வேறுபாடுகளை விளக்குவதற்கு",
+        "rationale": "ஒரே மாதிரியான அணிகளுக்கு இடையே உள்ள நுண்ணிய வேறுபாடுகளை (Hair-splitting distinctions) இது அலசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எளிமைக்காக",
+        "rationale": "இல்லை, இது கடினமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை சொல்வதற்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்திப் பாடல்களுக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நுணுக்கம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'மாணவர் தமிழ் இலக்கணம்' போன்ற நூல்கள் எந்தக் காலத்தில் தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "20ஆம் நூற்றாண்டு (மற்றும் 19ஆம் நூற்றாண்டின் இறுதி)",
+        "rationale": "ஆங்கிலக் கல்வி முறை வந்த பிறகு, பள்ளி மாணவர்களுக்காக எளிமையான இலக்கண நூல்கள் தோன்றின (எ-டு: சி.ஆர். நமச்சிவாய முதலியார்).",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாயக்கர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பள்ளிக்கூடம்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'தமிழ் இலக்கணக் கும்மி' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணத்தைக் கும்மிப் பாடல் வடிவில் கற்பிக்கும் நூல்",
+        "rationale": "பெண்கள் மற்றும் பாமரரும் இலக்கணம் கற்க ஏதுவாகக் கும்மி மெட்டில் இலக்கணம் கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரு நடன நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கும்மியடிக்கும் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளையாட்டு நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இசையோடு கூடிய இலக்கணம்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'தமிணூல்' (தமிழ் நூல்) என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சி.ஆர். நமச்சிவாய முதலியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபாலகிருஷ்ண பாரதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிதிமாற் கலைஞர் (சூரியநாராயண சாஸ்திரி)",
+        "rationale": "இவர் 'தமிழ்மொழி வரலாறு' எழுதினார், ஆனால் 'தமிழ் நூல்' எனும் பெயரில் இலக்கணச் சுருக்கம் எழுதியவர் வேறு ஒருவராக இருக்கலாம் (குறிப்பு: மு.சி. பூரணலிங்கம் பிள்ளை அல்லது வை.மு.கோ போன்றோர் நவீன இலக்கணங்கள் எழுதினர். தமிணூல் என்பது செய்குத் தம்பி பாவலர் போன்றோர் காலத்தையது). *திருத்தம்: தமிணூல் என்பது கோ. வடிவேலு செட்டியார் இயற்றியது.*",
+        "isCorrect": false
+      },
+      {
+        "text": "கோ. வடிவேலு செட்டியார்",
+        "rationale": "தர்க்க சாத்திரம் வல்லுநரான கோ. வடிவேலு செட்டியார் 'தமிணூல்' என்ற இலக்கண நூலை இயற்றினார்.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "செட்டியார்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "அறுவகை இலக்கணத்தில் தண்டபாணி சுவாமிகள் எதனை வெறுத்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடமொழி ஆதிக்கம் மற்றும் ஆரியக் கருத்துக்களை",
+        "rationale": "தமிழ் தனித்தியங்கும் தன்மையுடையது என்று வாதிட்டார். வடமொழிச் சார்பை எதிர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவத்தை",
+        "rationale": "தவறு, அவர் தீவிர சைவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தனித்தமிழ் முன்னோடி போன்றவர்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'யாப்பு நூல்' (Yaappu Nool) என்ற பெயரில் நவீன காலத்தில் நூல் செய்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புலவர் குழந்தை",
+        "rationale": "தொல்காப்பிய உரை மட்டுமல்லாமல், 'யாப்பு நூல்' என்ற பெயரில் யாப்பிலக்கண நூலையும் இயற்றியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாரதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிமணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாணிதாசன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இராவண காவியம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "திருக்கோவைக் கிளவிக் கொத்து எதற்குப் பயன்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கோவையார் நூலின் துறைகளை எளிதில் நினைவில் கொள்ள",
+        "rationale": "திருக்கோவையாரில் உள்ள 400 பாடல்களின் கிளவிகளை (துறைகளை) வரிசைப்படுத்திக் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோயில் கட்ட",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூ கட்ட",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருந்து செய்ய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துறை விளக்கம்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "திருக்கோவைக் கொளு என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கோவையார் பாடல்களின் கருத்துரை (Gist)",
+        "rationale": "ஒவ்வொரு பாடலின் மையக்கருத்தை அல்லது துறையை விளக்கும் வெண்பா அல்லது குறிப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்கோவையார் ஆசிரியர் வரலாறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கருத்தைக் 'கொள்ள' வைப்பது."
+  },
+  {
+    "questionNumber": 20,
+    "question": "உரைநடையிலமைந்த சில இலக்கண நூல்கள் எப்போது அதிகம் தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19 மற்றும் 20ஆம் நூற்றாண்டுகளில்",
+        "rationale": "அச்சு இயந்திரம் வந்த பிறகு, மாணவர்களுக்காக உரைநடையில் இலக்கணம் எழுதும் வழக்கம் பெருகியது (எ-டு: ஆறுமுக நாவலர், வி.கோ. சூரியநாராயண சாஸ்திரி).",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அச்சுக்கலை வளர்ச்சி."
+  },
+  {
+    "questionNumber": 21,
+    "question": "சந்திராலோகம் கூறும் அணிகளில் ஒன்று 'உபமேயோபமை'. இதன் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமையைப்பொருளாகவும், பொருளை உவமையாகவும் மாற்றி மாற்றிச் சொல்வது",
+        "rationale": "இராமனைப் போன்றவன் முருகன், முருகனைப் போன்றவன் இராமன் என மாறி மாறி உவமிப்பது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமை மட்டுமே சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் மட்டுமே சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுவும் சொல்லாமல் இருப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Reverse comparison."
+  },
+  {
+    "questionNumber": 22,
+    "question": "குவலயானந்தம் ஆசிரியர் அப்பைய தீட்சிதர் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அடையப்பலம் (வட ஆற்காடு)",
+        "rationale": "வேலூருக்கு அருகில் உள்ள அடையப்பலம் என்னும் ஊரில் பிறந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காசி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கும்பகோணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேலூர் பக்கம்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "தண்டபாணி சுவாமிகள் 'புலமை' இலக்கணத்தில் எதை வலியுறுத்துகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கவிஞனின் தகுதி, ஒழுக்கம், மற்றும் விரைவாகப் பாடும் திறன் (ஆசுகவி)",
+        "rationale": "இலக்கணம் தெரிந்தால் மட்டும் போதாது, புலவனுக்குரிய ஆற்றலும் ஒழுக்கமும் வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பணம் சம்பாதிப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசனைப் புகழ்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் புரிவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிஞன் தகுதி."
+  },
+  {
+    "questionNumber": 24,
+    "question": "விருத்தப் பாவியல் எத்தனை வகையான விருத்தங்களை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல வகையான சந்த விருத்தங்கள்",
+        "rationale": "சந்தச் செய்யுள்கள் (Rhythmic verses) இயற்றுவதற்கான விரிவான இலக்கணத்தை இது கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டளைக் கலித்துறை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருப்புகழ் சந்தம் போல."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'குவலயம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உலகம் (அல்லது ஆம்பல் மலர்)",
+        "rationale": "குவலயானந்தம் என்றால் 'உலகத்திற்கு மகிழ்ச்சி தருவது' (அல்லது ஆம்பல் மலருக்கு மகிழ்ச்சி தருவது - நிலவு போல).",
+        "isCorrect": true
+      },
+      {
+        "text": "வானம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பூமி."
+  },
+  {
+    "questionNumber": 26,
+    "question": "சந்திராலோகம் எந்த மொழி இலக்கணத்தைத் தமிழில் புகுத்தியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடமொழி அணியிலக்கணம்",
+        "rationale": "வடமொழியின் அலங்கார சாஸ்திரத்தைத் தமிழுக்குக் கொண்டு வந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தெலுங்கு இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கில இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிரேக்க இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Sanskrit Aesthetics."
+  },
+  {
+    "questionNumber": 27,
+    "question": "தண்டபாணி சுவாமிகள் வாழ்ந்த காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19ஆம் நூற்றாண்டு (1839-1898)",
+        "rationale": "பிரிட்டிஷ் காலத்தில் வாழ்ந்த முருக பக்தர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "12ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "21ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ராமலிங்க அடிகளார் சமகாலத்தவர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "தமிணூல் (கோ. வடிவேலு செட்டியார்) எதற்கு முக்கியத்துவம் தருகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தருக்கம் மற்றும் அறிவியல் பூர்வமான இலக்கணப் பார்வை",
+        "rationale": "தர்க்க ரீதியாக இலக்கணத்தை அணுகும் முறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பக்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Logic."
+  },
+  {
+    "questionNumber": 29,
+    "question": "அறுவகை இலக்கணம் எத்தனை சூத்திரங்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெரியவில்லை (நூல் முழுமையாகக் கிடைப்பதில் சிக்கல் இருக்கலாம் அல்லது பதிப்பு வேறுபாடு)",
+        "rationale": "தண்டபாணி சுவாமிகளின் நூல்கள் மிக விரிவானவை, எண்ணிக்கையில் வேறுபாடுகள் உண்டு. (பொதுவாகச் சில நூறு பாடல்கள்).",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரிவான நூல்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'லலிதாலங்காரம்' என்பது எதில் வரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குவலயானந்தம் (அணி)",
+        "rationale": "குவலயானந்தத்தில் சொல்லப்படும் நூறு அணிகளுள் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அலங்காரம்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "மாணவர் தமிழ் இலக்கணம் (சி.ஆர். நமச்சிவாய முதலியார்) யாருக்காக எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பள்ளி மாணவர்கள் (Beginners)",
+        "rationale": "எளிமையான நடையில் தொடக்க நிலை மாணவர்களுக்காக எழுதப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆராய்ச்சியாளர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெளிநாட்டவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "School students."
+  },
+  {
+    "questionNumber": 32,
+    "question": "தமிழ் இலக்கணக் கும்மி நூலின் பயன் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணத்தை மனப்பாடம் செய்ய எளிமைப்படுத்துதல்",
+        "rationale": "பாடலாகப் பாடி இலக்கண விதிகளை நினைவில் கொள்ள உதவுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நடனம் ஆடுதல்",
+        "rationale": "முதன்மை நோக்கம் கல்வி.",
+        "isCorrect": false
+      },
+      {
+        "text": "வழிபாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளையாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Oral tradition."
+  },
+  {
+    "questionNumber": 33,
+    "question": "அப்பைய தீட்சிதர் குவலயானந்தத்தில் எத்தனை அணிகளை விளக்குகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100 (சந்திராலோகத்தை ஒட்டி)",
+        "rationale": "சந்திராலோகத்தில் உள்ள அதே 100 அணிகளை விரிவாக விளக்குகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "35",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "200",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "திருக்கோவைக் கிளவிக் கொத்து எந்த நூலை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கோவையார் (மாணிக்கவாசகர்)",
+        "rationale": "மாணிக்கவாசகர் இயற்றிய திருக்கோவையாரின் அகப்பொருள் துறைகளை விளக்குவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருசிற்றம்பலக் கோவையா."
+  },
+  {
+    "questionNumber": 35,
+    "question": "உரைநடையில் அமைந்த இலக்கண நூல்களின் தேவை ஏன் ஏற்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூற்பாக்களைப் புரிந்து கொள்வதில் உள்ள கடினத்தன்மையைப் போக்க",
+        "rationale": "செய்யுள் வடிவில் உள்ள இலக்கணங்களைப் பாமரரும் மாணவரும் புரிந்துகொள்ள உரைநடை தேவைப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செய்யுள் எழுதத் தெரியாததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகிதம் மலிவானதால்",
+        "rationale": "காரணம் அதுவல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரச ஆணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Simplification."
+  },
+  {
+    "questionNumber": 36,
+    "question": "சந்திராலோகத்தைத் தமிழில் மொழிபெயர்த்தவர்களுள் ஒருவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்துசுப்ப பாரதியார் (அல்லது வீரபத்திர கவிராஜர்)",
+        "rationale": "சந்திராலோகத்திற்குப் பல மொழிபெயர்ப்புகள் உள்ளன. முத்துசுப்ப பாரதியார் உரை அதில் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவள்ளுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "19ஆம் நூற்றாண்டுப் புலவர்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "அறுவகை இலக்கணம் நூலில் 'வண்ணம்' என்பது எதை?க் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சந்தம் (Rhythm)",
+        "rationale": "தண்டபாணி சுவாமிகள் வண்ணப் பாடல்கள் (சந்தப் பாடல்கள்) பாடுவதில் வல்லவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓவியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருப்புகழ்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "குவலயானந்தம் நூலின் தமிழ் நடை எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடமொழி கலந்த மணிப்பிரவாள நடை (பெரும்பாலும்)",
+        "rationale": "வடமொழி நூலின் மொழிபெயர்ப்பு என்பதால் வடசொற்கள் அதிகம் இருக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தூய தமிழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெலுங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமஸ்கிருத தழுவல்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "புலவர் குழந்தை இயற்றிய 'யாப்பு நூல்' எதனை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியச் செய்யுளியல் மற்றும் காரிகை",
+        "rationale": "பழந்தமிழ் யாப்பு மரபுகளைத் தற்காலத்திற்கு ஏற்பத் தொகுத்துக் கூறியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வடமொழி சந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலக் கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசன கவிதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திராவிட இயக்கப் பார்வை."
+  },
+  {
+    "questionNumber": 40,
+    "question": "திருக்கோவைக் கொளு நூலின் பயன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கோவையார் பாடல்களின் உட்கருத்தை எளிதில் விளங்குதல்",
+        "rationale": "கடினமான திருக்கோவையார் பாடல்களுக்கு ஒரு வழிகாட்டியாக (Key) அமைகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசை கற்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடனம் கற்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாறு அறிவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Guide."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'உவமப் போலி' (Pseudo-simile) பற்றிச் சந்திராலோகம் விளக்குகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "அணிகளின் நுட்பமான பிரிவுகளை அது அலசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது தண்டி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நுட்பம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "அப்பைய தீட்சிதர் எந்த மதத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம் (அத்வைதம்)",
+        "rationale": "இவர் சிவபெருமானிடம் தீவிர பக்தி கொண்டவர், அத்வைத வேதாந்தி.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவன்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "தண்டபாணி சுவாமிகள் எந்தக் கடவுளைத் தம் நூலில் போற்றுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "இவர் முருகப் பெருமான் மீது அளவற்ற பக்தி கொண்டவர் (முருகதாசர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சக்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கந்தன்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "விருத்தப் பாவியல் எதற்கு இலக்கணம் வகுக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தப் பாக்கள்",
+        "rationale": "சந்தம் மிக்க விருத்தப் பாடல்களை இயற்றும் முறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "நவீன காலத்தில் தோன்றிய இலக்கண நூல்களின் பொதுவான தன்மை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எளிமை, பாடநூல் அமைப்பு (Textbook format)",
+        "rationale": "கற்பித்தலுக்கு ஏற்ற வகையில் பிரிவுகளும், பயிற்சிகளும் கொண்டவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிகக் கடினமான சூத்திரங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓலைச்சுவடி வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Easy to learn."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'சங்கிரகம்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொகுப்பு (Summary/Collection)",
+        "rationale": "சுருக்கித் தொகுத்துக் கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "விரிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Collection."
+  },
+  {
+    "questionNumber": 47,
+    "question": "குவலயானந்தம் எந்த நூற்றாண்டில் தமிழுக்கு வந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19ஆம் நூற்றாண்டு",
+        "rationale": "பெரும்பாலான மொழிபெயர்ப்புகள் இக்காலத்தையவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "10ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "7ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Late period."
+  },
+  {
+    "questionNumber": 48,
+    "question": "தண்டபாணி சுவாமிகள் வாழ்ந்த இடம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருநெல்வேலி / வடலூர்",
+        "rationale": "தென்மாவட்டத்தில் பிறந்து வடலூரில் சில காலம் வாழ்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சென்னை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வள்ளலார் தொடர்பு."
+  },
+  {
+    "questionNumber": 49,
+    "question": "இலக்கண உலகில் 'பிந்து நூல்கள்' என்பவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியத்திற்குப் பின் தோன்றிய அனைத்து இலக்கண நூல்களும்",
+        "rationale": "நன்னூல், நம்பி அகப்பொருள், யாப்பருங்கலம் போன்றவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க இலக்கியங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "அது முந்து நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாபுராணம்",
+        "rationale": "அது முந்து நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Later works."
+  },
+  {
+    "questionNumber": 50,
+    "question": "தமிழ் இலக்கண வரலாறு எதை நோக்கி நகர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விரிவான சூத்திரங்களிலிருந்து எளிமையான உரைநடை விளக்கத்தை நோக்கி",
+        "rationale": "தொல்காப்பியத்தின் செறிவான நடையிலிருந்து, நன்னூலின் தெளிவுக்கும், பின்னர் உரைநடை விளக்கங்களுக்கும் நகர்ந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடினமான நடைக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கணமே இல்லாமல் போனது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழியாக மாறியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Evolution towards simplicity."
+  }
+]

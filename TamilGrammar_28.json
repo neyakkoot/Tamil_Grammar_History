@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நன்னூல் என்னும் இலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தொல்காப்பியர்", "rationale": "இவர் தொல்காப்பியத்தை இயற்றியவர்.", "isCorrect": false },
+      { "text": "பவணந்தி முனிவர்", "rationale": "நன்னூலை இயற்றிய ஆசிரியர் பவணந்தி முனிவர் ஆவார்.", "isCorrect": true },
+      { "text": "அகத்தியர்", "rationale": "இவர் முதல் இலக்கண நூலை இயற்றியவர்.", "isCorrect": false },
+      { "text": "புத்தமித்திரர்", "rationale": "இவர் வீரசோழியத்தை இயற்றியவர்.", "isCorrect": false }
+    ],
+    "hint": "சன்மதி முனிவரின் புதல்வர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "பவணந்தி முனிவரை நன்னூல் இயற்றும்படி வேண்டிய மன்னன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாண்டியன் நெடுஞ்செழியன்", "rationale": "இவர் சங்க கால மன்னன்.", "isCorrect": false },
+      { "text": "சீயகங்கன்", "rationale": "சீயகங்கன் வேண்டியபடி பவணந்தியார் நன்னூலை இயற்றினார்.", "isCorrect": true },
+      { "text": "குலோத்துங்க சோழன்", "rationale": "சீயகங்கன் இவர் காலத்தவன், ஆனால் நூலை வேண்டியவன் சீயகங்கனே.", "isCorrect": false },
+      { "text": "அச்சுதப்ப நாயக்கர்", "rationale": "இவர் பிற்காலத்தவர்.", "isCorrect": false }
+    ],
+    "hint": "கங்க நாட்டை ஆண்ட சிற்றரசன்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "நன்னூலில் தற்போது கிடைத்துள்ள அதிகாரங்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எழுத்து, சொல், பொருள்", "rationale": "பொருள் அதிகாரம் கிடைக்கவில்லை.", "isCorrect": false },
+      { "text": "எழுத்து, சொல்", "rationale": "எழுத்து, சொல் என்னும் இரண்டன் இலக்கணமே நன்னூலில் கிடைத்துள்ளது.", "isCorrect": true },
+      { "text": "ஐந்திலக்கணம்", "rationale": "ஐந்திலக்கணம் இருந்திருக்கலாம் எனக் கருதப்பட்டாலும், கிடைத்துள்ளது இரண்டு மட்டுமே.", "isCorrect": false },
+      { "text": "யாப்பு, அணி", "rationale": "இவை கிடைக்கவில்லை.", "isCorrect": false }
+    ],
+    "hint": "மொழியின் அடிப்படை அலகுகள்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "நன்னூல் மொத்தம் எத்தனை நூற்பாக்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1330", "rationale": "இது திருக்குறளின் எண்ணிக்கை.", "isCorrect": false },
+      { "text": "462", "rationale": "பாயிரந் தொடங்கி நூன் முற்றும் 462 நூற்பாக்களைக் கொண்டுள்ளது.", "isCorrect": true },
+      { "text": "1610", "rationale": "இது தொல்காப்பியத்தின் தோராய எண்ணிக்கை.", "isCorrect": false },
+      { "text": "400", "rationale": "இது நாலடியார் பாடல்கள்.", "isCorrect": false }
+    ],
+    "hint": "400க்கும் 500க்கும் இடைப்பட்ட எண்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "பவணந்தி முனிவரின் தந்தை பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சன்மதி முனிவர்", "rationale": "இவர் தந்தை 'சன்மதி முனிவர்' என்று அறியலாம்.", "isCorrect": true },
+      { "text": "நக்கீரர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அகத்தியர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "தொல்காப்பியர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நல்ல மதி உடைய முனிவர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "பவணந்தி முனிவர் பிறந்த ஊர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மதுரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சனகை", "rationale": "இவர் ஊர் 'சனகை' எனப்படும் 'சனகாபுரம்' ஆகும்.", "isCorrect": true },
+      { "text": "உறையூர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காஞ்சி", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சனகாபுரம் என்றும் அழைக்கப்படும்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "பவணந்தி முனிவர் எம்மதத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சைவம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வைணவம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சமணம்", "rationale": "பவணந்தியார் சமயம் சமணம் என்பது வெளிப்படை.", "isCorrect": true },
+      { "text": "பௌத்தம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "அருகன் வழிபாட்டைப் பின்பற்றுபவர்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "நன்னூல் இயற்றப்பட்ட காலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கி.பி. 13-ஆம் நூற்றாண்டு", "rationale": "சீயகங்கன் மூன்றாம் குலோத்துங்கன் காலத்தவன் என்பதால் இது 13-ஆம் நூற்றாண்டின் முற்பகுதியது ஆகும்.", "isCorrect": true },
+      { "text": "கி.மு. 3-ஆம் நூற்றாண்டு", "rationale": "இது தொல்காப்பியர் காலம்.", "isCorrect": false },
+      { "text": "கி.பி. 10-ஆம் நூற்றாண்டு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கி.பி. 19-ஆம் நூற்றாண்டு", "rationale": "மிகவும் பிற்காலம்.", "isCorrect": false }
+    ],
+    "hint": "மூன்றாம் குலோத்துங்க சோழன் காலம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "நன்னூலுக்குக் கிடைத்துள்ள உரைகளில் மிகப் பழமையானது யாருடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சங்கர நமச்சிவாயர்", "rationale": "இவர் பிற்காலத்தவர்.", "isCorrect": false },
+      { "text": "மயிலைநாதர்", "rationale": "நன்னூலுக்குக் கிடைத்துள்ள உரைகளுள் முற்பட்டது மயிலை நாதருரையே.", "isCorrect": true },
+      { "text": "சிவஞான முனிவர்", "rationale": "இவர் 18ஆம் நூற்றாண்டு.", "isCorrect": false },
+      { "text": "ஆறுமுக நாவலர்", "rationale": "இவர் 19ஆம் நூற்றாண்டு.", "isCorrect": false }
+    ],
+    "hint": "சென்னைக்கு அருகிலுள்ள ஒரு பகுதியின் பெயரைக் கொண்டவர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "மயிலைநாதர் எம்மதத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சைவம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சமணம்", "rationale": "நூலாசிரியர் போலவே உரையாசிரியரும் சமண சமயத்தினர்.", "isCorrect": true },
+      { "text": "வைணவம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கிறித்தவம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நன்னூல் ஆசிரியரின் மதமே இவருடையதும்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "நன்னூல் பாயிரம் எத்தனை பாக்களையுடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "55", "rationale": "51 நூற்பாக்களும் 4 வெண்பாக்களும் ஆக 55 பாக்களையுடையது.", "isCorrect": true },
+      { "text": "100", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "10", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "42", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஐம்பத்து ஐந்து."
+  },
+  {
+    "questionNumber": 12,
+    "question": "சீயகங்கனின் சிறப்புப் பெயராக நன்னூல் குறிப்பிடுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அமராபரணன்", "rationale": "'அருங்கலை விநோதன் அமரா பரணன்' என்று நன்னூல் சிறப்பிக்கின்றது.", "isCorrect": true },
+      { "text": "மும்முடிச்சோழன்", "rationale": "சோழ மன்னன் பெயர்.", "isCorrect": false },
+      { "text": "கங்கைகொண்டான்", "rationale": "இராசேந்திர சோழன் பெயர்.", "isCorrect": false },
+      { "text": "மதுரைக்காண்டான்", "rationale": "பாண்டிய மன்னன் பெயர்.", "isCorrect": false }
+    ],
+    "hint": "தேவர்களுக்கு ஆபரணம் போன்றவன்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "நன்னூல் எழுத்ததிகாரத்தில் எத்தனை இயல்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "9", "rationale": "தொல்காப்பியம் 9 இயல்களைக் கொண்டது.", "isCorrect": false },
+      { "text": "5", "rationale": "தொல்காப்பியத்தின் ஒன்பது இயல்களை இவர் ஐந்து இயல்களாக (எழுத்தியல், பதவியல், உயிரீற்றுப் புணரியல், மெய்யீற்றுப் புணரியல், உருபு புணரியல்) அடக்குகிறார்.", "isCorrect": true },
+      { "text": "3", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "7", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஒரு கை விரல்களின் எண்ணிக்கை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "நன்னூலுக்கு 'உரையறி நன்னூல்' என்ற பெயரில் உரை செய்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆண்டிப் புலவர்", "rationale": "இவர் 'உரையறி நன்னூல்' என்றும் வழங்கப்படும் நன்னூல் ஆசிரிய விருத்தத்தை இயற்றினார்.", "isCorrect": true },
+      { "text": "சங்கர நமச்சிவாயர்", "rationale": "இவர் விருத்தியுரை செய்தார்.", "isCorrect": false },
+      { "text": "இராமாநுசக் கவிராயர்", "rationale": "இவர் காண்டிகை உரை செய்தார்.", "isCorrect": false },
+      { "text": "விசாகப் பெருமாளையர்", "rationale": "இவர் காண்டிகை உரை செய்தார்.", "isCorrect": false }
+    ],
+    "hint": "ஊற்றங்கால் என்னும் ஊரைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "ஆண்டிப் புலவர் இயற்றிய நிகண்டு நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "திவாகரம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஆசிரிய நிகண்டு", "rationale": "ஆண்டிப்புலவர் ஆசிரிய நிகண்டு என்னும் நிகண்டை இயற்றியவர்.", "isCorrect": true },
+      { "text": "பிங்கலம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சூடாமணி நிகண்டு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஆசிரியப்பா வகையை நினைவூட்டும் பெயர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "சங்கர நமச்சிவாயர் பிறந்த ஊர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "திருநெல்வேலி", "rationale": "சங்கர நமச்சிவாயர் ஊர் திருநெல்வேலி.", "isCorrect": true },
+      { "text": "மதுரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "யாழ்ப்பாணம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காஞ்சிபுரம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தென்னிந்திய நகரம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "சங்கர நமச்சிவாயரின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவஞான முனிவர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சாமிநாத தேசிகர்", "rationale": "இலக்கணக் கொத்து ஆசிரியர் சாமிநாத தேசிகரிடம் இவர் பயின்றவர்.", "isCorrect": true },
+      { "text": "மயிலைநாதர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பவணந்தி முனிவர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "இலக்கணக் கொத்து நூலின் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "சங்கர நமச்சிவாயரை நன்னூலுக்கு உரை எழுதுமாறு பணித்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சீயகங்கன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சாமிநாத தேசிகர்", "rationale": "மயிலைநாதர் உரை குற்றப்பட்டது என்று கருதி, இவர் உரை செய்யுமாறு பணித்தார்.", "isCorrect": true },
+      { "text": "சிவஞான முனிவர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஊற்றுமலை மருதப்பன்", "rationale": "இவர் புரவலர், ஆனால் பணித்தவர் குருநாதர்.", "isCorrect": false }
+    ],
+    "hint": "இவருடைய குருநாதர்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "சிவஞான முனிவர் எழுதிய நன்னூல் உரையின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காண்டிகை உரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "புத்தம் புத்துரை", "rationale": "சங்கர நமச்சிவாயர் உரையில் திருத்தம் செய்து 'புத்தம் புத்துரை' என்னும் உரையை இயற்றினார்.", "isCorrect": true },
+      { "text": "சிற்றுரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பேருரை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "மிகவும் புதியது என்று பொருள்படும்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "கூழங்கைத் தம்பிரான் என்று அழைக்கப்பட்டவர் எங்கு குடியேறினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சென்னை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "யாழ்ப்பாணம்", "rationale": "இவர் ஈழநாடு சென்று யாழ்ப்பாணத்தில் குடியேறினார்.", "isCorrect": true },
+      { "text": "பாண்டிச்சேரி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கேரளா", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "இலங்கையிலுள்ள ஓர் இடம்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "கூழங்கைத் தம்பிரானின் கை ஊனமுற்றதற்குக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "போர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பழுக்கக் காய்ச்சிய இரும்புக் கம்பியைப் பிடித்தமை", "rationale": "குற்றச்சாட்டு பொய் என நிரூபிக்க இரும்புக் கம்பியைப் பிடித்ததால் கை பழுதுற்றது.", "isCorrect": true },
+      { "text": "விபத்து", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பிறவி ஊனம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "உண்மையை நிரூபிக்கச் செய்த சத்தியச் சோதனை."
+  },
+  {
+    "questionNumber": 22,
+    "question": "இராமாநுசக் கவிராயர் கண்டெடுத்த சிலை யாருடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விநாயகர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அனுமார்", "rationale": "வண்டியின் பாரத்திற்குப் போட்டிருந்த கல்லில் அனுமார் சிலையைத் கண்டெடுத்தார்.", "isCorrect": true },
+      { "text": "சிவன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பெருமாள்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சஞ்சீவி மலையைத் தூக்கியவர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "இராமாநுசக் கவிராயர் நன்னூலுக்கு எவ்வகை உரை எழுதினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காண்டிகை உரை", "rationale": "இவர் நன்னூற் காண்டிகை 1847இல் அச்சாகியது.", "isCorrect": true },
+      { "text": "விருத்தி உரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பாட்டுரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பொழிப்புரை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஐங்காண்டிகை உரை எனவும் வழங்கப்படும்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "விசாகப் பெருமாளையர் வகித்த பதவி யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தலைமைத் தமிழாசிரியர்", "rationale": "யூனிவர்சிட்டி என்னும் கலாசாலையில் தலைமைத் தமிழாசிரியராக இருந்தவர்.", "isCorrect": true },
+      { "text": "நீதிபதி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அமைச்சர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மருத்துவர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சென்னை சர்வகலாசாலையில் வகித்த பதவி."
+  },
+  {
+    "questionNumber": 25,
+    "question": "விசாகப் பெருமாளையரின் உரை எதனை நோக்கமாகக் கொண்டு இயற்றப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆராய்ச்சியாளர் பயன்பாடு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மாணவர் கல்வி", "rationale": "மாணவர்க்கு எளிமைப்படுத்தித் தருதலை நோக்கமாகக் கொண்டு இயற்றப்பட்டது.", "isCorrect": true },
+      { "text": "மன்னர் பாராட்டு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சமயப் பிரச்சாரம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தேர்வு எழுதும் இளைஞர்களுக்காக."
+  },
+  {
+    "questionNumber": 26,
+    "question": "ஆறுமுக நாவலர் பிறந்த ஊர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்லூர்", "rationale": "யாழ்ப்பாணத்து நல்லூரினராகிய இவர்....", "isCorrect": true },
+      { "text": "கொழும்பு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சிதம்பரம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மதுரை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "யாழ்ப்பாணத்தில் உள்ள ஓர் ஊர்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "ஆறுமுக நாவலருக்கு 'நாவலர்' பட்டம் வழங்கியது யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "திருவாவடுதுறை ஆதீனம்", "rationale": "சொற்பொழிவு வன்மை கண்டு திருவாவடுதுறைத் திருமடத்தினரால் வழங்கப்பட்டது.", "isCorrect": true },
+      { "text": "தருமபுர ஆதீனம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காஞ்சி மடம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மதுரை ஆதீனம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஒரு சைவ மடம்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "ஆறுமுக நாவலர் எழுதிய வினா-விடை வடிவிலான நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இலக்கண விளக்கம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "இலக்கண வினாவிடை", "rationale": "இலக்கணத் தெளிவு கருதி 'இலக்கண வினாவிடை' நூலை எழுதினார்.", "isCorrect": true },
+      { "text": "தொன்னூல் விளக்கம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நன்னூல் காண்டிகை", "rationale": "இது உரை நூல்.", "isCorrect": false }
+    ],
+    "hint": "கேள்வியும் பதிலும்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "சடகோப ராமாநுசாச்சாரியார் தமது உரையில் பவணந்தி முனிவரை எக்குலத்தவர் என்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பிராமண வருணம்", "rationale": "'பவணந்தி முனிவர் பிராமண வருணத்தில் தோன்றினார்' என்று இவர் கூறுகிறார்.", "isCorrect": true },
+      { "text": "சத்திரியர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வணிகர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வேளாளர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நூலாராக இருந்தால்தான் நூலாசிரியராக இருக்க முடியும் என்ற எண்ணம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "நன்னூலார் சார்பெழுத்துகளை எத்தனை வகையாகப் பிரித்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "3", "rationale": "தொல்காப்பியர் 3 என்றார்.", "isCorrect": false },
+      { "text": "10", "rationale": "நன்னூலார் அதனைப் பத்தாக்கி, அதன் விரியை 369 ஆக்கினார்.", "isCorrect": true },
+      { "text": "30", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "33", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தொல்காப்பியர் கூறியதை விட அதிகம்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "நன்னூலில் ஓரெழுத்து ஒருமொழிகள் எத்தனை எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "40", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "42", "rationale": "ஓரெழுத்தால் அமையும் சொற்கள் 42 என்பதை... கூறுகிறார்.", "isCorrect": true },
+      { "text": "50", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "26", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நாற்பத்து இரண்டு."
+  },
+  {
+    "questionNumber": 32,
+    "question": "நன்னூல் ஆங்கில மொழிபெயர்ப்பை 1878-இல் வெளியிட்டவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "போப் ஐயர்", "rationale": "இவர் 1858இல் விளக்கத்துடன் பதிப்பித்தார்.", "isCorrect": false },
+      { "text": "இலாசரசு", "rationale": "நன்னூல் ஆங்கில மொழிபெயர்ப்பு இலாசரசு துரையால் வெளியிடப்பட்டுள்ளது (1878).", "isCorrect": true },
+      { "text": "கால்டுவெல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பெர்சிவல்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "Lazarus."
+  },
+  {
+    "questionNumber": 33,
+    "question": "பவணந்தி முனிவரின் சிலை எங்குள்ளதாகக் கல்வெட்டு கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வள்ளிமலைக் குகை", "rationale": "வள்ளிமலைக் குகையில்... பவணந்தி பட்டாரர் சிற்பம் உள்ளது.", "isCorrect": true },
+      { "text": "திருப்பரங்குன்றம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கழுகுமலை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சிதறால்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "திருவல்லம் சிவன் கோயிலுக்கு அருகில் உள்ளது."
+  },
+  {
+    "questionNumber": 34,
+    "question": "நன்னூல் 'சிற்றதிகாரம்' என அழைக்கப்படக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிறிய நூல் என்பதால்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "இரண்டதிகாரம் உடைமையால்", "rationale": "இரண்டதிகாரம் உடைமை கருதி நன்னூலுக்குச் சிற்றதிகாரம் என்றொரு பெயருண்டு.", "isCorrect": true },
+      { "text": "எளிமையான நூல் என்பதால்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உரை நூல் என்பதால்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தொல்காப்பியம் மூன்று அதிகாரங்களைக் கொண்டது, இது இரண்டு மட்டுமே."
+  },
+  {
+    "questionNumber": 35,
+    "question": "தொல்காப்பியத்தில் இல்லாத எந்த இயலை நன்னூலார் எழுத்ததிகாரத்தில் சேர்த்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பதவியல்", "rationale": "எழுத்ததிகாரத்திலுள்ள பதவியல்... தொல்காப்பியர் காலத்தில் தேவைப்படாததாய் இருந்து, பின்னர் நன்னூலார் காலத்தில் வேண்டியிருந்தன.", "isCorrect": true },
+      { "text": "உருபியல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மெய்பாட்டியல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "களவியல்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பகுபத உறுப்புகளை விளக்கும் இயல்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "வடமொழிச் சொற்கள் தமிழில் கலக்கும் முறையை நன்னூல் எந்த நூற்பாக்களில் விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "146-150", "rationale": "வடசொற்கள் தமிழில் புகுங்கால்... வரம்பு காட்டி (146-150) அமைக்கிறார்.", "isCorrect": true },
+      { "text": "1-5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "400-405", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "100-105", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நூற்று நாற்பதுகளில் வரும்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "பவணந்தி முனிவர் 'நன்னூல்' என்ற பெயரிடக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நல்ல இலக்கணம்", "rationale": "நன்னூல், 'நல்ல இலக்கணம்' என்னும் பொருளது.", "isCorrect": true },
+      { "text": "புதிய நூல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சிறிய நூல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பழைய நூல்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நன்மை தரும் நூல்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "மயிலைநாதர் தம் உரையில் யாரை 'மிகத் தெளி கேள்வி அகத்தியனார்' என்று புகழ்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அகத்தியரை", "rationale": "மயிலைநாதர் 'மிகத் தெளி கேள்வி அகத்தியனார்' என்று பாராட்டுகிறார்.", "isCorrect": true },
+      { "text": "தொல்காப்பியரை", "rationale": "அவரை 'ஒல்காப் பெருமைத் தொல்காப்பியனார்' என்கிறார்.", "isCorrect": false },
+      { "text": "பவணந்தி முனிவரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அவிநயனாரை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "முதல் இலக்கண நூலை எழுதியவர்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "மயிலைநாதர் உரை யாரால் முதன்முதலில் பதிப்பிக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உ.வே.சா", "rationale": "நன்னூல் மூலமும் மயிலைநாதர் உரையும் உ.வே.சா அவர்களால் 1918 இல் வெளியிடப்பட்டது.", "isCorrect": true },
+      { "text": "ஆறுமுக நாவலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "தாமோதரம் பிள்ளை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பவானந்தம் பிள்ளை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தமிழ்த் தாத்தா."
+  },
+  {
+    "questionNumber": 40,
+    "question": "ஆண்டிப்புலவரின் தந்தை பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பாவாடை வாத்தியார்", "rationale": "தந்தையார் பெயர் பாவாடை வாத்தியார்.", "isCorrect": true },
+      { "text": "கந்தப்ப தேசிகர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சுப்பையா வாத்தியார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சாமிநாத தேசிகர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஒரு வகைத் துணியின் பெயர்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "இராமாநுசக் கவிராயர் பாடம் திருத்திய நூற்பா எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எகர ஒகரமெய் புள்ளி", "rationale": "'எகர ஒகரமெய் புள்ளி' என்பதை 'ஏகாரம் ஓகார மெய் புள்ளி' எனத் திருத்திக் கொண்டுளார்.", "isCorrect": true },
+      { "text": "அ இ உம்முதல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "எண் பெயர் முறை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மொழிமுதற் காரணம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நெடில் எழுத்துகளுக்குப் புள்ளி இடுவது பற்றியது."
+  },
+  {
+    "questionNumber": 42,
+    "question": "ஆறுமுக நாவலர் எங்கு அச்சுக்கூடங்களை நிறுவினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "யாழ்ப்பாணம் மற்றும் சென்னை", "rationale": "யாழ்ப்பாணத்திலும் சென்னையிலும் இவர் அச்சகம் அமைத்தார்.", "isCorrect": true },
+      { "text": "மதுரை மற்றும் திருச்சி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கோவை மற்றும் சேலம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நெல்லை மற்றும் தூத்துக்குடி", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தமிழ்நாட்டின் தலைநகர் மற்றும் ஈழத்து நகரம்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஆறுமுக நாவலரின் தந்தை பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கந்தப்பிள்ளை", "rationale": "இவர் தந்தையார் கந்தப்பிள்ளை.", "isCorrect": true },
+      { "text": "ஆறுமுகம்பிள்ளை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வேலுப்பிள்ளை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சிவசம்பு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "முருகக்கடவுளின் பெயர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "நன்னூல் உரைநடை ஆக்கமாக நாவலர் எழுதிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இலக்கணச் சுருக்கம்", "rationale": "இவரியற்றிய இலக்கணச் சுருக்கம் நன்னூல் உரைநடை ஆக்கமாக... விளக்குகிறது.", "isCorrect": true },
+      { "text": "பாலபோதம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சைவ வினாவிடை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பெரியபுராண வசனம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சுருக்கமாகச் சொல்லும் நூல்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "விசாகப் பெருமாளையர் உரை எப்போது வெளிவந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1875", "rationale": "நன்னூலுக்கு இவர் இயற்றிய காண்டிகையுரை 1875 இல் வெளிவந்தது.", "isCorrect": true },
+      { "text": "1900", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "1850", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "1947", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "19ஆம் நூற்றாண்டின் பிற்பகுதி."
+  },
+  {
+    "questionNumber": 46,
+    "question": "சங்கர நமச்சிவாயர் உரை யாரால் முதன்முதலில் பதிப்பிக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆறுமுக நாவலர்", "rationale": "சங்கர நமச்சிவாயருரை 1851 இல் ஆறுமுக நாவலரால் முதற்கண் பதிப்பிக்கப்பட்டது.", "isCorrect": true },
+      { "text": "உ.வே.சா", "rationale": "இவர் பின்னர் பதிப்பித்தார்.", "isCorrect": false },
+      { "text": "தாமோதரம் பிள்ளை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மயிலைநாதர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "யாழ்ப்பாணத்து அறிஞர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "நன்னூல் எத்தனை அதிகாரங்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "2", "rationale": "எழுத்து, சொல் என்னும் இரண்டன் இலக்கணமே நன்னூலில் கிடைத்துள்ளது.", "isCorrect": true },
+      { "text": "3", "rationale": "தொல்காப்பியம் 3 அதிகாரங்களைக் கொண்டது.", "isCorrect": false },
+      { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "4", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "எழுத்து மற்றும் சொல்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பவணந்தி முனிவரின் ஊர் 'சனகை' என்பதை எந்த நூல் உறுதிப்படுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தொண்டை மண்டல சதகம்", "rationale": "பவணந்தியாரின் சனகை தொண்டைமண்டலத்தைச் சார்ந்தது என்கிறது தொண்டை மண்டல சதகம்.", "isCorrect": true },
+      { "text": "சிலப்பதிகாரம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மணிமேகலை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பெரியபுராணம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சதக நூல்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "இராமாநுசக் கவிராயர் யாரிடம் தமிழ் பயின்றார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சோமசுந்தரம் பிள்ளை", "rationale": "இவர்... சோமசுந்தரம் பிள்ளையிடம் தமிழ் கற்றார்.", "isCorrect": true },
+      { "text": "மீனாட்சிசுந்தரம் பிள்ளை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஆறுமுக நாவலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உ.வே.சா", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சிவஞான முனிவரின் மாணவர்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'எண் பெயர் முறை பிறப்பு' எனத் தொடங்கும் நூற்பா எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "எழுத்திலக்கணப் பகுப்பு", "rationale": "எழுத்ததிகார முதல் நூற்பாவில் எழுத்திலக்கணப் பகுப்பை யெல்லாம் மூன்றே அடிகளில் முடித்து விடுகிறார்.", "isCorrect": true },
+      { "text": "சொல்லிலக்கணம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "யாப்பிலக்கணம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அணியிலக்கணம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "எழுத்ததிகாரத்தின் முதல் நூற்பா."
+  }
+]

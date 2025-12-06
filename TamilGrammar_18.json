@@ -1,0 +1,702 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தமிழ் இலக்கணம் செய்யுள் வடிவில் இருந்து உரைநடை வடிவத்திற்கு மாற முக்கியக் காரணம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காகிதத்தின் கண்டுபிடிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சு இயந்திரத்தின் வருகை மற்றும் மேலைநாட்டுக் கல்வி முறை",
+        "rationale": "ஐரோப்பியர் வருகைக்குப் பின், அச்சு இயந்திரங்கள் பெருகியதாலும், பள்ளிக்கூடங்களில் எளிதாகக் கற்பிக்க வேண்டிய தேவையாலும் உரைநடை இலக்கணங்கள் தோன்றின.",
+        "isCorrect": true
+      },
+      {
+        "text": "புலவர்கள் குறைந்துவிட்டதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓலைச்சுவடி தட்டுப்பாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "19ஆம் நூற்றாண்டு மாற்றம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "ஆறுமுக நாவலர் எழுதிய உரைநடை இலக்கண நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணச் சுருக்கம்",
+        "rationale": "மாணவர்கள் எளிதில் கற்கும் வகையில் நன்னூலைத் தழுவி உரைநடையில் 'இலக்கணச் சுருக்கம்' எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பிய உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நன்னூல் வழிநூல்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "ஜி.யு.போப் (G.U. Pope) எழுதிய இலக்கண நூல் யாருக்காக எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ் மாணவர்களுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் கற்கும் வெளிநாட்டினருக்கு (A Tamil Handbook)",
+        "rationale": "ஆங்கிலேயர்கள் தமிழ் கற்பதற்காக ஆங்கில விளக்கங்களுடன் கூடிய இலக்கண நூல்களை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புலவர்களுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னர்களுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Handbook."
+  },
+  {
+    "questionNumber": 4,
+    "question": "வீரமாமுனிவர் எழுதிய 'கொடுந்தமிழ் இலக்கணம்' (Grammar of the Common Dialect) எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேச்சுத் தமிழ் (Spoken Tamil)",
+        "rationale": "இலக்கியத் தமிழைச் செந்தமிழ் என்றும், மக்கள் பேசும் தமிழைத் கொடுந்தமிழ் என்றும் பிரித்து, பேச்சுத் தமிழுக்கு முதன்முதலில் இலக்கணம் வகுத்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிதை இயற்றும் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Dialect."
+  },
+  {
+    "questionNumber": 5,
+    "question": "சி.ஆர். நமச்சிவாய முதலியார் எழுதிய இலக்கண நூலின் சிறப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொடக்கப் பள்ளி மாணவர்களுக்கான எளிய உரைநடை இலக்கணம்",
+        "rationale": "கேள்வி-பதில் வடிவில் சிறுவர்களும் புரிந்து கொள்ளும் வகையில் 'மாணவர் தமிழ் இலக்கணம்' எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிகக் கடினமான ஆராய்ச்சி நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Tanjore Series."
+  },
+  {
+    "questionNumber": 6,
+    "question": "கோ. வடிவேலு செட்டியார் இயற்றிய 'தமிணூல்' எந்த அடிப்படையில் இலக்கணம் வகுக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அளவை இயல் (Logic/Tarkam)",
+        "rationale": "தருக்க சாஸ்திர அடிப்படையில், அறிவியல் பூர்வமாகத் தமிழ் இலக்கணத்தை அணுகிய நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பக்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தர்க்கம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "புலவர் குழந்தை எழுதிய 'யாப்பு நூல்' தொல்காப்பிய யாப்பிலிருந்து எவ்வாறு மாறுபடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தற்காலக் கவிதை மரபுகளையும் உள்ளடக்கியது",
+        "rationale": "பழைய விதிகளோடு, இடையில் வளர்ந்த விருத்தப்பக்களையும், தற்காலத் தேவைகளையும் இணைத்துத் தொகுத்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறுபாடே இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இது உரைநடை நூல்",
+        "rationale": "யாப்பு பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கில யாப்பைப் பின்பற்றுகிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திராவிட இயக்கப் பார்வையில் யாப்பு."
+  },
+  {
+    "questionNumber": 8,
+    "question": "வி.கோ. சூரியநாராயண சாஸ்திரி (பரிதிமாற் கலைஞர்) எழுதிய இலக்கண நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ்மொழி வரலாறு மற்றும் நாடகவியல்",
+        "rationale": "நாடகத் தமிழுக்கு இலக்கணம் வகுத்த 'நாடகவியல்' இவரது முக்கியப் பங்களிப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பிய உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாடகம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "தற்காலத்தில் 'மொழியியல்' (Linguistics) நோக்கில் தமிழ் இலக்கணம் ஆராயப்படுகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், பல புதிய ஆய்வுகள் (டாக்டர். மு.வ, தெ.பொ.மீ) தோன்றியுள்ளன",
+        "rationale": "மேலைநாட்டு மொழியியல் கொள்கைகளின் அடிப்படையில் தமிழ் இலக்கணத்தை மறுவாசிப்பு செய்யும் முறை வளர்ந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தடை செய்யப்பட்டுள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவசியமில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Language History."
+  },
+  {
+    "questionNumber": 10,
+    "question": "தமிழ் இலக்கணக் கும்மி போன்ற நூல்கள் யாரைக் குறிவைத்து எழுதப்பட்டன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெண்கள் மற்றும் பாமர மக்கள்",
+        "rationale": "முறைப்படி பள்ளி செல்லாதவர்களும் பாடி மகிழ்ந்து இலக்கணம் கற்க உருவாக்கப்பட்டவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவர்கள்",
+        "rationale": "அவர்களுக்கு நூற்பா உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலேயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Folk style."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'தொல்காப்பியப் பூங்கா' என்ற பெயரில் ஆய்வு நூல் எழுதியவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலைஞர் மு. கருணாநிதி",
+        "rationale": "நவீன காலத்தில் தொல்காப்பியத்திற்கு எளிய உரைநடை விளக்கம் தந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உ.வே.சா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாமக்கல் கவிஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரதிதாசன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முத்தமிழ் அறிஞர்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "உரைநடை இலக்கண நூல்களின் பொதுவான அமைப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூத்திரம் இன்றி, பத்தி பத்தியாக விளக்குதல் (Paragraphs)",
+        "rationale": "மனனம் செய்யும் சூத்திர முறைக்குப் பதில், பொருள் விளங்கும் வகையில் பத்திகளாக எழுதுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டளைக் கலித்துறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓவிய வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Prose."
+  },
+  {
+    "questionNumber": 13,
+    "question": "கால்டுவெல் எழுதிய 'திராவிட மொழிகளின் ஒப்பிலக்கணம்' தமிழின் எதற்கு உதவியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழின் தொன்மை மற்றும் தனித்தன்மையை உலகறியச் செய்ய",
+        "rationale": "தமிழ் வடமொழியைச் சாராத தனிமொழி குடும்பத்தைச் சேர்ந்தது என்பதை நிறுவ உதவியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இலக்கணம் அழிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழியை உயர்த்த",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலத்தைக் கலக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Comparative Grammar."
+  },
+  {
+    "questionNumber": 14,
+    "question": "நவீன காலத்தில் 'அகராதி' (Dictionary) என்பது இலக்கணத்தின் ஒரு பகுதியாகக் கருதப்படுகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், உரிச்சொல் விளக்கத்தின் நீட்சியாக அகராதிகள் வளர்ந்தன",
+        "rationale": "பழங்கால நிகண்டுகளே நவீன அகராதிகளாக மாறின. இதுவும் மொழிப் பயன்பாட்டுக் கருவியே.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகராதி இலக்கியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடர்பே இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிகண்டு."
+  },
+  {
+    "questionNumber": 15,
+    "question": "மறைமலையடிகள் தமிழுக்குச் செய்த இலக்கணப் பணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தனித்தமிழ் இயக்கத்தின் மூலம் வடசொல் கலப்பைத் தவிர்ப்பதை வலியுறுத்தியது",
+        "rationale": "இலக்கண விதியாக இல்லாவிடினும், சொல்லாட்சியில் தூய்மையைப் பேணும் மரபை உருவாக்கினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலம் கலப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணிப்பிரவாளம் எழுதுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூலை எதிர்த்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தனித்தமிழ்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "இருபதாம் நூற்றாண்டில் 'பாவினம்' பற்றி ஆய்வு செய்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அ.கி. பரந்தாமனார் மற்றும் பலர்",
+        "rationale": "'கவிஞராக' என்ற நூல் மூலம் யாப்பு, பாவினம் ஆகியவற்றை எளிய நடையில் விளக்கியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிஞராக."
+  },
+  {
+    "questionNumber": 17,
+    "question": "இலக்கண நூல்கள் 'செய்யுள்' வடிவில் இருந்ததற்குக் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மனனம் செய்வதற்கு எளிதாக இருக்க (Oral Tradition)",
+        "rationale": "அச்சுக்கலை இல்லாத காலத்தில், நினைவில் வைத்துக்கொள்ளச் செய்யுள் வடிவம் உதவியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாள் பற்றாக்குறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேசத் தெரியாததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகுக்காக மட்டும்",
+        "rationale": "பயன்பாடும் உண்டு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Memory."
+  },
+  {
+    "questionNumber": 18,
+    "question": "இக்காலத்தில் பள்ளிகளில் கற்பிக்கப்படும் தமிழ் இலக்கணம் எதை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல் மற்றும் தொல்காப்பியச் சுருக்கம்",
+        "rationale": "பெரும்பாலான பள்ளிப் பாடப்புத்தகங்கள் நன்னூலின் விதிகளை எளிமைப்படுத்தித் தருகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறையனார் களவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Textbooks."
+  },
+  {
+    "questionNumber": 19,
+    "question": "திருக்கோவைக் கிளவிக் கொத்து போன்ற நூல்கள் ஏன் தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கியங்களைப் புரிந்து கொள்ள உதவும் கருவிகளாக (Reference Tools)",
+        "rationale": "பெரிய இலக்கியங்களின் துறைகளை நினைவில் கொள்ளவும், புரிந்து கொள்ளவும் உதவும் துணை நூல்கள் இவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நேரத்தை வீணடிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகிதத்தை நிரப்ப",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடப் புத்தகமாக",
+        "rationale": "துணை நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Reference."
+  },
+  {
+    "questionNumber": 20,
+    "question": "தமிழ் இலக்கண வரலாற்றின் வரிசை எது சரியானது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் -> இறையனார் அகப்பொருள் -> நன்னூல் -> உரைநடை நூல்கள்",
+        "rationale": "இதுவே காலவரிசைப்படி சரியான வளர்ச்சி முறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல் -> தொல்காப்பியம் -> அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை -> செய்யுள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம் -> தொல்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Timeline."
+  },
+  {
+    "questionNumber": 21,
+    "question": "நவீன இலக்கண நூல்கள் எதனைத் தவிர்க்கின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிக்கலான சூத்திரங்கள் மற்றும் சாதிப் பாகுபாடுகள் (பாட்டியல்)",
+        "rationale": "எளிமைக்காகச் சூத்திரங்களைத் தவிர்ப்பதும், சமூக மாற்றத்தால் வருணப் பாகுபாடுகளைத் தவிர்ப்பதும் வழக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதாரணங்களை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Reform."
+  },
+  {
+    "questionNumber": 22,
+    "question": "இணையத் தமிழ் இலக்கணம் (Computational Grammar) என்பது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கணினிக்குத் தமிழ் இலக்கணத்தைக் கற்பித்தல் (NLP)",
+        "rationale": "இன்றைய காலத்தில் பிழை திருத்தி, மொழிபெயர்ப்பு மென்பொருட்களுக்காக இலக்கணம் கணினிமயப்படுத்தப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இணையத்தில் அரட்டை அடிப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மின்னஞ்சல் அனுப்புவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளையாடுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "21ஆம் நூற்றாண்டு வளர்ச்சி."
+  },
+  {
+    "questionNumber": 23,
+    "question": "யாப்பு நூல் (புலவர் குழந்தை) எதனை எளிமைப்படுத்தியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொடை விகற்பங்கள் மற்றும் தளைகளை",
+        "rationale": "கடினமான யாப்பு விதிகளை எளிய அட்டவணைகள் மூலம் விளக்கினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரைநடையை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதையை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகத்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Simplified Prosody."
+  },
+  {
+    "questionNumber": 24,
+    "question": "உரைநடை இலக்கண நூல்களின் முன்னோடி யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரமாமுனிவர் மற்றும் ஆறுமுக நாவலர்",
+        "rationale": "இவர்களே உரைநடை வடிவில் இலக்கணம் தந்து தமிழை அடுத்த கட்டத்திற்கு நகர்த்தியவர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Prose pioneers."
+  },
+  {
+    "questionNumber": 25,
+    "question": "இலக்கண நூல்கள் காலந்தோறும் ஏன் புதிது புதிதாகத் தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழி மாற்றத்தைப் பதிவு செய்யவும், கற்பித்தல் முறையை எளிமைப்படுத்தவும்",
+        "rationale": "பழையன கழிதலும் புதியன புகுதலும் என்ற விதிப்படி, காலத்தின் தேவைக்கேற்பப் புதிய நூல்கள் தோன்றின.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழைய நூல்களை அழிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழுக்காக மட்டும்",
+        "rationale": "முதன்மைக் காரணம் பயன்பாடு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போட்டிக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Evolution."
+  }
+]

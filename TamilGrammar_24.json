@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "சங்க காலத்திற்குப் பின் 5 அல்லது 6-ஆம் நூற்றாண்டில் தோன்றி 10-ஆம் நூற்றாண்டு வரை வழக்கில் இருந்ததாகக் கருதப்படும் இலக்கண நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தொல்காப்பியம் சங்க காலத்திற்கு முற்பட்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவிநயம்",
+        "rationale": "அவிநயம் சங்க காலத்திற்குப் பிற்பட்டு 5 அல்லது 6 -ஆம் நூற்றாண்டளவில் தோன்றி 10-ஆம் நூற்றாண்டு வரை விளங்கிய நூலாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் 13-ஆம் நூற்றாண்டைச் சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "வீரசோழியம் 11-ஆம் நூற்றாண்டைச் சார்ந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இந்நூலின் பெயர் 'அ' என்ற எழுத்தில் தொடங்குகிறது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "அவிநயம் என்னும் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியர் அகத்தியத்தின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் தொல்காப்பியத்தின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவிநயனார்",
+        "rationale": "அவிநயம் என்னும் நூலை இயற்றியவர் அவிநயனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "பவணந்தி முனிவர் நன்னூலின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரிலேயே ஆசிரியரின் பெயரும் அமைந்துள்ளது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "அவிநயனார் எம்மதத்தைச் சார்ந்தவர் எனக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "இவர் சமண சமயத்தைச் சார்ந்தவர் எனக் குறிப்புகள் உள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "இவர் சமண சமயத்தைச் சார்ந்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "மயிலை சீனி வேங்கடசாமி இவர் சமண சமயத்தைச் சார்ந்தவர் எனக் கூறுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "இவர் பௌத்தர் என்பதற்கான சான்றில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இம்மதம் அகிம்சையை வலியுறுத்தும்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "அவிநயம் எவ்வகை இலக்கண நூல் எனக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்திலக்கணம் மட்டும்",
+        "rationale": "இது ஐந்திலக்கணங்களையும் கூறுவதாகக் கருதப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லிலக்கணம் மட்டும்",
+        "rationale": "இது ஐந்திலக்கணங்களையும் கூறுவதாகக் கருதப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பிலக்கணம் மட்டும்",
+        "rationale": "இது ஐந்திலக்கணங்களையும் கூறுவதாகக் கருதப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்திலக்கணம்",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, பாட்டியல் ஆகிய ஐந்தினையும் இது கூறுவதாகத் தெரிகிறது.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "தொல்காப்பியத்தைப் போல பல இலக்கணப் பகுதிகளை இது ஆராய்கிறது."
+  },
+  {
+    "questionNumber": 5,
+    "question": "அவிநயத்திற்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "இளம்பூரணர் தொல்காப்பிய உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "நச்சினார்க்கினியர் தொல்காப்பிய உரையாசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இராசபவுத்திரப் பல்லவ தரையன்",
+        "rationale": "மயிலைநாதர் உரை மூலம் இராசபவுத்திரப் பல்லவ தரையன் அவிநயத்திற்கு உரை எழுதியது அறியப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குணசாகரர்",
+        "rationale": "குணசாகரர் யாப்பருங்கலக் காரிகை உரையாசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் பெயரில் 'பல்லவ' என்னும் சொல் உள்ளது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "அவிநயப் புறனடை என்று வழங்கப்படும் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாலடி நாற்பது",
+        "rationale": "அவிநயனார் இயற்றிய நாலடி நாற்பது அவிநயப் புறனடை என வழங்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னிலை",
+        "rationale": "இது பதினெண்கீழ்க்கணக்கு நூல்களுள் ஒன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார் நாற்பது",
+        "rationale": "இது சங்க இலக்கிய நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "களவழி நாற்பது",
+        "rationale": "இது புறப்பொருள் பற்றிய நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாலடியில் அமைந்த நாற்பது பாடல்களைக் குறிக்கும் பெயர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "தொல்காப்பியர் வண்ணங்கள் 20 எனக் கூறியிருக்க, அவிநயனார் எத்தனை வண்ணங்களைக் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "20",
+        "rationale": "தொல்காப்பியர் கூறியது 20.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "அவிநயனார் 100 வண்ணங்களைக் கூறியுள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "அவிநயனார் வண்ணங்களை நூறாகப் பெருக்கிக் கொள்கிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "இது மிகக்குறைவு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருபதை ஐந்தால் பெருக்கினால் வரும் எண்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "அவிநயனார் பருவங்களை அகவை அடிப்படையில் பிரித்ததில் 'பாலன்' என்பவருக்குரிய வயது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "rationale": "'பாலன் யாண்டே ஏழென மொழிப' என்பது அவிநய நூற்பா.",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "rationale": "இது மீளிக்குரிய வயது.",
+        "isCorrect": false
+      },
+      {
+        "text": "16",
+        "rationale": "இது காளைக்குரிய வயது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாரத்தின் நாட்களின் எண்ணிக்கைக்குச் சமம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'அவைபுகு நெறி' பற்றிப் பேசும் அவிநயனாரின் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவியல்",
+        "rationale": "களவியல் அகப்பொருள் பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலாவியல்",
+        "rationale": "நவநீதப் பாட்டியல் வழியே அவிநயனார் இயற்றிய 'கலாவியல்' அறியப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாட்டியல்",
+        "rationale": "பொதுவான பெயர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "இது முதல் நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலைகளைப் பற்றிக் கூறுவது போல ஒலிக்கும் பெயர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "காக்கை பாடினியார் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓர் அரசர்",
+        "rationale": "இவர் ஒரு புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெண்பாற் புலவர்",
+        "rationale": "காக்கை பாடினியார் பெண்பாற் புலவர் என்பது அவர் பெயரானே விளங்குகின்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமண முனிவர்",
+        "rationale": "இவர் பாணர் குடியைச் சார்ந்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரையாசிரியர்",
+        "rationale": "இவர் இலக்கண நூல் செய்தவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவ்வையாரைப் போல இவரும் ஒரு பெண் கவிஞர்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "காக்கை பாடினியார் என்று பெயர் வரக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காக்கையை வளர்த்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காக்கை போல கரிய நிறம் கொண்டதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருந்து வரக் காக்கை கரையும் என்று பாடியதால்",
+        "rationale": "காக்கையை நோக்கி 'விருந்து வரக் கரைவாய்' என்று பாடியதால் இப்பெயர் பெற்றார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காக்கை இறைச்சியை உண்டதால்",
+        "rationale": "மிகவும் தவறான கருத்து.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருந்தினர் வருகையை அறிவிக்கும் பறவையைப் பற்றிப் பாடியதால்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "காக்கை பாடினியார் தனது நூலின் தெற்கு எல்லையாக எதனைக் குறிப்பிட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல்",
+        "rationale": "சிறுகாக்கை பாடினியார் தான் தென்திசையை கடலெல்லையாகக் கூறினார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குமரி",
+        "rationale": "காக்கை பாடினியார் குமரியை எல்லையாகக் கொண்டார், கடலை அல்ல.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொதிகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவேங்கடம்",
+        "rationale": "இது வடக்கு எல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இன்றைய இந்தியாவின் தென்கோடி முனை."
+  },
+  {
+    "questionNumber": 13,
+    "question": "காக்கை பாடினியார் 'தளை' என்னும் உறுப்பை ஏற்றுக்கொண்டாரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "காக்கை பாடினியார் தளை என்னும் உறுப்பைக் கொண்டிலர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தொல்காப்பியரைப் போல இவரும் தளை என்பதைத் தனி உறுப்பாகக் கொள்ளவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "சில இடங்களில் மட்டும்",
+        "rationale": "இல்லை, முழுவதுமாக ஏற்கவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுகாக்கை பாடினியார் மறுத்தார்",
+        "rationale": "சிறுகாக்கை பாடினியார் தளையை ஏற்றார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியரைப் பின்பற்றியவர் இவர்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "காக்கை பாடினியார் அசை வகைகளை எவ்வாறு அழைத்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நேர், நிரை",
+        "rationale": "இப்பெயர்களைத் தனி, இணை என்று அழைத்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேர்பு, நிரைபு",
+        "rationale": "இவற்றை இவர் கொள்ளவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனி, இணை",
+        "rationale": "நேர், நிரை என்பவற்றைத் தனி, இணை என்றார் காக்கை பாடினியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயல், உரிய",
+        "rationale": "இது வேறு வகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒற்றை மற்றும் இரட்டை என்ற பொருள் தரும் சொற்கள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "காக்கை பாடினியார் பாவினங்களை எவரிசை முறையில் வைத்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாழிசை, துறை, விருத்தம்",
+        "rationale": "இது சிறுகாக்கை பாடினியார் முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம், துறை, தாழிசை",
+        "rationale": "காக்கை பாடினியார் விருத்தம் துறை தாழிசை எனப் பாவினங்களைக் கூறினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "துறை, தாழிசை, விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாவினம் பற்றி கூறவில்லை",
+        "rationale": "பாவினங்களுக்கு இலக்கணம் கூறியுள்ளார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெரியதில் இருந்து சிறியது (விருத்தம் முதலில்)."
+  },
+  {
+    "questionNumber": 16,
+    "question": "காக்கை பாடினியார் நூலை முதனூலாகக் கொண்டு இயற்றப்பட்ட நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "இது தொல்காப்பியத்தை முதனூலாகக் கொண்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "இவர் நூலை முதனூலாகக் கொண்டே யாப்பருங்கலம் செய்யப்பட்டது என்பது விருத்தியுரை வழியே அறியப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேமிநாதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அமிதசாகரர் இயற்றிய நூல்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'சங்க யாப்பு' நூல் எந்த நூற்றாண்டைச் சார்ந்ததாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.மு 3",
+        "rationale": "இது சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி 1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி 5 அல்லது 6",
+        "rationale": "பாவினங்களுக்கு இலக்கணம் கூறுவதால் ஐந்தாம் நூற்றாண்டு ஆறாம் நூற்றாண்டு என்று கொள்ளலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி 12",
+        "rationale": "மிகவும் பிந்தியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்க காலத்திற்குப் பிந்தைய காலம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "சங்க யாப்பு நூல் எதனை 'மின்னல் இடை அளவு' என்று குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாத்திரை",
+        "rationale": "கண்ணிமை, கைந்நொடி போல மின்னிடை அளவும் மாத்திரை எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்து ஒலிக்கும் கால அளவு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "சங்க யாப்பு நூலில் குறிப்பிடப்படும் தொடை வகைகளின் எண்ணிக்கை சுமார் எவ்வளவு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "13,699",
+        "rationale": "இது தொல்காப்பியர் கணக்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5,699",
+        "rationale": "சங்க யாப்பு 5699 எனத் தொடை வகைகளைக் கணக்கிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "மிகக்குறைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "700",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்தாயிரத்திற்கும் அதிகம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "சங்க யாப்பு நூலின் ஆசிரியர் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்கத்தார்",
+        "rationale": "குறிப்பிட்ட பெயர் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர் தெரியவில்லை",
+        "rationale": "'சங்க யாப்புடையார்' என்று கூறப்படுகிறதே தவிர ஆசிரியர் பெயர் தெரியவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இவர் சங்கப் புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் சங்கப் புலவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரால் அழைக்கப்படுகிறார்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "சிறுகாக்கை பாடினியார் காக்கை பாடினியாருக்கு எம்மuraiயினர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூத்தவர்",
+        "rationale": "இளையவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளையவர்",
+        "rationale": "பேராசிரியர் இவரை (காக்கை பாடினியார்க்கு) 'இளையரான சிறுகாக்கை பாடினியார்' என்பார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாணவர்",
+        "rationale": "ஒருசாலை மாணவர் அல்லர், பிற்காலத்தவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'சிறு' என்ற முன்னொட்டு இளமையைக் குறிக்கலாம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "சிறுகாக்கை பாடினியார் எதனைத் தன் நூலின் தெற்கு எல்லையாகக் கொண்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குமரி மலை",
+        "rationale": "குமரி ஆறு/மலை கடல் கொள்ளப்பட்ட பின் இவர் வாழ்ந்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "குமரி ஆறு கடல் கொள்ளப்பட்ட காலத்தில் இருந்தவர் என்பதால் கடலை எல்லையாகக் கொண்டார் (தென்றிசை யுள்ளிட் டெஞ்சிய மூன்றும் வரைமருள் புணரி).",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவேங்கடம்",
+        "rationale": "இது வடக்கு எல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொதிகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குமரிக்கண்டம் அழிந்த பின் தெற்கில் இருந்தது இதுதான்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "சிறுகாக்கை பாடினியார் 'தளை'யை ஏற்றுக்கொண்டாரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "சிறுகாக்கை பாடினியார் தளை என்பதை உறுப்பாகக் கொண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "காக்கை பாடினியார் தான் ஏற்கவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லவில்லை",
+        "rationale": "தெளிவாகக் கூறியுள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடுநிலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியரிலிருந்து மாறுபட்டு காக்கை பாடினியாரிலிருந்தும் மாறுபட்டார்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "சிறுகாக்கை பாடினியார் பாவினங்களை எவ்வரிசையில் வைத்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தம், துறை, தாழிசை",
+        "rationale": "இது காக்கை பாடினியார் முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாழிசை, துறை, விருத்தம்",
+        "rationale": "சிறுகாக்கை பாடினியார் இம்முறையையே கொண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "துறை, விருத்தம், தாழிசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுவுமில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறிய பாவினத்தில் இருந்து பெரியதுக்கு (தாழிசையில் தொடங்கி)."
+  },
+  {
+    "questionNumber": 25,
+    "question": "நத்தத்தம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "மயக்கம் காரணமாக நக்கீரர் பெயர் கூறப்பட்டிருக்கலாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நத்தத்தனார்",
+        "rationale": "நத்தத்தம் நூலின் ஆசிரியர் நத்தத்தனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரே ஆசிரியர் பெயராகும்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "நத்தத்தனார் எந்த நூலின் ஆசிரியர் எனச் சிலர் கருதுகின்றனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறுபாணாற்றுப்படை",
+        "rationale": "நல்லூர் நத்தத்தனார் சிறுபாணாற்றுப்படையின் ஆசிரியர். இவர் வேறு நபர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடிநூல்",
+        "rationale": "நத்தத்தர் 'அடிநூல்' ஒன்று செய்தார் என்றும் கூறுவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "களவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாப்பு உறுப்புகளில் ஒன்றின் பெயரில் அமைந்த நூல்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "நத்தத்தனார் எவ்வகைச் சீருக்கு உதாரணம் காட்டினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயற்சீர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சியுரிச்சீர்",
+        "rationale": "நேர்நடுவாகிய வஞ்சியுரிச்சீர்க்கு உதாரணம் காட்டினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பாவுரிச்சீர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிச்சீர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வஞ்சிப்பாவுக்கு உரிய சீர்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "நத்தத்தனார் யாப்பு என்பது எவற்றுடன் தொடர்புடையது என்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்து, அசை, சீர்",
+        "rationale": "பொதுவான உறுப்புகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூக்கு, தொடை, அடி",
+        "rationale": "'தூக்கும் தொடையும் அடியுமிம் மூன்றும் நோக்கிற் றென்ப' என்பது நத்தத்தர் நூற்பா.",
+        "isCorrect": true
+      },
+      {
+        "text": "பா, இனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி, அலங்காரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடலின் ஓசை, தொடுக்கும் முறை, அடி ஆகியவற்றை உள்ளடக்கியது."
+  },
+  {
+    "questionNumber": 29,
+    "question": "பல்காயம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்காயனார்",
+        "rationale": "பல்காயம் நூலின் ஆசிரியர் பல்காயனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பல்சந்த மாலை ஆசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனம்பாரனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரிலேயே ஆசிரியர் பெயரும் உள்ளது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "பல்காயனார் யாருடைய கருத்துகளைப் 'பகுத்துப் பன்னினார்'?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் விரித்துரைத்ததை பல்காயனார் பகுத்துப் பன்னினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவிநயனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காக்கை பாடினியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழின் மிகச்சிறந்த இலக்கண நூல் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "பல்காயனார் காக்கை பாடினியாருக்கு முற்பட்டவரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "பல்காயனார் காக்கை பாடினியார் முதலியோருக்கு முற்பட்டவராகக் கருதப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "பிற்பட்டவர் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமகாலத்தவர்",
+        "rationale": "முற்பட்டவர் என்பதே சரி.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "சான்றுகள் உள்ளன.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியருக்குப் பின், ஆனால் காக்கை பாடினியாருக்கு முன்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "பல்காயனார் எத்தனை அசை வகைகளை ஏற்றுக்கொண்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2 (நேர், நிரை)",
+        "rationale": "காக்கை பாடினியார் 2 ஏற்றார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4 (நேர், நிரை, நேர்பு, நிரைபு)",
+        "rationale": "பல்காயனார் நாலசைப் பொதுச்சீரும் வேண்டினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொல்காப்பியர் கூறிய நான்கு வகைகளையும் ஏற்றார்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "பல்காயனார் உயிர்மெய் எழுத்துக்களின் எண்ணிக்கை என்னவென்று கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "216",
+        "rationale": "இருநூற்று ஒருபத்தாறு உயிர்மெய்யே என்று கணக்கிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "247",
+        "rationale": "இது மொத்த எழுத்துக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "90",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "12 உயிரும் 18 மெய்யும் சேர்ந்தால் வரும் எண்ணிக்கை."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பன்னிரு படலம் யாரால் இயற்றப்பட்டது எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "12 ஆழ்வார்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12 அகத்தியர் மாணவர்கள்",
+        "rationale": "தொல்காப்பியர் முதல் பன்னிரு புலவரும் சேர்ந்து இயற்றியதாகக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "12 நாயன்மார்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12 அரசர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்தியரின் சீடர்கள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பன்னிரு படலம் எப்பொருள் பற்றிய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "இது புறப்பொருள் இலக்கணம் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போர் மற்றும் வீரம் பற்றியது."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பன்னிரு படலத்தின் வழிநூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள் வெண்பா மாலை",
+        "rationale": "பன்னிரு படலம் முதல் நூலாக வழிநூல் செய்த வெண்பாமாலை ஐயனாரிதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தம்பிப் பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறநானூறு",
+        "rationale": "இது இலக்கியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐயனாரிதனார் இயற்றிய நூல்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "தொல்காப்பியர் பன்னிரு படலத்தில் எந்தப் படலத்தைப் பாடினார் என்று ஒரு சாரார் கூறுவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெட்சி",
+        "rationale": "வெட்சிப் படலம் பாடினார் என்ற கருத்து வழங்குகிறது, ஆனால் இளம்பூரணர் மறுக்கிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழிஞை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தும்பை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போரின் தொடக்கமாக ஆநிரை கவர்தலைக் கூறும் திணை."
+  },
+  {
+    "questionNumber": 38,
+    "question": "பன்னிரு படலம் கைக்கிளை, பெருந்திணை ஆகியவற்றை எத்திணையாகக் கொள்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்திணை",
+        "rationale": "தொல்காப்பியர் அகத்திணை என்றார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறத்திணை",
+        "rationale": "பன்னிரு படலம் இவற்றை அகத்திணைப் புறம் (புறப்பொருள்) எனக் கொள்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொதுவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூறவில்லை",
+        "rationale": "கூறியுள்ளது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திற்குப் புறம்பானது."
+  },
+  {
+    "questionNumber": 39,
+    "question": "மயேச்சுரர் என்னும் பெயருடையவர் வேறு எப்பெயரால் அழைக்கப்பட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேராசிரியர்",
+        "rationale": "யாப்பருங்கல விருத்தியுடையார் இவரை 'பேராசிரியர்' என்று பல இடங்களில் அழைக்கிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சேனாவரையர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கல்லூரி ஆசிரியர்களை இப்படி அழைப்போம்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "மயேச்சுரர் எம்மொழி வழியைப் பின்பற்றிய தமிழாசிரியர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெலுங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கன்னடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடநூல் (வடமொழி)",
+        "rationale": "இவர் வடநூல் வழித் தமிழாசிரியர் என்று அறியப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலையாளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமஸ்கிருதத்தின் வேறு பெயர்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "மயேச்சுரர் அசை வகைகளுக்கு எவ்வகை குறியீடுகளைப் பயன்படுத்தினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அ, ஆ, இ, ஈ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "க, ங, ச, ஞ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ர, ட, ரு, டு",
+        "rationale": "நேர், நிரை, நேர்பு, நிரைபு அசைகளுக்கு ர, ட, ரு, டு வடிவங்களை இட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "1, 2, 3, 4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழிச் சாயல் உள்ள எழுத்துக்கள்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "மயேச்சுரர் எம்முறையைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "இவர் சிவநெறிச் சிந்தையராகத் திகழ்ந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "அவிநயனார் சமணர், மயேச்சுரர் சைவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவனை வழிபடுபவர்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "மயேச்சுரர் எந்தப் பாவகையின் இலக்கணத்தை விரிவாகக் கூறியுள்ளார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வண்ணக ஒத்தாழிசைக் கலிப்பா",
+        "rationale": "இதன் இலக்கணத்தைப் பிறரினும் இவர் மிக விரிவாகக் கூறுகின்றார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலிப்பாவின் ஒரு வகை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "மயேச்சுரர் வஞ்சிப்பாவுக்கு எத்தனை அடி சிறுமை (Minimum lines) எனக் கொண்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "இது பிறர் கருத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "மயேச்சுரர் ஈரடிச் சிறுமை கொண்டதைக் குறிப்பிடுகிறார் யாப்பருங்கல விருத்தியுரைகாரர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறளையும் விடச் சிறியது."
+  },
+  {
+    "questionNumber": 45,
+    "question": "அவிநயனார் எழுதியதாகக் கருதப்படும் 'நாலடி நாற்பது' எவ்வகை யாப்பால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "அது வெண்பா யாப்பான் இயன்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருக்குறள், நாலடியார் போன்ற நூல்கள் இயற்றப்பட்ட பா வகை."
+  },
+  {
+    "questionNumber": 46,
+    "question": "காக்கை பாடினியார் பாடல்களில் சீரை எதன் அடிப்படையில் கணக்கிட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்தளவு",
+        "rationale": "இது தொல்காப்பிய முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீர் வகை",
+        "rationale": "காக்கை பாடினியம் சீர்வகை அடிகளைக் கொள்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தளை வகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடி வகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடலின் உறுப்புகளில் ஒன்று."
+  },
+  {
+    "questionNumber": 47,
+    "question": "நத்தத்தர் எந்த யாப்பிலும் நூல் செய்தார் எனக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா யாப்பு",
+        "rationale": "நத்தத்தர் வெண்பா யாப்பிலும் நூல் செய்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருத்த யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துறை யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாழிசை யாப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாலடி நாற்பது போல."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பல்காயம் எதைப் பற்றிய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு",
+        "rationale": "இவர் யாப்பிலக்கணமே கூறினார் என்பது விளங்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செய்யுள் இயற்றும் கலை."
+  },
+  {
+    "questionNumber": 49,
+    "question": "அவிநயனார் அகவல் வண்ணத்தைத் தவிர வேறு எத்தனை வண்ணங்களைக் கூறினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4",
+        "rationale": "தூங்கிசை, ஏந்திசை, அடுக்கிசை, பிரிந்திசை, மயங்கிசை எனப் பல உள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "20",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "மொத்தம் 100 வண்ணங்கள் என்று பெருக்கிக் கொண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "96",
+        "rationale": "சிற்றிலக்கிய வகைகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறு."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'பாவென மொழியினும் தூக்கினது பெயரே' என்று கூறியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நத்தத்தனார்",
+        "rationale": "நத்தத்தர் இப்பாடலை இயற்றியுள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பல்காயனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவிநயனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நத்தத்தம் நூலின் ஆசிரியர்."
+  }
+]

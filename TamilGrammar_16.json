@@ -1,0 +1,1407 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'தொன்னூல் விளக்கம்' என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "இத்தாலிய நாட்டைச் சேர்ந்த கான்ஸ்டன்டைன் ஜோசப் பெஸ்கி என்ற இயற்பெயர் கொண்ட வீரமாமுனிவர் இயற்றியதே தொன்னூல் விளக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஜி.யு.போப்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீகன் பால்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேம்பாவணி ஆசிரியர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தொன்னூல் விளக்கம் எவ்வகை இலக்கண நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்திலக்கணம்",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, அணி ஆகிய ஐந்து இலக்கணங்களையும் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்து, சொல் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பு மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீரசோழியம், இலக்கண விளக்கம் போல."
+  },
+  {
+    "questionNumber": 3,
+    "question": "வீரமாமுனிவர் தொன்னூல் விளக்கத்தை எந்த நூலை அடிப்படையாகக் கொண்டு இயற்றினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல் (மற்றும் தொல்காப்பியம்)",
+        "rationale": "முக்கியமாக நன்னூலையும், பிற இலக்கண நூல்களையும் தழுவி எளிய நடையில் இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பவணந்தி முனிவர் நூல்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "தொன்னூல் விளக்கம் நூல் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குட்டித் தொல்காப்பியம்",
+        "rationale": "இது இலக்கண விளக்கத்திற்குரிய பெயர் (சிலர் இதனையும் அவ்வாறு அழைப்பதுண்டு எனினும், சரியான சிறப்புப் பெயர் வேறு).",
+        "isCorrect": false
+      },
+      {
+        "text": "பரமார்த்த குரு இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்திலக்கணத் தொன்னூல்",
+        "rationale": "ஐந்திலக்கணங்களையும் சுருக்கமாகவும் தெளிவாகவும் கூறுவதால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிறித்தவ இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 5,
+    "question": "வீரமாமுனிவர் எந்த நாட்டைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இத்தாலி",
+        "rationale": "இவர் இத்தாலி நாட்டில் பிறந்தவர், சமயப் பணிக்காகத் தமிழகம் வந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இங்கிலாந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரான்ஸ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜெர்மனி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ரோம் நகரம் உள்ள நாடு."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தொன்னூல் விளக்கத்தில் மொத்தம் எத்தனை சூத்திரங்கள் (நூற்பாக்கள்) உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "370",
+        "rationale": "ஐந்து அதிகாரங்களையும் சேர்த்து மொத்தம் 370 நூற்பாக்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "1000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "462",
+        "rationale": "இது நன்னூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1610",
+        "rationale": "இது தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "370",
+        "rationale": "சரியான விடை.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "முந்நூற்று எழுபது."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'பிரபந்த தீபம்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர் தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவேங்கடலையான்",
+        "rationale": "பிரபந்த தீபத்தை இயற்றியவர் திருவேங்கடலையான் (இவர் ஒரு அந்தணர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணவீர பண்டிதர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருப்பதிப் பெருமாள் பெயர்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "பிரபந்த தீபம் எதைப் பற்றிய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டியல் (சிற்றிலக்கிய இலக்கணம்)",
+        "rationale": "96 வகைச் சிற்றிலக்கியங்களின் இலக்கணத்தை விளக்கும் பாட்டியல் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விளக்கு ஏற்றுவது பற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமையல் குறிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீபம் = விளக்கு (விளக்கும் நூல்)."
+  },
+  {
+    "questionNumber": 9,
+    "question": "பிரபந்த தீபம் எத்தனை பாடல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "97",
+        "rationale": "மொத்தம் 97 நூற்பாக்களால் ஆனது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1000",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூறுக்கும் குறைவு."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'பிரபந்தத் திரட்டு' என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல பாட்டியல் நூல்களிலிருந்து தொகுக்கப்பட்ட நூல்",
+        "rationale": "முந்தைய பாட்டியல் நூல்களின் கருத்துக்களைத் தொகுத்து (திரட்டி) உருவாக்கப்பட்ட நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதைத் தொகுப்பு",
+        "rationale": "இலக்கணத் தொகுப்பு, இலக்கியம் அன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திரட்டு."
+  },
+  {
+    "questionNumber": 11,
+    "question": "வீரமாமுனிவர் தொன்னூல் விளக்கத்தில் உரைநடைக்கு இலக்கணம் வகுத்துள்ளாரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "வீரமாமுனிவர் உரைநடை வளர்ச்சிக்கு வித்திட்டவர். தொன்னூலில் உரைநடை வகைகளைப் பற்றிய குறிப்புகள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்யுளுக்கு மட்டுமே வகுத்தார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கொடுந்தமிழ்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'இரத்தினச் சுருக்கம்' என்ற நூலை இயற்றியதாகக் கருதப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகழேந்திப் புலவர்",
+        "rationale": "நளவெண்பா பாடிய புகழேந்திப் புலவர் இதனை இயற்றியதாகக் கருதப்படுகிறது (ஆனால் இது பிற்காலத்தவர் ஒருவரின் படைப்பாகவும் இருக்கலாம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டக்கூத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நளவெண்பா."
+  },
+  {
+    "questionNumber": 13,
+    "question": "இரத்தினச் சுருக்கம் எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமை மற்றும் உருவகங்களை (குறிப்பாக வர்ணனைகள்)",
+        "rationale": "பெண்களின் உறுப்புகளை வர்ணிக்கப் பயன்படும் உவமைகளைத் தொகுத்துக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறக்கருத்துகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் முறைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வர்ணனை நூல்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'உவமான சங்கிரகம்' என்ற நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவேங்கட ஐயர்",
+        "rationale": "திருவேங்கட ஐயர் (அல்லது திருவேங்கட சுப்பையர்) என்பவர் இந்நூலை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நம்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருப்பதி."
+  },
+  {
+    "questionNumber": 15,
+    "question": "உவமான சங்கிரகம் எதைப் பற்றிய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமைகள் (Similes)",
+        "rationale": "சங்கிரகம் என்றால் தொகுப்பு. இலக்கியங்களில் வரும் நிலையான உவமைகளை (முகம்=நிலவு, கண்=மலர்) தொகுத்துக் கூறும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்கம் பற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Comparison."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'முத்து வீரியம்' என்ற நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்து வீரிய உபாத்தியாயர்",
+        "rationale": "இவர் பெயரிலேயே நூல் முத்து வீரியம் என அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முத்துத் தாண்டவர்",
+        "rationale": "இவர் இசைக்கலைஞர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்துசாமி தீட்சிதர்",
+        "rationale": "இவர் இசைக்கலைஞர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆசிரியர் பெயர்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "முத்து வீரியம் எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்திலக்கணம்",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, அணி ஆகிய ஐந்தையும் விளக்கும் நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகப்பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐந்து."
+  },
+  {
+    "questionNumber": 18,
+    "question": "முத்து வீரியம் எந்த நூற்றாண்டைச் சேர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 19ஆம் நூற்றாண்டு",
+        "rationale": "இது பிற்காலத்தில் தோன்றிய ஒரு விரிவான இலக்கண நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி.பி. 2ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 12ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 3ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆங்கிலேயர் காலம்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "தொன்னூல் விளக்கத்தில் வீரமாமுனிவர் எதனை வலியுறுத்துகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுருக்கம் மற்றும் தெளிவு",
+        "rationale": "மாணவர்கள் எளிதில் புரிந்து கொள்ளும் வகையில் சுருக்கமாகவும், தெளிவாகவும் இலக்கணம் வகுத்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடினமான நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி ஆதிக்கம்",
+        "rationale": "வீரசோழியம் அளவு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்யுள் இயற்றுதல்",
+        "rationale": "மட்டும் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விளக்கம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'சுவாமி நாதம்' என்ற இலக்கண நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுவாமி கவிராயர்",
+        "rationale": "இவர் பெயரால் நூல் 'சுவாமி நாதம்' எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுவாமி விவேகானந்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவஞான முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உ.வே.சா",
+        "rationale": "அவர் பதிப்பாசிரியர் (சுவாமிநாத ஐயர்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிராயர்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "சுவாமி நாதம் எவ்வகை நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்திலக்கணம்",
+        "rationale": "இதுவும் ஒரு ஐந்திலக்கண நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசை நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடக நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகராதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முத்து வீரியம் போல."
+  },
+  {
+    "questionNumber": 22,
+    "question": "வீரமாமுனிவர் தமிழுக்குச் செய்த மற்றொரு இலக்கணப் பணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சதுரகராதி",
+        "rationale": "தமிழின் முதல் அகராதியான சதுரகராதியைத் தொகுத்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள் உரை",
+        "rationale": "மொழிபெயர்ப்பு செய்தார், உரை அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீவகசிந்தாமணி பதிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வெட்டு ஆய்வு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Dictionary."
+  },
+  {
+    "questionNumber": 23,
+    "question": "பிரபந்த தீபத்தின் ஆசிரியர் திருவேங்கடலையான் எந்த ஊரைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரை (வீராபுரம்)",
+        "rationale": "இவர் 'வீரைக் கவிராச பண்டிதர்' என்றும் அழைக்கப்படுகிறார் (சௌந்தரிய லகரி மொழிபெயர்த்தவர்).",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவேங்கடம்",
+        "rationale": "பெயர் அப்படி இருந்தாலும் ஊர் வேறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீரைக் கவிராசர்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "பிரபந்தத் திரட்டு நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர் தெரியவில்லை",
+        "rationale": "இது ஒரு தொகுப்பு நூல் என்பதால் தொகுத்தவர் பெயர் அறியப்படவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அநாமதேயர்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "இரத்தினச் சுருக்கம் நூலில் கூறப்படும் கருத்துகள் எதற்குப் பயன்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கவிதை இயற்றவும், வர்ணனை செய்யவும்",
+        "rationale": "கவிஞர்கள் பெண்களை வர்ணிக்கும்போது எவ்வுறுப்புக்கு எதனை உவமையாகக் கூற வேண்டும் என்ற மரபை இது கற்பிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் புரிய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாணிகம் செய்ய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருந்து செய்ய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிஞர்களுக்கு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "தொன்னூல் விளக்கத்தில் 'ஐந்திலக்கணம்' தவிர வேறு என்ன உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எதுவும் இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி, தென்மொழி ஒப்பீடு மற்றும் கிறிஸ்தவக் கருத்துக்கள் சில",
+        "rationale": "உரையில் கிறிஸ்தவ நூல்களை மேற்கோள் காட்டுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இஸ்லாமியக் கருத்துக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சைவ சித்தாந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிஷனரி பணி."
+  },
+  {
+    "questionNumber": 27,
+    "question": "முத்து வீரியம் நூல் யாப்பிலக்கணத்தில் எதற்கு முக்கியத்துவம் தருகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வண்ணம் (Rhythm)",
+        "rationale": "தொல்காப்பியர் கூறிய 20 வண்ணங்களையும் விரிவாக விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தம்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "உவமான சங்கிரகம் நூலின் பா வகை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருத்தம் மற்றும் வெண்பா",
+        "rationale": "கட்டளைக் கலித்துறை, வெண்பா போன்றவற்றில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலவை."
+  },
+  {
+    "questionNumber": 29,
+    "question": "சுவாமி நாதம் தோன்றிய காலம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19ஆம் நூற்றாண்டு (1830)",
+        "rationale": "கி.பி. 19ஆம் நூற்றாண்டின் முற்பகுதியில் தோன்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "13ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "20ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நவீன காலம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "தொன்னூல் விளக்கம் உரைநடை வகைகளை எவ்வாறு பிரிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செந்தமிழ் நடை, கொடுந்தமிழ் நடை",
+        "rationale": "இலக்கிய வழக்கு மற்றும் பேச்சு வழக்கு (Dialect) ஆகியவற்றை வேறுபடுத்திக் காட்டுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கில நடை, தமிழ் நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடக நடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "High Tamil vs Low Tamil."
+  },
+  {
+    "questionNumber": 31,
+    "question": "இரத்தினச் சுருக்கம் நூலில் எதற்கு உவமை கூறப்படவில்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆண்களுக்கு",
+        "rationale": "இந்நூல் பெண்களின் அங்க வர்ணனைக்கே முக்கியத்துவம் தருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெண்களுக்கு",
+        "rationale": "பெண்களுக்கே கூறப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயற்கைக்கு",
+        "rationale": "இயற்கைப் பொருட்களைக் கொண்டே உவமை கூறப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "விலங்குகளுக்கு",
+        "rationale": "விலங்குகளும் உவமையாக வருகின்றன.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலைவி வருணனை."
+  },
+  {
+    "questionNumber": 32,
+    "question": "பிரபந்த தீபம் 96 வகைச் சிற்றிலக்கியங்களைப் பட்டியலிடுகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "பாட்டியல் நூல்களுள் 96 வகைகளையும் விளக்கிக் கூறும் நூல்களில் இது முக்கியமானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10 மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொண்ணூற்றாறு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "வீரமாமுனிவர் தொன்னூல் விளக்கத்திற்கு உரை எழுதினாரா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், அவரே உரை எழுதினார்",
+        "rationale": "நூற்பாவையும் உரையையும் அவரே இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேறு ஒருவர் எழுதினார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரை கிடைக்கவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுய உரை."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'கை' என்பதற்கு இரத்தினச் சுருக்கம் கூறும் உவமை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காந்தள் மலர்",
+        "rationale": "பெண்களின் கைக்குச் செங்காந்தள் மலர் உவமை.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "முகம்/கண்/பாதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அல்லி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரோஜா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கார்த்திகைப்பூ."
+  },
+  {
+    "questionNumber": 35,
+    "question": "முத்து வீரியம் எத்தனை நூற்பாக்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1286",
+        "rationale": "மிக விரிவான நூல், ஆயிரத்திற்கும் மேற்பட்ட நூற்பாக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "370",
+        "rationale": "இது தொன்னூல் விளக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "462",
+        "rationale": "இது நன்னூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயிரத்து இருநூறு."
+  },
+  {
+    "questionNumber": 36,
+    "question": "சுவாமி நாதம் நூல் அமைப்பில் எதனைப் பின்பற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் முறையை அடியொற்றி ஐந்திலக்கணங்களையும் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "நேரடியாக இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பவணந்தி வழி."
+  },
+  {
+    "questionNumber": 37,
+    "question": "தொன்னூல் விளக்கத்தில் 'நூல்' என்பதற்கு வீரமாமுனிவர் தரும் விளக்கம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறிவை வளர்க்கும் கருவி",
+        "rationale": "கல்வி கற்பதற்கு அடிப்படையானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆடை நெய்யும் நூல்",
+        "rationale": "உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலத்தீன் கல்வி முறை தாக்கம்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "பிரபந்த தீபத்தின் சிறப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிற்றிலக்கிய வகைகளைத் தெளிவாக வரையறுத்தது",
+        "rationale": "ஒவ்வொரு பிரபந்தத்திற்கும் உரிய இலக்கணத்தைத் தெளிவாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கதை சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாறு கூறுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Definition of genres."
+  },
+  {
+    "questionNumber": 39,
+    "question": "உவமான சங்கிரகம் யாருக்குப் பயன்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம் கவிஞர்களுக்கு",
+        "rationale": "மரபு மாறாமல் உவமை கூற விரும்பும் புதிய கவிஞர்களுக்கு இது கையேடு போன்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "விஞ்ஞானிகளுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்களுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவர்களுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கையேடு."
+  },
+  {
+    "questionNumber": 40,
+    "question": "முத்து வீரியம் குறிப்பிடும் 'வழு' வகைகள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியத்தை விட விரிவானது",
+        "rationale": "காலப்போக்கில் ஏற்பட்ட மாற்றங்களால் வழுக்களின் வகைகளை விரிவாகப் பேசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுருக்கமானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரே ஒரு வழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரிவு."
+  },
+  {
+    "questionNumber": 41,
+    "question": "வீரமாமுனிவர் தமிழுக்கு அறிமுகப்படுத்திய புதிய வரிவடிவ மாற்றம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எ, ஏ, ஒ, ஓ வேறுபாடு (புள்ளி வைத்தல் மற்றும் சுழித்தல்)",
+        "rationale": "குறில் 'எ', 'ஒ' விற்குப் புள்ளி வைப்பதையும், நெடில் 'ஏ', 'ஓ' வைச் சுழிப்பதையும் (கீழ் விலங்கு) முறைப்படுத்தினார். (இது தொன்னூல் விளக்கத்தில் நேரடியாக இல்லாவிட்டாலும் அவர் செய்த இலக்கணப் பணி).",
+        "isCorrect": true
+      },
+      {
+        "text": "புதிய எழுத்துக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிரந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கில எழுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ/ஏ வித்தியாசம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "பிரபந்தத் திரட்டு நூலைத் தொகுத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தொகுப்பாசிரியர் பெயர் கிடைக்கவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நச்சினார்க்கினியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உ.வே.சா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Unknown."
+  },
+  {
+    "questionNumber": 43,
+    "question": "இரத்தினச் சுருக்கம் எவ்வகை யாப்பால் ஆனது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா (71 பாடல்கள்)",
+        "rationale": "இந்நூல் வெண்பாக்களால் இயற்றப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நளவெண்பா ஆசிரியர் பெயரால்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "உவமான சங்கிரகம் எந்தக் காலத்தைச் சேர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.பி. 17 அல்லது 18ஆம் நூற்றாண்டு",
+        "rationale": "பிற்கால நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.பி. 10ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி.மு. 2ஆம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாயக்கர் காலத்திற்குப் பின்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "முத்து வீரியம் நூல் யாரால் பதிப்பிக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கே.ஆர். கோவிந்தராச முதலியார்",
+        "rationale": "பிற்காலத்தில் இந்நூலைப் பதிப்பித்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உ.வே.சா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சி.வை.தாமோதரம் பிள்ளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுமுக நாவலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு முதலியார்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "சுவாமி நாதம் நூலில் உள்ள இயல்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "ஐந்திலக்கண நூல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நன்னூல் மரபு."
+  },
+  {
+    "questionNumber": 47,
+    "question": "தொன்னூல் விளக்கம் 'விருத்தம்' பற்றி விளக்குகிறதா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம், யாப்பதிகாரத்தில்",
+        "rationale": "யாப்பு அதிகாரத்தில் விருத்தப் பாக்களின் இலக்கணத்தை விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பா மட்டும் உண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா மட்டும் உண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேம்பாவணி விருத்தத்தால் ஆனது."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பிரபந்த தீபம் கூறும் சிற்றிலக்கியங்களுள் ஒன்று?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலம்பகம்",
+        "rationale": "கலம்பகம், உலா, பரணி போன்றவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "இது காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "இது அறநூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "இது இலக்கண நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பல வகை கலந்தது."
+  },
+  {
+    "questionNumber": 49,
+    "question": "வீரமாமுனிவரின் தமிழ் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுப்பிரதீபக் கவிராயர்",
+        "rationale": "வீரமாமுனிவருக்குத் தமிழ் கற்பித்த ஆசிரியர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மீனாட்சிசுந்தரம் பிள்ளை",
+        "rationale": "இவர் உ.வே.சா ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவள்ளுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கவிராயர்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "பிற்கால இலக்கண நூல்கள் (முத்து வீரியம், சுவாமி நாதம் போன்றவை) ஏன் தோன்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காலமாற்றத்தால் மொழியில் ஏற்பட்ட மாற்றங்களைப் பதிவு செய்யவும், மாணவர்களுக்கு எளிமைப்படுத்தவும்",
+        "rationale": "பழைய நூல்கள் கடினமாக இருந்ததாலும், புதிய இலக்கிய வடிவங்கள் தோன்றியதாலும் புதிய இலக்கண நூல்கள் தேவைப்பட்டன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழைய நூல்களை அழிக்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர்களை மகிழ்விக்க மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொழுதுபோக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காலத்தின் தேவை."
+  }
+]

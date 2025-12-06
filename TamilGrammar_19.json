@@ -1,0 +1,842 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நன்னூலுக்கு 'விருத்தியுரை' எழுதிய சங்கர நமச்சிவாயர் எந்த மடத்தைச் சார்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவாவடுதுறை ஆதீனம்",
+        "rationale": "இவர் திருவாவடுதுறை ஆதீனத்தைச் சார்ந்தவர். இவருடைய உரை மிக விரிவானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தருமபுரம் ஆதீனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காசி மடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை ஆதீனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சைவ மடம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "சிவஞான முனிவர் எழுதிய 'நன்னூல் புத்தம் புத்துரை' எதனை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்கர நமச்சிவாயர் உரை",
+        "rationale": "சங்கர நமச்சிவாயர் எழுதிய விருத்தியுரையில் காணப்பட்ட பிழைகளைத் திருத்தி, மேலும் விளக்கங்களைச் சேர்த்து 'திருத்திய உரை'யாக இதை வெளியிட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயிலைநாதர் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுமுக நாவலர் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளம்பூரணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருத்தப்பட்ட உரை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "கூழங்கைத் தம்பிரான் உரை நன்னூலுக்குச் செய்த சிறப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஈழத்து மரபில் எழுந்த உரை மற்றும் உதாரணங்கள்",
+        "rationale": "ஈழத்தைச் சேர்ந்த இவர் எழுதிய உரை, நன்னூலுக்குக் கிடைத்த பழமையான மற்றும் சிறப்பான உரைகளுள் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கில விளக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்யுள் வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி விளக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கையை இழந்தவர் (கூழங்கை)."
+  },
+  {
+    "questionNumber": 4,
+    "question": "விசாகப் பெருமாளையர் எழுதிய நன்னூல் காண்டிகை உரை யாரை மனதில் கொண்டு எழுதப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்வி கற்கும் மாணவர்கள் (Student-friendly)",
+        "rationale": "வினா-விடை அமைப்பிலும், எளிமையான நடையிலும் மாணவர்களுக்காகவே பிரத்யேகமாக எழுதப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆராய்ச்சியாளர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி அறிஞர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வினா விடை."
+  },
+  {
+    "questionNumber": 5,
+    "question": "ஆறுமுக நாவலர் எழுதிய நன்னூல் உரை எவ்வாறு போற்றப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாவலர் உரை (திட்பமும் நுட்பமும் வாய்ந்தது)",
+        "rationale": "பிழையற்ற, செறிவான உரைநடைக்கு எடுத்துக்காட்டாக நாவலர் உரை திகழ்கிறது. இது 'காண்டிகை' வகையைச் சார்ந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிதை உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடக உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வசன நடை கைவந்த வல்லாளர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "இராமாநுசக் கவிராயர் உரை எந்தக் காலத்தில் முக்கியத்துவம் பெற்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19ஆம் நூற்றாண்டில் அச்சுக்கலை வளர்ந்த போது",
+        "rationale": "சென்னையில் கல்விச் சங்கம் தோன்றிய காலத்தில் இவர் உரை பதிப்பிக்கப்பட்டுப் பரவலானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சென்னை."
+  },
+  {
+    "questionNumber": 7,
+    "question": "சடகோப ராமாநுசாசாரியார் பதிப்பித்த நன்னூல் பதிப்பின் சிறப்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல உரைகளை ஒப்பிட்டு ஆய்வுப்பதிப்பாக வெளியிட்டது",
+        "rationale": "வை.மு. சடகோப ராமாநுசாசாரியார் மாணவர்கள் பயன்பெறும் வகையில் விரிவான விளக்கங்களுடன் கூடிய காண்டிகை உரையை வெளியிட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுருக்கமானது",
+        "rationale": "இல்லை, விரிவானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிழையானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலப் பதிப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கல்லூரி மாணவர் பதிப்பு."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'காண்டிகை உரை' என்பதன் இலக்கணம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூத்திரத்தின் பொருளைச் சுருக்கமாகவும், தெளிவாகவும், உதாரணத்துடனும் கூறுவது",
+        "rationale": "மிக விரிவாக இல்லாமல், கருத்தையும் உதாரணத்தையும் மட்டும் காட்டுவது காண்டிகை.",
+        "isCorrect": true
+      },
+      {
+        "text": "சூத்திரத்திற்குத் தொடர்பில்லாததை விளக்குவது (விருத்தி)",
+        "rationale": "விருத்தி என்பது ஐயமறுக்க விரிவாகப் பேசுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதவுரை மட்டும் தருவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொழிப்புரை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Compact Commentary."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'விருத்தியுரை' என்பதன் இலக்கணம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூத்திரப் பொருளை ஐயமற விரிவாகவும், பிறர் கூற்றை மறுத்தும், நிறுவியும் விளக்குவது",
+        "rationale": "ஆழமான ஆய்வுத் தன்மை கொண்டது விருத்தியுரை.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுருக்கமாகச் சொல்வது",
+        "rationale": "அது காண்டிகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் வடிவில் சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Detailed Commentary."
+  },
+  {
+    "questionNumber": 10,
+    "question": "நன்னூல் உரையாசிரியர்கள் எந்த இலக்கண நூலை அடிக்கடி மேற்கோள் காட்டுவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "மூல நூலான தொல்காப்பியத்தோடு நன்னூல் எங்கு ஒத்துப்போகிறது, எங்கு மாறுபடுகிறது என்பதை விளக்குவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "இலக்கிய மேற்கோளாக வரும், இலக்கண மேற்கோளாக அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெரியபுராணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் நூல்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "20ஆம் நூற்றாண்டின் தொடக்கத்தில் தோன்றிய 'தமிணூல்' (கோ. வடிவேலு செட்டியார்) எதனை வலியுறுத்தியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கணத்தைத் தருக்க ரீதியாகவும் (Logic), அறிவியல் பார்வையோடும் அணுகுவது",
+        "rationale": "பழைய மரபை மட்டும் பின்பற்றாமல், அறிவுப்பூர்வமான காரண காரியங்களுடன் இலக்கணத்தை விளக்கினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புராணக் கதைகளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சடங்குகளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல்களை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Rational approach."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'தமிழ் இலக்கணக் கும்மி' நூலின் நோக்கம் என்னவாக இருந்திருக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெண்களுக்கும் பாமரர்களுக்கும் இலக்கணத்தைக் கொண்டு சேர்ப்பது",
+        "rationale": "கடினமான இலக்கண விதிகளை, பெண்கள் விளையாடும் 'கும்மி' பாடல் வடிவில் தந்து பரவலாக்கியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசவைப் புலவர்களுக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆராய்ச்சிக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோயில் வழிபாட்டிற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Folk media for education."
+  },
+  {
+    "questionNumber": 13,
+    "question": "நன்னூல் உரைகளில் 'பாடபேதம்' (Textual variations) அதிகம் காணப்படக் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கையெழுத்துப் பிரதிகளில் ஏற்பட்ட பிழைகள் மற்றும் உரையாசிரியர்களின் திருத்தங்கள்",
+        "rationale": "ஓலைச்சுவடிகளைப் படியெடுக்கும்போது ஏற்பட்ட மாற்றங்களும், உரையாசிரியர்கள் தங்கள் கொள்கைக்கு ஏற்பச் செய்த திருத்தங்களும் காரணம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அச்சு இயந்திரக் கோளாறு",
+        "rationale": "ஓலைச்சுவடி காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகிதத் தரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேண்டுமென்றே மாற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஓலைச்சுவடிப் பிழை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'விருத்தப் பாவியல்' நூல் (தண்டபாணி சுவாமிகள்) தமிழுக்கு ஏன் தேவைப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பக்தி இலக்கியக் காலத்தில் 'விருத்தப்பா'க்களின் செல்வாக்கு அதிகமானதால்",
+        "rationale": "கம்பராமாயணம், சீவகசிந்தாமணி, திருப்புகழ் போன்றவற்றால் விருத்தப் பாக்களின் வகைகள் பெருகின, அதற்கு முறையான இலக்கணம் தேவைப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா வழக்கொழிந்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியம் விருத்தத்தைத் தடை செய்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரைநடை குறைந்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தப் பாடல்கள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "இலக்கண வரலாற்றில் 'பதிப்பாசிரியர்களின் காலம்' (Era of Editors) என்று எதைக் கூறலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "19 மற்றும் 20ஆம் நூற்றாண்டு",
+        "rationale": "சி.வை.தாமோதரம் பிள்ளை, உ.வே.சா, ஆறுமுக நாவலர் போன்றோர் பழைய இலக்கண நூல்களைச் செம்மைப்படுத்தி அச்சிட்ட காலம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாயக்கர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அச்சுக்கலை."
+  },
+  {
+    "questionNumber": 16,
+    "question": "தொல்காப்பியத்திற்கும் நன்னூலுக்கும் இடைப்பட்ட காலத்தில் தோன்றிய இலக்கண நூல்கள் எதை உணர்த்துகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழி வளர்ச்சியையும், வடமொழித் தாக்கத்தையும், புதிய இலக்கிய வடிவங்களின் (சிற்றிலக்கியம்) தோற்றத்தையும்",
+        "rationale": "வீரசோழியம், பாட்டியல் நூல்கள் போன்றவை காலமாற்றத்தைப் பதிவு செய்கின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழி அழிவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கணச் சிதைவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுவுமில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Evolution."
+  },
+  {
+    "questionNumber": 17,
+    "question": "பவணந்தி முனிவர் நன்னூலில் 'எழுத்து' அதிகாரத்தில் 'பதவியல்' சேர்த்தது ஏன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொற்களைப் பிரித்தறியும் அறிவு (Morphology) மொழிக்கு அடிப்படை என்பதால்",
+        "rationale": "சொற்களைப் பகுதி, விகுதி எனப் பிரித்தால்தான் பொருள் கொள்ளவும், புணர்ச்சி விதியை அறியவும் முடியும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியத்தை எதிர்க்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழியைப் புகுத்த",
+        "rationale": "தவறு, இது தமிழின் தேவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்கத்தை நிரப்ப",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்லின் கட்டமைப்பு."
+  },
+  {
+    "questionNumber": 18,
+    "question": "நன்னூல் உரை வரலாற்றில் 'சங்கர நமச்சிவாயர்' உரையின் நிலை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகவும் ஆழமானது, ஆனால் சிவஞான முனிவரால் திருத்தப்பட்டது",
+        "rationale": "இன்று நாம் படிக்கும் 'விருத்தியுரை' பெரும்பாலும் சிவஞான முனிவர் திருத்திய வடிவமே.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிடைக்கவில்லை",
+        "rationale": "கிடைத்துள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிக எளிமையானது",
+        "rationale": "இல்லை, கடினமானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலத்தில் உள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சித்தாந்தப் பார்வை."
+  },
+  {
+    "questionNumber": 19,
+    "question": "தற்காலத்தில் 'கணினித் தமிழ்' (Computational Tamil) ஆய்வுக்கு அடிப்படையாக அமையும் இலக்கணக் கூறு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகுபத உறுப்பிலக்கணம் (Morphological Analysis)",
+        "rationale": "கணினிக்குச் சொற்களைப் புரிந்து கொள்ள (வேர்ச்சொல் அறிதல்) பகுபத முறை மிக அவசியம். நன்னூல் இதில் முன்னோடி.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணி இலக்கணம்",
+        "rationale": "இரண்டாம்பட்சம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாட்டியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Morphology."
+  },
+  {
+    "questionNumber": 20,
+    "question": "நன்னூலார் 'எழுத்து' என்பதை எத்தனையாகப் பிரிக்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு (ஒலி வடிவம், வரி வடிவம்)",
+        "rationale": "எழுதப் படுவதாலும் (வரி), எழுப்பப் படுவதாலும் (ஒலி) எழுத்து எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Sound and Script."
+  },
+  {
+    "questionNumber": 21,
+    "question": "பவணந்தி முனிவர் காலத்திற்குப் பின் தமிழ் இலக்கணத்தில் ஏற்பட்ட பெரிய மாற்றம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உரையாசிரியர்களின் ஆதிக்கம் மற்றும் தனிநூல் முயற்சிகள் குறைவு",
+        "rationale": "நன்னூலுக்குப் பின் பெரிய அளவில் மூல நூல்கள் தோன்றவில்லை (வீரமாமுனிவர் வரை), உரையாசிரியர்களே கோலோச்சினர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூல்களே வரவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கணம் அழிந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழி மறைந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Commentary Era."
+  },
+  {
+    "questionNumber": 22,
+    "question": "சி.ஆர். நமச்சிவாய முதலியார் எழுதிய இலக்கண நூல்கள் எந்த முறையைப் பின்பற்றின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மேலைநாட்டுக் கற்பித்தல் முறை (Inductive/Deductive methods simplified)",
+        "rationale": "மாணவர்களுக்குப் படி, படியாக இலக்கணம் கற்பிக்கும் நவீன முறையைக் கையாண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குருகுல முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மனனம் செய்யும் முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓலைச்சுவடி முறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Modern Pedagogy."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'மயேச்சுரம்' என்ற நூல் எந்த இலக்கணப் பிரிவில் மேற்கோளாகக் காட்டப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாப்பு (குறிப்பாகச் செய்யுளியல் உரை)",
+        "rationale": "யாப்பருங்கல விருத்தியுரையில் மயேச்சுரர் சூத்திரங்கள் யாப்பு தொடர்பாகக் காட்டப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறப்பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்க யாப்பு போல."
+  },
+  {
+    "questionNumber": 24,
+    "question": "இலக்கண நூல்கள் 'மதம்' (கொள்கை) பற்றிக் கூறுவதன் நோக்கம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நூலாசிரியர் தன் கருத்தை நிலைநாட்டும் விதம் மற்றும் பிறர் கருத்தை மறுக்கும் விதத்தை வரையறுக்க",
+        "rationale": "தன் கொள்கை (எந்தம்), பிறர் கொள்கை உடன்படல், மறுத்தல் ஆகிய விவாத நெறிமுறைகளை வகுக்க.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமயத்தைப் பரப்ப",
+        "rationale": "இங்கு மதம் என்பது கொள்கை (School of thought), சமயம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுளை வணங்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் செய்ய",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாத நெறி."
+  },
+  {
+    "questionNumber": 25,
+    "question": "தமிழ் இலக்கண வரலாற்றில் 'தொகுப்பு நூல்கள்' (Anthologies of Grammar) என்று எவற்றைக் கூறலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பன்னிரு பாட்டியல், பிரபந்தத் திரட்டு, புறப்பொருள் வெண்பாமாலை (வழிநூல்)",
+        "rationale": "பல புலவர்களின் கருத்துக்களைத் தொகுத்து உருவான நூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "தனி நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "தனி நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திரட்டு."
+  },
+  {
+    "questionNumber": 26,
+    "question": "நன்னூல் உரையில் 'சங்கர நமச்சிவாயர்' செய்ததாகக் கருதப்படும் ஒரு மாற்றம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிலைநாதர் உரையைத் தழுவி, ஆனால் சைவ சித்தாந்தக் கருத்துக்களை உட்புகுத்தியது",
+        "rationale": "மயிலைநாதர் சமணர், சங்கர நமச்சிவாயர் சைவர். உதாரணப் பாடல்கள் மற்றும் விளக்கங்களில் இம்மாற்றம் தெரியும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூலை முழுமையாக மாற்றியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூலை எரித்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆங்கிலத்தில் எழுதியது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சமய மாற்றம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "இலக்கண நூல்கள் ஏன் 'கடவுள் வாழ்த்து'டன் தொடங்குகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இடையூறு இன்றி நூல் முடியவும், மங்கலமாகவும் இருக்க",
+        "rationale": "இது ஒரு மரபு. தொல்காப்பியத்தில் கடவுள் வாழ்த்து இல்லை (பாயிரம் உண்டு), ஆனால் பிற்கால நூல்கள் (நன்னூல் போன்றவை) கடவுள் வாழ்த்துடன் தொடங்கின.",
+        "isCorrect": true
+      },
+      {
+        "text": "அச்சம் காரணமாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பணம் பெற",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழுக்காக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மங்கல மொழி."
+  },
+  {
+    "questionNumber": 28,
+    "question": "இலக்கண வரலாற்றின் தந்தை என்று யாரைக் கூறலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "கிடைத்துள்ள நூல்களில் மிகத் தொன்மையான, முழுமையான இலக்கணம் தந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "நூல் கிடைக்கவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி",
+        "rationale": "பிற்காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சி.வை.தாமோதரம் பிள்ளை",
+        "rationale": "பதிப்புத் தந்தை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் நூல் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "தொல்காப்பியம் முதல் நன்னூல் வரை உள்ள கால இடைவெளி (தோராயமாக)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1500 ஆண்டுகளுக்கு மேல்",
+        "rationale": "தொல்காப்பியம் (கி.மு. 3ஆம் நூ. அல்லது அதற்கும் முன்) - நன்னூல் (கி.பி. 13ஆம் நூ.). இடைவெளி மிக அதிகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "100 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "500 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமகாலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Long gap."
+  },
+  {
+    "questionNumber": 30,
+    "question": "இறுதியாக, தமிழ் இலக்கண நூல் வரலாறு எதை உணர்த்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ் மொழி காலந்தோறும் தன்னைத் தகவமைத்துக் கொண்டு, செழுமையாக வளர்ந்து வந்துள்ளது",
+        "rationale": "தொல்காப்பியத்தில் தொடங்கி கணினித் தமிழ் வரை இலக்கணம் வளர்ந்துகொண்டே இருக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தமிழ் அழிந்து வருகிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கணம் மாறவே இல்லை",
+        "rationale": "தவறு, மாறியுள்ளது (பழையன கழிதல்).",
+        "isCorrect": false
+      },
+      {
+        "text": "வடமொழியே சிறந்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Semmozhi."
+  }
+]
