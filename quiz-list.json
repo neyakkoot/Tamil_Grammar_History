@@ -3,11 +3,11 @@
     "category": "இலக்கண வரலாறு - இரா.இளங்குமரன்",
     "quizzes": [
       { "file": "TamilGrammar_1.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" },
-      { "file": "TamilGrammar_2.json", "title": "இலக்கண வரலாறு" },
+      { "file": "TamilGrammar_2.json", "title": "இலக்கண வரலாறு 1" },
       { "file": "TamilGrammar_3.json", "title": "முந்து நூல்" },
       { "file": "TamilGrammar_4.json", "title": "அகத்தியம்" },
-      { "file": "TamilGrammar_5.json", "title": "தொல்காப்பியம்" },
-      { "file": "TamilGrammar_6.json", "title": "தொல்காப்பிய உரைகள்" },
+      { "file": "TamilGrammar_5.json", "title": "தொல்காப்பியம் 1" },
+      { "file": "TamilGrammar_6.json", "title": "தொல்காப்பிய உரைகள் 1" },
       { "file": "TamilGrammar_7.json", "title": "இறையனார் அகப்பொருள் & பிந்து நூல்களின் முந்து நூல்கள்" },
       { "file": "TamilGrammar_8.json", "title": "புறப்பொருள் வெண்பாமாலை & உரை" },
       { "file": "TamilGrammar_9.json", "title": "தமிழ் நெறி விளக்கம், யாப்பருங்கலம், யாப்பருங்கலக் காரிகை" },
@@ -17,7 +17,21 @@
       { "file": "TamilGrammar_13.json", "title": "நன்னூல்" },
       { "file": "TamilGrammar_14.json", "title": "அகப்பொருள் விளக்கம், பாட்டியல் நூல்கள், மாறன் நூல்கள்" },
       { "file": "TamilGrammar_15.json", "title": "பிரயோக விவேகம், இலக்கண விளக்கம் & சிற்றிலக்கண நூல்கள்" },
-      { "file": "TamilGrammar_10.json", "title": "முந்து" }
+      { "file": "TamilGrammar_16.json", "title": "தொன்னூல் விளக்கம் & பிற்கால இலக்கண நூல்கள்" },
+      { "file": "TamilGrammar_17.json", "title": "சந்திராலோகம், குவலயானந்தம் & பிற்கால இலக்கண நூல்கள்" },
+      { "file": "TamilGrammar_18.json", "title": "உரைநடை இலக்கண நூல்கள் & நவீன கால இலக்கண முயற்சிகள்" },
+      { "file": "TamilGrammar_19.json", "title": "நன்னூல் உரையாசிரியர்கள் & விடுபட்ட வரலாற்று இணைப்புகள்" },
+      { "file": "TamilGrammar_20.json", "title": "இலக்கண வரலாறு 2" },
+      { "file": "TamilGrammar_21.json", "title": "தொல்காப்பியம் 2" },
+      { "file": "TamilGrammar_22.json", "title": "தொல்காப்பிய உரைகள் 2" },
+      { "file": "TamilGrammar_23.json", "title": "இறையனார் அகப்பொருள்" },
+      { "file": "TamilGrammar_24.json", "title": "முந்து நூல்கள் உள்ளிட்டவை" },
+      { "file": "TamilGrammar_25.json", "title": "புறப்பொருள் வெண்பாமாலை" },
+      { "file": "TamilGrammar_26.json", "title": "யாப்பு இலக்கணநூல்கள்" },
+      { "file": "TamilGrammar_27.json", "title": "இந்திரகாளியம் உள்ளிட நூல்கள்" },
+      { "file": "TamilGrammar_28.json", "title": "நன்னூல், அதன் உரையாசிரியர்கள்" },
+      { "file": "TamilGrammar_29.json", "title": "அகப்பொருள் உள்ளிட்டவை" },
+      { "file": "TamilGrammar_30.json", "title": "முத்துவீரியம் உள்ளிட்டவை" }
     ]
   },
   {
